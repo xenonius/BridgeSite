@@ -1,0 +1,1005 @@
+﻿ACCOUNT_REGISTRATION_NOT_CONFIRMED	You have not confirmed your email address yet. To view the phone bridge token you need to confirm your email address first. 	=	"עדיין לא אישרת את כתובת הדוא""ל שלך. כדי לראות את אסימון גשר הטלפון עליך לאשר קודם את כתובת הדוא""ל שלך."	1
+Apr	Apr 	=	אפר	1
+Aug	Aug 	=	אוג	1
+Average\ number\ of\ days\ take\ for\ the\ leads\ to\ be\ converted\ from\ various\ industries\ for\ the\ past\ 6\ months	Average number of days taken for the {0} to be converted from various industries for the past 6 months 	=	מספר ממוצע של ימים שנדרשו עבור ה {0} להסבה מתעשיות שונות במשך 6 החודשים האחרונים	1
+Average\ number\ of\ days\ taken\ by\ owners\ to\ convert\ the\ leads\ for\ the\ past\ 6\ months	Average number of days taken by owners to convert the {0} for the past 6 months 	=	מספר ממוצע של ימים שנדרשו עבור הבעלים להסב את {0} במשך 6 החודשים האחרונים	1
+Average\ number\ of\ days\ taken\ by\ the\ owner\ to\ win\ their\ potential	Average number of days taken by the owner to win their {0} 	=	מספר ממוצע של ימים שנדרשו עבור הבעלים שלהם כדי לזכות ב  {0}	1
+Average\ number\ of\ days\ taken\ for\ the\ lead\ to\ win\ as\ potential\ from\ various\ lead\ sources	Average number of days taken for the {0} to win as {1} from various {0} sources 	=	מספר ממוצע של ימים שנדרשו עבור {0} כדי לזכות  כ {1}  ממקורות {0} שונים	1
+Average\ number\ of\ days\ taken\ for\ the\ leads\ to\ be\ converted\ from\ various\ sources\ in\ the\ past\ 6\ months	Average number of days taken for the {0} to be converted from various sources in the past 6 months 	=	מספר ממוצע של ימים שנדרשו עבור {0} להסבה ממקורות שונים במהלך 6 החודשים האחרונים	1
+Average\ number\ of\ days\ taken\ for\ the\ leads\ to\ win\ as\ potential\ of\ different\ type	Average number of days taken for the {0} to win as {1} of different type 	=	מספר ממוצע של ימים שנדרשו עבור {0} כדי לזכות כ {1} מסוג אחר	1
+Average\ number\ of\ days\ taken\ for\ the\ potential\ from\ various\ lead\ sources\ to\ win	Average number of days taken for the {0} from various lead sources to win 	=	מספר ממוצע של ימים שנלקחו ל{ 0} ממקורות שונים כדי לזכות ביתרון	1
+Average\ number\ of\ days\ taken\ for\ the\ potential\ of\ different\ types\ to\ win	Average number of days taken for the {0} of different types to win 	=	מספר ממוצע של ימים שנדרשו עבור ה { 0} מסוגים שונים כדי לזכות	1
+Converted\ Status	Converted Status 	=	סטטוס מוסב	1
+Current\ And\ Previous\ FQ	Current and Previous FQ 	=	FQ הנוכחי והקודם 	1
+Current\ And\ Previous\ FY	Current and Previous FY 	=	FY הנוכחי והקודם	1
+CustomModule1\ Id	{0} Id 	=	{0} זיהוי	1
+CustomModule1\ Information	{0} Information 	=	{0} מידע	1
+CustomModule1\ Name	{0} Name 	=	{0} שם	1
+CustomModule1\ Owner	{0} Owner 	=	{0} בעלים	1
+CustomModule1\ Owner\ Id	{0} Owner Id 	=	{0} קוד זיהוי בעלים של  	1
+CustomModule1\ Site	{0} Site 	=	{0} אתר	1
+CustomModule1\ Type	{0} Type 	=	{0} סוג	1
+CustomModule2\ Id	{0} Id 	=	{0} זיהוי	1
+CustomModule2\ Information	{0} Information 	=	{0} מידע	1
+CustomModule2\ Name	{0} Name 	=	{0} שם	1
+CustomModule2\ Owner	{0} Owner 	=	{0} בעלים של 	1
+CustomModule2\ Owner\ Id	{0} Owner Id 	=	{0} קוד זיהוי בעלים של	1
+CustomModule2\ Site	{0} Site 	=	{0} אתר	1
+CustomModule2\ Type	{0} Type 	=	{0} סוג	1
+CustomModule3\ Id	{0} Id 	=	{0} זיהוי	1
+CustomModule3\ Information	{0} Information 	=	{0} מידע	1
+CustomModule3\ Name	{0} Name 	=	{0} שם	1
+CustomModule3\ Owner	{0} Owner 	=	{0} בעלים של 	1
+CustomModule3\ Owner\ Id	{0} Owner Id 	=	{0} קוד זיהוי בעלים של	1
+CustomModule3\ Site	{0} Site 	=	{0} אתר	1
+CustomModule3\ Type	{0} Type 	=	{0} סוג	1
+CustomModule4\ Id	{0} Id 	=	{0} זיהוי	1
+CustomModule4\ Information	{0} Information 	=	{0} מידע	1
+CustomModule4\ Name	{0} Name 	=	{0} שם	1
+CustomModule4\ Owner	{0} Owner 	=	{0} בעלים של 	1
+CustomModule4\ Owner\ Id	{0} Owner Id 	=	{0} קוד זיהוי בעלים של	1
+CustomModule4\ Site	{0} Site 	=	{0} אתר	1
+CustomModule4\ Type	{0} Type 	=	{0} סוג	1
+CustomModule5\ Id	{0} Id 	=	{0} זיהוי	1
+CustomModule5\ Information	{0} Information 	=	{0} מידע	1
+CustomModule5\ Name	{0} Name 	=	{0} שם	1
+CustomModule5\ Owner	{0} Owner 	=	{0} בעלים של 	1
+CustomModule5\ Owner\ Id	{0} Owner Id 	=	{0} קוד זיהוי בעלים של	1
+CustomModule5\ Site	{0} Site 	=	{0} אתר	1
+CustomModule5\ Type	{0} Type 	=	{0} סוג	1
+CustomModule\ Default\ CustomView	All {0} 	=	כל ה {0} 	1
+CustomModule\ Information	{0} Information 	=	{0} מידע	1
+CustomModule\ Owner	{0} Owner 	=	{0} בעלים של 	1
+Dec	Dec 	=	דצמ	1
+Duplicate\ module	Duplicate {0} 	=	הכפל את {0}	1
+Feb	Feb 	=	פבר	1
+Jan	Jan 	=	ינו	1
+Jul	Jul 	=	יולי	1
+Jun	Jun 	=	יוני	1
+Last\ 12\ Months	Last 12 Months 	=	12 החדשים האחרונים	1
+Last\ 6\ Months	Last 6 Months 	=	6 החדשים האחרונים	1
+Last\ Computed\ Time	Last Computed Time 	=	זמן מחושב אחרון	1
+Lead\ Conversion\ Count\ across\ Owners	{0} Conversion Count across Owners 	=	{0} ספירת המרות בין בעלים	1
+Lead\ Conversion\ Time\ Reports	{0} Conversion Time in Day(s) 	=	זמן המרת {0} בימים	1
+Lead\ Conversion\ across\ Industries	{0} Conversion across Industries 	=	המרת {0} בין תעשיות	1
+Lead\ Conversion\ across\ Owners	{0} Conversion across Owners 	=	המרת {0} בין בעלים	1
+Lead\ Conversion\ across\ Sources	{0} Conversion across Sources 	=	המרת {0} בין מקורות	1
+Managed\ Territories	Managed Territories 	=	טריטוריות המנוהלים	1
+Mar	Mar 	=	מרץ	1
+Next\ 12\ Months	Next 12 Months 	=	12 החודשים הבאים	1
+Next\ 6\ Months	Next 6 Months 	=	6 החודשים הבאים	1
+Non\ duplicated\ module	Non duplicated {0} 	=	{0} לא משוכפל	1
+Not\ Converted	Not Converted 	=	לא הוסב	1
+Nov	Nov 	=	נובמבר	1
+Oct	Oct 	=	אוקטובר	1
+Old\ Enterprise	Old Enterprise 	=	מהדורת ארגון ישנה	1
+Old\ Professional	Old Professional 	=	מהדורה מקצועית ישנה	1
+Overall\ Sales\ Cycle\ Duration\ among\ territories	Overall Sales Cycle Duration among territories 	=	מחזור מכירות כולל משך בין הטריטוריות	1
+Overall\ Sales\ Cycle\ Duration\ among\ territories\ - summary	Overall Sales Cycle Duration among territories - summary. 	=	מחזור מכירות כולל משך בין הטריטוריות - סיכום.	1
+Overall\ Sales\ Duration\ Reports	Overall Sales Duration in Day(s) 	=	משך מכירות כולל ביום (ימים)	1
+Overall\ Sales\ Duration\ across\ Lead\ Sources	Overall Sales Duration across {0} Sources 	=	משך מכירות כולל עבור מקורות של {0} 	1
+Overall\ Sales\ Duration\ across\ Potential\ Type	Overall Sales Duration across {0} Type 	=	משך מכירות כולל עבור סוג של {0} 	1
+Parent\ Forecast	Parent Forecast 	=	תחזית הורה	1
+Paused	Paused 	=	מושהה	1
+Performance\ by\ Sales\ Persons\ across\ roles	Performance by Sales Persons across roles. 	=	ביצועים על ידי אנשים מכירות לרוחב תפקידים.	1
+Performance\ by\ Sales\ Persons\ across\ territories	Performance by Sales Persons across territories 	=	ביצועים על ידי אנשים מכירות לרוחב טריטוריות	1
+Pipeline\ Potentials\ among\ Territories\ - Matrix	Pipeline {0} among Territories - Matrix 	=	צינור {0} בין טריטוריות - מטריצה	1
+Pipeline\ excluding\ child	Pipeline excluding child 	=	צינור לא כולל בן	1
+Potentials\ in\ pipeline\ based\ on\ territories\ matrix\ report	{0} in pipeline based on territories matrix report. 	=	"{0} בצינור המבוסס על דו""ח מטריצת טריטוריות."	1
+Revenue\ By\ Territories\ - Last\ 6\ Months	Revenue By Territories - Last 6 Months 	=	הכנסות לפי טריטוריות - 6 החודשים האחרונים	1
+Revenue\ By\ Territories\ - Summary	Revenue By Territories - Summary 	=	הכנסות לפי טריטוריות - סיכום	1
+Revenue\ Channels\ among\ Territories	Revenue Channels among Territories 	=	ערוצי הכנסות בין טריטוריות	1
+Revenue\ Channels\ among\ Territories\ - Summary\ Report	Revenue Channels among Territories - Summary Report. 	=	ערוצי הכנסות בין טריטוריות - דוח סיכום.	1
+Revenue\ by\ territories\ for\ the\ past\ 6\ months	Revenue by territories for the past 6 months. 	=	הכנסות לפי טריטוריות במשך 6 החודשים האחרונים.	1
+Sales\ Cycle\ Duration\ Reports	Sales Cycle Duration in Day(s) 	=	משך מחזור מכירות ביום (ימים)	1
+Sales\ Cycle\ Duration\ across\ Lead\ Sources	Sales Cycle Duration across {0} Sources 	=	משך מחזור מכירות על לפי מקורות {0} 	1
+Sales\ Cycle\ Duration\ across\ Owners	Sales Cycle Duration across Owners 	=	משך מחזור מכירות לפי בעלים	1
+Sales\ Cycle\ Duration\ across\ Potential\ Type	Sales Cycle Duration across {0} Type 	=	משך מחזור מכירות לפי סוג {0} 	1
+Sales\ Cycle\ Duration\ across\ Territories	Sales Cycle Duration across Territories 	=	משך מחזור מכירות לפי טריטוריות	1
+Sales\ Metrics\ Reports	Sales Metrics Reports 	=	דיווחי מדדי מכירות	1
+Sales\ Summary	Sales Summary 	=	סיכום מכירות	1
+Sales\ persons\ who\ achieved\ their\ targets	Sales persons who achieved their targets. 	=	אנשי מכירות שהשיגו את המטרות שלהם.	1
+Scheduled	Scheduled 	=	מתוכנן	1
+Sep	Sep 	=	ספטמבר	1
+Star\ performers\ across\ roles	Star performers across roles 	=	מבצעים מצטיינים לפי תפקידים	1
+Star\ performers\ across\ territories	Star performers across territories 	=	מבצעים מצטיינים לפי טריטוריות	1
+Storage\ subscribed	Storage subscribed 	=	טריטוריה אחסון של מנוי	1
+Summary\ of\ Revenue\ by\ territories\ for\ dashboard	Summary of Revenue by territories for dashboard. 	=	סיכום של הכנסות לפי טריטוריות עבור לוח מחוונים.	1
+Target	Target 	=	יעד	1
+Target\ Achieved	Target Achieved 	=	יעד שהושג	1
+Target\ Achieved\ Percent	Target Achieved Percentage 	=	יעד שהושג באחוזים	1
+Target\ Achieved\ among\ roles	Target Achieved among roles 	=	יעד שהושג לפי תפקידים	1
+Target\ Achieved\ among\ territories	Target Achieved among territories 	=	יעד שהושג לפי טריטוריות	1
+Target\ Percentage\ excluding\ child	Target achieved percentage excluding child 	=	יעד שהושג באחוזים למעט בן	1
+Target\ achieved\ among\ roles\ for\ this\ FY.\ These\ do\ not\ include\ sub\ roles\ targets	Target achieved among roles for this FY. These do not include sub roles targets. 	=	יעד שהושג לפי תפקידים לשנת כספים זו. לא כולל מטרות תפקידי משנה.	1
+Target\ achieved\ among\ territories\ for\ this\ FY.\ These\ do\ not\ include\ sub\ territories\ targets	Target achieved among territories for this FY. These do not include sub territories targets 	=	יעד שהושג לפי טריטוריות לשנת כספים זו. לא כולל יעדי טריטוריות משנה 	1
+Target\ achieved\ excluding\ child	Target achieved excluding child 	=	יעד שהושג למעט בן	1
+Territory	Territory 	=	טריטוריה	1
+Territory\ Reports	Territory Reports 	=	דוחות טריטוריה	1
+Territory\ target\ excluding\ child	Territory target excluding child 	=	יעד שהושג למעט בן	1
+Time\ take\ for\ the\ potentials\ to\ close\ acorss\ various\ territories	Time take for the {0} to close acorss various territories 	=	זמן סגירה דרוש ל { 0}  לפי טריטוריות שונות	1
+Total\ number\ of\ lead\ converted\ by\ various\ owners\ for\ the\ past\ 6\ months	Total number of {0} converted by various owners for the past 6 months 	=	מספר כולל של {0} שהוסבו על ידי בעלים שונים במשך 6 החודשים האחרונים	1
+User\ Territories	User Territories 	=	טריטוריות משתמש	1
+Users\ subscribed	Users subscribed 	=	משתמשים רשומים	1
+bccdropbox.add.another.email	Add another Email 	=	הוסיפו כתובת מייל 	1
+bccdropbox.admin.regen.msg	"The user will not be able to use BCC Dropbox feature until he regenerates the address. Once stopped, any email sent by this user before regeneration will not be accepted by the system. "	=	"המשתמש לא יוכל להשתמש בתכונת Dropbox BCC עד שהוא יחדש את הכתובת. ברגע שנעצר, כל דואר אלקטרוני שנשלח על ידי משתמש זה לפני ההתחדשות לא יתקבל על ידי המערכת."	1
+bccdropbox.admin.regen.msg2	Stop BCC Dropbox 	=	הפסקת  BCC Dropbox	1
+bccdropbox.admin.regen.msg3	BCC Dropbox has been stopped.  It would resume to work once the user regenerates the address. 	=	BCC Dropbox הופסק. פעולתו תתחדש ברגע שהמשתמש יוצר מחדש את הכתובת.	1
+bccdropbox.deactivation.notifymail.body	"<div style='""font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'"">
+<p>
+Hello {0},
+</p>
+<p>
+{1}, one of the Administrators of CRM, suspects that your BCC Dropbox has been compromised and is generating spam. To stop it from creating further problems, he ({2}) has  currently suspended this feature in your CRM account.
+</p><p>
+To restart using BCC Dropbox, Regenerate address Now.
+</p><p>
+Regards,
+<br/>
+Zoho CRM Team.
+</p></div> "	=	"<div style='""font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'"">
+<p>
+,{0} שלום
+</p><p>
+{1}, אחד מהמנהלים של ה-CRM, חשוד כי BCC Dropbox שלך נפרץ ומייצר זבל. כדי לעצור אותו מליצור בעיות נוספות, הוא ({2}) השעתה תכונה זו כרגע בחשבון ה-CRM שלך.
+</p><p>
+כדי להפעיל מחדש באמצעות BCC Dropbox, להתחדש לענות עכשיו.
+</p>
+בברכה,
+<br/>
+צוות ה-CRM Zoho.
+</p> </div> "	1
+bccdropbox.deactivation.notifymail.sub	Your BCC Dropbox address is compromised! 	=	כתובת Dropbox BCC שלך נפגעה!	1
+bccdropbox.desc	"We have now made it possible for you to associate your emails to Zoho CRM from any of your email clients like GMail, Outlook, Thunderbird, etc.! Try the new BCC Dropbox! "	=	"עכשיו עשינו את זה אפשרי עבורך לשייך את האימיילים שלך ל Zoho CRM מכל אחד מלקוחות הדוא""ל שלך כמו Gmail, Outlook, Thunderbird, וכו '! נסה Dropbox  BCC החדש!"	1
+bccdropbox.desc1	"All you have to do is to Blind Carbon copy (BCC) the BCC Dropbox email address that we give you, while sending emails to the customers. Based on the search pattern, Zoho CRM will automatically place a copy of the email that you want to associate, in the respective customer's record. Yes, it is that easy! "	=	"כל מה שאתה צריך לעשות זה עותק מוסתר (BCC) מכתובת הדוא""ל של Dropbox BCC שאנחנו נותנים לך, בעת שליחת הודעות דוא""ל ללקוחות. בהתבסס על תבנית החיפוש, Zoho CRM באופן אוטומטי תמקם עותק של הדוא""ל שברצונך לשייך, ברשומה של הלקוח, בהתאמה. כן, זה כל כך קל!"	1
+bccdropbox.disabled.msg	BCC Dropbox yet to be Activated. 	=	BCC Dropbox עדיין לא הופעל.	1
+bccdropbox.email.address	BCC Dropbox Email Addresses: 	=	"כתובות דוא""ל Dropbox BCC:"	1
+bccdropbox.heading	BCC Dropbox 	=	BCC Dropbox	1
+bccdropbox.howitwork	How do you make it work? 	=	איך תגרום לזה לעבוד?	1
+bccdropbox.insufficient.storage.body.100N105	"<div style='""font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'""><p>
+Hello {0},
+</p><p>
+You have reached 100% of the storage space allotted to your Zoho CRM account. Since your storage is full, you will not be able to upload attachments from the Zoho CRM interface nor send attachments to CRM using the BCC Dropbox feature. 
+</p><p>
+To ensure that your Zoho CRM account continues to work without interruption, you can free up space or buy more storage by following the steps below:
+</p><p><strong>
+To free up storage in your account:
+</strong></p><p><strong>
+Step 1: 
+</strong>
+Log in to your Zoho CRM account.
+</p><p><strong>
+Step 2: 
+</strong>
+Navigate through the records and delete the attachments that you do not require.
+</p><p><strong>
+To buy more storage:
+</strong></p><p><strong>
+Step 1: 
+</strong>
+Click Upgrade > Manage your plan.
+</p><p><strong>
+Step 2: 
+</strong>
+In the Manage Subscription page, under Add Subscriptions, choose the Extra Storage Space from the drop-down list. 
+</p><p><strong>
+Step 3: 
+</strong>
+Click Check out.
+</p><p>
+For more information on managing your file storage, please read this 
+<a href=https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage>
+article
+</a>.</p><p> 
+Regards,
+<br/>
+Zoho CRM Team.
+</p></div> "	=	"<div style='""font-family: Arial,Helvetica,sans-serif; font-size: 13;  line-height: 18px'""><p> 
+שלום {0}, 
+</p> ><p>
+.הגעת ל 100% מטריטוריה האחסון שהוקצה לחשבון זזבב שלך
+
+היות שהאחסון שלך מלא, לא תוכל להעלות תצריפים ממשק זזבב שלך וגם לא לשלוח תצריפים אל  
+CRM בעזרת BCC Dropbox
+
+</p> 
+כדי לוודא שחשבון זזבב שלך ממשיך לעבוד ללא הפרעה, אתה יכול לפנות טריטוריה או לרכוש טריטוריה אחסון נוסף  
+ על ידי ביצוע השלבים הבאים: 
+</p> <strong> <p> 
+כדי לפנות טריטוריה אחסון בחשבון שלך: 
+</strong> </p> <strong> <p> 
+שלב 1: 
+</strong> 
+היכנס לחשבון זזבב שלך. 
+</p> <strong> <p> 
+שלב 2: 
+</strong> 
+נווט דרך הרשומות ומחק את הקבצים המצורפים שאינם דרושים
+ <strong>. </p> 
+לרכוש טריטוריה אחסון נוסף: 
+</strong> </p> <strong> <p> 
+שלב 1: 
+</strong> 
+לחץ על שדרוג> נהל את התכנית שלך. 
+</p> <strong> <p> 
+שלב 2: 
+</strong> 
+בדף ניהול מנויים, תחת הוסף מנויים, בחר טריטוריה אחסון נוסף מהרשימה הנפתחת. 
+</p> <strong> <p> 
+שלב 3: 
+</strong> 
+לחץ על סיום ביצוע. 
+</p> 
+לקבלת מידע נוסף על ניהול אחסון הקבצים שלך, אנא קרא את  
+<a href=https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage> המאמר </ a>. 
+הזה</p> 
+בברכה, 
+<br/> 
+צוות ה-CRM Zoho. 
+</p> 
+</div>"	1
+bccdropbox.insufficient.storage.body.110N115N120	"<div style='""font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'""><p>Hello {0},</p><p>This is a repeat reminder that you have exceeded the maximum storage quota allotted to your Zoho CRM account. </p><p>Until you upgrade the storage, you will not be able to upload attachments from the Zoho CRM interface nor send attachments to CRM using the BCC Dropbox feature. </p><p>To ensure that your Zoho CRM account continues to work without interruption, you can free up space or buy more storage by following the steps below:</p><p><strong>To free up storage in your account:</strong></p><p><strong>Step 1: </strong>Log in to your Zoho CRM account.</p><p><strong>Step 2: </strong>Navigate through the records and delete the attachments that you do not require.</p><p><strong>To buy more storage:</strong></p><p><strong>Step 1: </strong>Click Upgrade > Manage your plan.</p><p><strong>Step 2: </strong>In the Manage Subscription page, under Add Subscriptions, choose the Extra Storage Space from the drop-down list. </p><p><strong>Step 3: </strong>Click Check out.</p><p>For more information on managing your file storage, please read this <a href=""https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage"">article</a>.</p><p>Regards,<br/>Zoho CRM Team.</p></div> "	=		
+bccdropbox.insufficient.storage.body.90N95	"<div style='""font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'""><p>Hello {0},</p><p>You have reached close to {1} of the total storage quota allotted to your Zoho CRM account. </p><p>When your storage is full, you will not be able to upload attachments from the Zoho CRM interface nor send attachments to CRM using the BCC Dropbox feature.</p><p>To ensure that your Zoho CRM account continues to work without interruption, you can free up space or buy more storage by following the steps below:</p><p><strong>To free up storage in your account:</strong></p><p><strong>Step 1: </strong>Log in to your Zoho CRM account.</p><p><strong>Step 2: </strong>Navigate through the records and delete the attachments that you do not require.</p><p><strong>To buy more storage:</strong></p><p><strong>Step 1: </strong>Click Upgrade > Manage your plan.</p><p><strong>Step 2: </strong>In the Manage Subscription page, under Add Subscriptions, choose the Extra Storage Space from the drop-down list. </p><p><strong>Step 3: </strong>Click Check out.</p><p>For more information on managing your file storage, please read this <a href=""https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage"">article</a>.</p><p>Regards,<br/>Zoho CRM Team.</p></div> "	=		
+bccdropbox.insufficient.storage.body.above.120	"<div style='""font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'""><p>Hello {0},</p><p>Due to insufficient storage space in your Zoho CRM account, we were unable to associate the email/attachment sent via BCC Dropbox to Zoho CRM.</p><p>Recipients emails address : {1}</p><p>Please contact your CRM administrator for further assistance.</p><p>Regards,<br/>Zoho CRM Team.</p></div>"	=		
+bccdropbox.insufficient.storage.sub.100N105	Your Zoho CRM storage is full 	=	אחסון CRM Zoho שלך מלא	1
+bccdropbox.insufficient.storage.sub.110N115N120	Your Zoho CRM storage quota exceeded - Possible data loss. 	=	 חרגת ממכסת אחסון זזבב שלך - אובדן נתונים אפשרי.	1
+bccdropbox.insufficient.storage.sub.90N95	Your Zoho CRM Storage space is almost full 	=	טריטוריה אחסון CRM Zoho שלך הוא כמעט מלא	1
+bccdropbox.other.emailsids	Important note about email addresses: 	=	הערה חשובה לגבי כתובות דואר אלקטרוני:	1
+bccdropbox.other.emailsids.desc	"The BCC Dropbox will allow the association of emails only from approved email addresses - the ones from which you send emails to your customers. So, please add below the possible email addresses from which your customers will receive emails from you. "	=	"BCC DROPBOX 
+ יאפשר את הקשר של מיילים רק מכתובות דואר אלקטרוני שאושרו - אלה שמהן אתה שולח מיילים ללקוחות שלך. אז, אנא הוסף למטה את כתובות הדוא""ל  האפשריות שמהן הלקוחות שלך יקבלו ממך הודעות דוא""ל
+"	1
+bccdropbox.other.emailsids.desc2	List of Approved Email Addresses: 	=	"רשימה של כתובות דוא""ל שאושרו:"	1
+bccdropbox.otheremail.addr.empty	Please enter at least one Email ID and then save. 	=	"אנא הכנס לפחות כתובת דוא""ל זיהוי אחת ולאחר מכן שמור."	1
+bccdropbox.otheremail.addr.err	"Sorry, no proper emails address were found. "	=	"סליחה, לא נמצאו כתובות דואר אלקטרוני מתאימות."	1
+bccdropbox.otheremail.addr.invalid	Please enter a valid Email ID 	=	"אנא הכנס דוא""ל מזהה בר תוקף"	1
+bccdropbox.otheremail.addr.nochange	Nothing changed. please change and click save. 	=	דבר לא השתנה. אנא בצע שינוי ולחץ על שמירה.	1
+bccdropbox.otheremail.addr.success	List of Approved Email Addresses saved successfully. 	=	רשימת כתובות דואר אלקטרוני שאושרו נשמרה בהצלחה.	1
+bccdropbox.potential.desc	Bcc Dropbox Email is unique for every Potential. Get it from the Potential page. 	=	"דוא""ל Dropbox עותק מוסתר הוא ייחודי לכל פוטנציאל. קבל אותו זה מדף הפוטנציאל."	1
+bccdropbox.regenerate	Regenerate 	=	חולל מחדש	1
+bccdropbox.search.pattern.edit	Edit Search Pattern 	=	ערוך תבנית חיפוש	1
+bccdropbox.search.pattern.success	Search Pattern updated successfully. 	=	תבנית חיפוש עודכנה בהצלחה.	1
+bccdropbox.search.pattern.title	The Search Pattern: 	=	תבנית החיפוש:	1
+bccdropbox.searchPattern.change.body	"<div style='""font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'""><p>Hello {0},</p><p>{1}, one of the Administrators of CRM, has changed your Zoho CRM account's profile permission settings.</p><p>You may want to make a note of the search pattern that changes with profile permission settings.</p><p>Your search pattern now looks like this: </p><p>{2}</p><p>Regards,<br/>Zoho CRM Team.</p></div>"	=	"<div style='""font-family: Arial,Helvetica,sans-serif; font-size: 18px'""> <p> שלום {0}, </ p> line-height: 13; {1} , אחד מהמנהלים של ה-CRM, שינה הגדרות ההרשאה הפרופיל של חשבון ה-CRM Zoho. </ P> אולי אתה רוצה לעשות לעצמך את תבנית החיפוש שמשתנה עם הגדרות הרשאה פרופיל. </ P> תבנית החיפוש שלך נראית עכשיו כך:. </ p> {2} </ p> בברכה <p> <p>, <br/> צוות CRM Zoho </ p> </ p>"	1
+bccdropbox.searchPattern.change.sub	BCC Dropbox search pattern has changed 	=	תבנית חיפוש Dropbox BCC השתנתה	1
+bccdropbox.sp.opt.search	Search the recipients email address only in {0} and associate the email to the matching {1}. 	=	חפש את כתובת הדואר האלקטרוני של נמענים רק ב{ 0} ושייך את הדואר האלקטרוני ל {1} המתאים.	1
+bccdropbox.sp.opt.searchboth.thencreate	"Search the recipients email address in {0} first followed by search in {1}. If there are no matching records, then create a new {2} and associate the email to it. "	=	"חפש את כתובת הדואר האלקטרוני של הנמענים קודם ב { 0}  ואחר כך ב { 1}. אם אין רשומות תואמות, צור {2} חדש ושייך אליו את דוא""ל."	1
+bccdropbox.sp.opt.searchboth.thencreate.dropdown	"Search the recipients email address in {0} first followed by search in {1}. If there are no matching records, then create a new "	=	"חפש את כתובת הדואר האלקטרוני של הנמענים קודם ב { 0}  ואחר כך ב { 1}. אם אין רשומות תואמות, צור חדשה."	1
+bccdropbox.sp.opt.searchboth.thencreate.dropdown2	associate the email to it. 	=	"שייך את הדוא""ל אליה."	1
+bccdropbox.sp.opt.searchcreate	"Search the recipients email address only in {0}. If there are no matching {1}, then create a new {2} and associate the email to it. "	=	"חפש את כתובת הדואר האלקטרוני של נמענים רק ב{ 0}. אם אין התאמת {1}, צור {2} חדש ושייך אליו את הדוא""ל."	1
+bccdropbox.sp.opt.searchonlyboth	"Search the recipients email address in  {0} first, followed by search in {1} and associate the email to the matching {2}/{3}. "	=	"חפש את כתובת הדואר האלקטרוני של הנמענים קודם ב { 0} , אחר כך ב { 1}. שייך את הדואר האלקטרוני ל{2} / {3} המתאימים."	1
+bccdropbox.sp.text.search	The recipient''s email address will be searched in {0} and associate the email to the matching {1}. 	=	חיפוש כתובת הדואר האלקטרוני של הנמען תהיה ב { 0} ושייך את הדואר האלקטרוני ל {1} המתאים.	1
+bccdropbox.sp.text.searchboth.thencreate	"The recipient''s email address will be searched in {0} and then in {1}.  If there are no matching records, then a new {2} will be created and the email will be associated with it. "	=	"חיפוש כתובת הדואר האלקטרוני של הנמען של'' קודם ב { 0} ולאחר מכן ב { 1}. אם אין רשומות תואמות, אזי יווצר {2} חדש והדוא""ל ישוייך אליו."	1
+bccdropbox.sp.text.searchcreate	"The recipient''s email address will be searched in {0}. If there are no matching records, then a new {1} will be created and the email will be associated with it. "	=	"כתובת הדואר האלקטרוני של הנמען של'' תהיה חיפשו ב{ 0}. אם אין רשומים תואם, ולאחר מכן חדש {1} ייווצר ודוא""ל יהיה משויך אליו."	1
+bccdropbox.sp.text.searchonlyboth	The recipient''s email address will be searched in {0} and then in {1} and associate the email to the matching {2}/{3}. 	=	כתובת הדואר האלקטרוני של הנמען של'' תהיה חיפשו ב{ 0} ולאחר מכן ב{ 1} ולשייך את הדואר האלקטרוני להתאמת {2} / {3}.	
+bccdropbox.user.regen.msg	"Your CRM Administrators, suspects that your BCC Dropbox address has been compromised and is generating spam. To stop it from creating further problems, this feature has currently suspended for your CRM account. To restart using BCC Dropbox, Regenerate address Now.<br/><br/> Note: Once Regenerated the old BCC Dropbox address will not work. So, please make sure that you update your address book accordingly. "	=	"מנהלי CRM שלך, חשודים כי כתובת Dropbox BCC נפרץ ומייצרת זבל. כדי לעצור אותו מליצור בעיות נוספות, תכונה זו השעתה כרגע עבור חשבון ה-CRM שלך. . כדי להפעיל מחדש באמצעות BCC Dropbox, להתחדש לטפל עכשיו <br/> <br/> הערה: לאחר מחדש את כתובת Dropbox BCC הישנה לא תעבוד. לכן, ודא שאתה מעדכן את פנקס הכתובות שלך בהתאם."	
+bccdropbox.user.regen.msg2	"If your BCC Dropbox email address is causing spam, you can generate a new email address by clicking on 'Regenerate'. A new BCC Dropbox Email Address will be generated and after that, any emails coming from the BCC Dropbox email address, previously used by you, will be ignored. "	=	"אם כתובת הדוא""ל שלך Dropbox BCC גורמת דואר זבל, אתה יכול ליצור כתובת דוא""ל חדשה על ידי לחיצה על ""להתחדש"". כתובת דואר אלקטרוני של Dropbox BCC חדש ייוצר, ואחרי זה, כל מיילים שמגיעים מכתובת BCC Dropbox הדואר האלקטרוני, ששמשה בעבר על ידי לך, יזכו להתעלמות."	
+bccdropbox.user.regen.success	BCC Dropbox address has been regenerated successfully 	=	כתובת Dropbox BCC נוצרה מחדש בהצלחה	1
+bccdropbox.vCard	Download as vCard 	=	הורד כ vCard 	1
+crm.MassEmail.ajax.CountExceed1	"Sorry, you have exceeded the daily limit of sending {0} emails per day in your edition. "	=	"סליחה, חרגת מהמגבלה היומית של שליחת {0} מיילים ליום במהדורה שלך."	1
+crm.addTerritory.redirectToCompanyInfo	Please provide the company details before you get started with Territory Management. 	=	אנא ספק הפרטים על החברה לפני שתתחיל עם ניהול טריטוריה.	1
+crm.addons.and.integration	Add-ons & Integrations 	=	תוספות ואינטגרציות	1
+crm.alert.add.component1	You cannot add more than four components in Free Edition 	=	אתה לא יכול להוסיף יותר מארבעה רכיבים במהדורה חינם	1
+crm.alert.territory.pre.views	'{0}' cannot be chosen along with other territory entries. 	=	{0}' לא יכול להיבחר יחד עם ערכי טריטוריה אחרים.	1
+crm.analytics	CRM Analytics 	=	CRM Analytics	1
+crm.api.integration	API for Third-party App. Integration 	=	API לשילוב אפליקציות צד שלישי. 	1
+crm.audit.territory.assignment.completed	Territory Assignment Schedule Completed. 	=	תכנית הקצאת טריטוריה הושלמה.	1
+crm.audit.territory.assignment.failed	Territory Assignment Schedule Failed. 	=	לוח זמנים הקצאת טריטוריה נכשל.	1
+crm.audit.territory.assignment.scheduled	Has Scheduled Assignment of Territories. 	=	תוכננה הקצאת טריטוריות.	1
+crm.audit.territory.management.disabled	Has Disabled Territory Management. 	=	הושבת ניהול טריטוריה.	1
+crm.audit.territory.management.enabled	Has Enabled Territory Management. 	=	אופשר ניהול טריטוריה.	1
+crm.auditlog.territory	Territory 	=	טריטוריה	1
+crm.auth.calender	Sync Zoho CRM Calendar with your Google Calendar 	=	סנכרן לוח שנה Zoho CRM עם לוח השנה של Google שלך	1
+crm.auth.contacts	Sync Zoho CRM Contacts with your Google Contacts 	=	סנכרן אנשי קשר CRM Zoho  עם אנשי הקשר של Google	1
+crm.autoresponders	Auto-responders for drip marketing 	=	משיבים אוטומטיים לשיווק בטפטוף	1
+crm.blank.state.CustomModule	Create {0} 	=	צור {0}	1
+crm.blank.state.intro.CustomModule	Create and customize for your organization needs. 	=	יצירה והתאמה אישית לצרכי הארגון שלך.	1
+crm.build.cutom.apps	Build Custom Apps is available only in Enterprise Edition 	=	בניית יישומים מותאמים אישית זמינה רק במהדורת Enterprise	1
+crm.button.change	Change 	=	שינוי	1
+crm.button.computeall	Compute All 	=	חשב הכל	1
+crm.button.confirm.andsave	I Confirm. Proceed. 	=	אני מאשר. המשך.	1
+crm.button.create.hierarchy	Create Territory Hierarchy 	=	יצירת הירארכיית טריטוריה	1
+crm.button.customfunction.publish.message.understand	I understand. Submit 	=	אני מבין. שלח	1
+crm.button.deleteterritory	I Understand. Delete the territory 	=	אני מבין. מחק את הטריטוריה	1
+crm.button.disable.territory	I Understand. Disable Territory 	=	אני מבין. השבת טריטוריה	1
+crm.button.done	Done 	=	בוצע	1
+crm.button.get.started.now	Get started Now 	=	התחל עכשיו	1
+crm.button.new.territory	New Territory 	=	טריטוריה חדשה	1
+crm.button.run.rule	Run Rules 	=	הפעל כללים	1
+crm.button.save.forecast.settings	"Save, Forecast Settings "	=	"שמור, הגדרות תחזית"	1
+crm.button.send.reminder	Send Reminder to Owner 	=	שלח תזכורת לבעלים	1
+crm.button.switch.new.forecast	Switch to New {0} 	=	לעבור ל {0} חדש	1
+crm.button.transfer.and.delete.territory	Transfer & Delete Territory 	=	העבר ומחק את הטריטוריה	1
+crm.button.upgrade.edition	Upgrade your edition 	=	שדרג את המהדורה שלך	1
+crm.button.yes.runrules	Yes. Run Rules 	=	כן. הפעל כללים	1
+crm.button.yes.understand	I Understand. Enable Now 	=	אני מבין. הפעל עכשיו	1
+crm.buy.new.editions	"<a href=""/crm/Security.do?actionName=manageSubscription&fm=tp&showNewPricing=true"" class=""undline link6 mL5 mR5"" style=""color:#222"">Buy New Editions</a> - Get respective Add-ons FREE"	=	"<a href=""/crm/Security.do?actionName=manageSubscription&fm=tp&showNewPricing=true"" class=""undline link6 mL5 mR5"" style=""color:#222"">
+קנה מהדורות חדשות
+</ a>
+  - קבל בהתאמה תוספות בחינם"	1
+crm.calls.per.day	calls/day 	=	שיחות / יום	1
+crm.cc.cardtype	Please specify a valid Card Type 	=	נא לציין סוג כרטיס בר תוקף	1
+crm.chat.support	Live Chat Support 	=	צ'אט תמיכה	1
+crm.clone.email.removed	"A {0} with the email address ""{1}"" already exists. Please specify some other email address. "	=	"כבר קיים {0} עם כתובת דואל ""{1}"" . אנא ציין כתובת דואל אחרת."	1
+crm.confirm.send	Resend Confirmation Email 	=	שלח שוב את אימייל האישור	1
+crm.confirmmailsent	Confirmation Email sent to {0} 	=	דואל אישור נשלח ל{ 0}	1
+crm.contactsync	Sync Contact 	=	סינכרון אנשי קשר	1
+crm.contactsync.myowncontact	Only contacts owned by me 	=	רק אנשי קשר שבבעלותי	1
+crm.convert.lead..ownerofrecords	Owner of the records 	=	בעלים של הרשומות	1
+crm.convert.lead.button.ok	Ok 	=	OK	1
+crm.convert.lead.converted	"The {0} ""{1}"" has been successfully converted. "	=	"{0} ""{1}"" הוסב בהצלחה."	1
+crm.convert.lead.converted.already	The {0} you are trying to access has been converted already. 	=	ה {0} אליו אתה מנסה לגשת כבר הוסב.	1
+crm.convert.lead.converted.not.accessible	"Sorry, You cannot access the {0} "	=	"סליחה, אינך רשאי לגשת אל { 0}"	1
+crm.convert.lead.not.authorized.to.convert	"Sorry, You cannot convert the {0} "	=	"סליחה, אינך רשאי להסב את {0}"	1
+crm.convert.lead.select.record	Please select a record and proceed 	=	אנא בחר רשומה והמשך	1
+crm.convert.leads.goto.leads	Go to {0} 	=	עבור ל { 0}	1
+crm.creator.integration	Zoho Creator Integration 	=	אינטגרציה של Zoho Creator	1
+crm.currencies	Multiple Currencies 	=	מטבעות מרובים\	1
+crm.current.trial.edition	Your current trial Edition 	=	מהדורת הניסוי הנוכחית שלך	1
+crm.customapps.view.label.hyphenselect	--Select a view -- 	=	- בחר תצוגה -	1
+crm.customer.service	Customer Service 	=	שירות לקוחות	1
+crm.cv.delete.message	The view you are trying to access is not available. 	=	התצוגה אליה אתה מנסה לגשת אינה זמינה.	1
+crm.deactivate.alert.msg3	Deactivating a user's status <b>does not reduce the number of user licenses</b> for which your company is billed. 	=	"ביטול מעמדו של משתמש
+<b>
+אינו מפחית את מספר רישיונות שימוש
+</ b>
+עבורם מחויבת החברה שלך."	1
+crm.email.dupcheck.api.users	Attention API Users 	=	"משתמשי ה-API , אנא שימו לב"	1
+crm.email.dupcheck.auditlog	{1} Duplicate check for {2}. 	=	בדיקת כפילויות {1} עבור {2}.	1
+crm.email.dupcheck.checked	{1} De-duplication {2} 	=	{2}  ביטול הכפילויות {1}	1
+crm.email.dupcheck.disabled.msg	"{3} has disabled the ""Duplicate check"" for your organization''s CRM account. "	=	"{3} השבית את ""בדיקת הכפילויות"" עבור חשבון ה ברצ של הארגון שלך''. "	1
+crm.email.dupcheck.disabled.msg1	"From now on, {1} creation with the same email address will be allowed. "	=	"מעתה, תתאפשר יצירת {1} עם אותה כתובת הדואר האלקטרוני."	1
+crm.email.dupcheck.disabled.msg2	"If you wish to avoid duplicates, then follow the steps below. "	=	"אם ברצונך להימנע מכפילויות, בצע את הפעולות הבאות."	1
+crm.email.dupcheck.disabled.msg3	1. Go to Setup > Customization > Edit Page Layout 	=	1. עבור להתקנה> התאמה אישית> עריכת פריסת עמוד	1
+crm.email.dupcheck.disabled.msg4	"2. Enable the option ""Do not allow duplicate in Email field"" and save. "	=	"2. הפעל את האפשרות ""אל תאפשר לשכפל בתחום דואר אלקטרוני"" ולשמור."	1
+crm.email.dupcheck.document	"We recommend you to go through our <a href=""http://www.zoho.com/crm/help/miscellaneous/check-email-address-duplication.html#Usage-API-Methods"" target=""_blank""><u>API Manuals</u></a> and make the necessary changes before you proceed."	=	"אנו ממליצים לך לעבור על
+< target = ""_blank"">
+<u>
+מדריכי ה API
+</ u> </ a>
+ולבצע את השינויים הדרושים לפני שתמשיך."	1
+crm.email.dupcheck.enable.alert	"Records with the same email addresses that are sent to Zoho CRM via insert, update and convert APIs will be ignored. "	=	"המערכת תתעלם מרשומות עם אותן כתובות הדואר האלקטרוני שנשלחות ל Zoho CRM באמצעות ממשק משתמש ""הוספה, עדכון והסבה""."	1
+crm.email.dupcheck.enabled.msg	"{3} has enabled the ""Duplicate check"" for your organization''s CRM account to avoid duplicate {1} creation. "	=	"{3} איפשר ""בדיקת כפילויות"" עבור חשבון ה-CRM של הארגון שלך'', כדי למנוע שיכפול  של {1}."	1
+crm.email.dupcheck.enabled.msg1	"From now on, the system will not allow {1} creation with same email address. "	=	"מעתה והלאה, המערכת לא תאפשר יצירת {1} עם אותה כתובת דואר אלקטרוני."	1
+crm.email.dupcheck.enabled.msg2	"Please read our <a href=""http://www.zoho.com/crm/help/miscellaneous/check-email-address-duplication.html"" target=""_blank"">support document</a> to know more."	=	"אנא קראו את
+<a href=""http://www.zoho.com/crm/help/miscellaneous/check-email-address-duplication.html"" target=""_blank"">
+מסמך התמיכה
+</ a>
+כדי לדעת יותר."	1
+crm.email.dupcheck.enabled.msg3	"However, there are few places where duplicates are allowed. "	=	"עם זאת, ישנם כמה מקומות שבהם כפילויות מותרות."	1
+crm.email.dupcheck.limitation.migration	Migrate data from other CRM. 	=	העברת נתונים מ-CRM האחר.	1
+crm.email.dupcheck.limitation.restore	Restore {1}/{2} from Recycle bin. 	=	שחזור {1} / {2} מסל המיחזור.	1
+crm.email.dupcheck.limitation.sheet	Update / Create records via Zoho Sheet view. 	=	עדכון / יצירה רשומות באמצעות תצוגת גיליון Zoho.	1
+crm.email.dupcheck.limitation.sync	"{1} sync via Outlook plug in, Quickbooks and Google Contact sync. "	=	"סינכרון {1} באמצעות תוסף אאוטלוק,   QuickBooks וסינכרון אנשי הקשר של גוגל."	1
+crm.email.dupcheck.subject	Duplicate check feature {2} 	=	תכונה {2} של ביקת כפילויות	1
+crm.email.duplicate.approve	Email Duplication check has been enabled for the {1} Module in your organization. But you are trying to approve a few {0} which will create duplicate records. 	=	"בדיקת שכפול דוא""ל אופשרה למודול { 1} בארגון שלך. אבל אתה מנסה לאשר {0} אחדים אשר ייצרו רשומות כפולות."	1
+crm.email.duplicate.ask.superior	"A few {1} with the same email address already exist. As you do not have privilege to access them, please contact your administrator to proceed further. "	=	"{1} אחדים עם אותה כתובת דוא""ל כבר קיימים. היות שאין לך זכות לגשת אליהם, אנא צור קשר עם המנהל שלך כדי להמשיך הלאה."	1
+crm.email.duplicate.ask.superior.1	"A {1} with the same email address already exists. As you do not have privilege to access it, please contact your administrator to proceed further. "	=	"{1} עם אותה כתובת דוא""ל כבר קיים. היות שאין לך זכות לגשת אליו, אנא צור קשר עם המנהל שלך כדי להמשיך הלאה."	1
+crm.email.duplicate.available.merge	"Duplicate {2} with the same email address found. Please <a target=""_blank"" href=""/crm/EntityDuplicate.do?module={0}&id={1}&newTab=yes&findDupFldName=Email""> Merge {2}</a> and proceed."	=	"נמצאה כפילות של {2} עם אותה כתובת דוא""ל. אנא
+<a target=""_blank"" href=""/crm/EntityDuplicate.do?module={0}&id={1}&newTab=yes&findDupFldName=Email"">
+מזג את {2}
+</ a>
+והמשך."	1
+crm.email.duplicate.available.merge.admin	Duplicate {1} with the same email address found. Please contact your administrator to resolve those and proceed further. 	=	"נמצאה כפילות של {1} עם אותה כתובת דוא""ל. אנא צור קשר עם המנהל שלך כדי לפתור את הבעיה ולהמשיך הלאה."	1
+crm.email.duplicate.available.view	"A {2} with the same email address already exists. <a target=""_blank"" href=""/crm/ShowEntityInfo.do?module={0}&isload=false&id={1}"">View {2}</a>"	=	"{2} עם אותה כתובת דוא""ל כבר קיימת.
+<a target=""_blank"" href=""/crm/ShowEntityInfo.do?module={0}&isload=false&id={1}"">
+צפה ב {2}
+</ a>"	1
+crm.email.duplicate.field.removed	"Sorry, the Email field cannot be removed from the page layout as it is used to check duplicates. "	=	"סליחה, לא ניתן להסיר את שדה הדואר האלקטרוני מפריסת הדף כי הוא משמש כדי לבדוק כפילויות."	1
+crm.email.duplicate.section.delete	"Sorry, the section cannot be deleted as the Email field within this section is used to check duplicates. "	=	"סליחה, הסעיף לא ניתן למחיקה כי שדה אימייל בסעיף זה משמש כדי לבדוק כפילויות."	1
+crm.email.inreplyto.check	You can add only one email addresses in the 'Reply to' field. 	=	אתה יכול להוסיף רק אחת כתובות דואר אלקטרוני אחת בשדה  'תגובה ל'.	1
+crm.email.support	Email Support 	=	"תמיכה בדוא""ל"	1
+crm.email.unique	Do not allow duplicates in <b>Email</b> field 	=	"אל תאפשר כפילויות בשדה <b> דוא""ל </ b>"	1
+crm.enable.forecast.note	Exported {0} cannot be reused for Role forecasting. 	=	{0} מיוצא לא ניתן לשימוש חוזר לחיזוי תפקידים.	1
+crm.enterprise.edition	Enterprise Edition 	=	מהדורת ארגון	1
+crm.error.assign.territory	Your previous action on assigning territories to the accounts is yet to be completed. </br> Please try after sometime. 	=	הפעולה הקודמת שלך בהקצאת טריטוריות לחשבונות טרם הושלמה. </ Br> אנא נסה מאוחר יותר.	
+crm.error.duplicate.territory	Territory Name already exists 	=	שם טריטוריה כבר קיים	
+crm.evaluate.enterprise	Your current Zoho CRM Edition: <b>Enterprise Edition</b> 	=	"מהדורת Zoho CRM הנוכחית שלך:
+<b>
+Enterprise Edition
+</ b>"	1
+crm.evaluate.professional	Your current Zoho CRM Edition: <b>Professional Edition</b> 	=	"מהדורת Zoho CRM הנוכחית שלך:
+<b>
+Professional Edition
+</ b>"	1
+crm.evaluate.standard	Your current Zoho CRM Edition: <b>Standard Edition</b> 	=	"מהדורת Zoho CRM הנוכחית שלך:
+<b>
+Standard Edition
+</ b>"	1
+crm.extend.trial.edition.body	"Hello there,<br/><br/>As requested we have extended the trial period of the Zoho CRM - {0} Edition for another 15 days.<br/><br/>We hope that gives you enough time to try out all the features of Zoho CRM to help you evaluate and decide if it is the CRM solution for your business needs.<br/><br/>You can count on us for support while you make your decision. Do not hesitate to reach us for any questions or help during the trial period.<br/><br/>We are available on:<br/><br/> Email: <a class=""link"" href=""mailto:support@zohocrm.com"">support@zohocrm.com</a><br/><br/> Call: +1 (888) 900 9646<br/><br/>  Chat: Zoho Support Live chat<br/><br/>We look forward to servicing your business needs!"	=	"שלום לך,
+<br/> <br/>
+כמבוקש הרחבנו את תקופת הניסיון של Zoho CRM - מהדורת {0} למשך 15 ימים נוספים.
+<br/> <br/>
+אנו מקווים שניתן לך זמן מספיק כדי לנסות את כל התכונות של Zoho CRM כדי לסייע לך להעריך ולהחליט אם זה הוא פתרון CRM לצרכים העסקיים שלך. <br/> <br/>
+אתה יכול לסמוך עלינו בקבלת תמיכה בזמן שאתה מבצע את החלטתך. אל תהסס לפנות אלינו בכל שאלה או בקשת עזרה במהלך תקופת הניסיון.
+<br/> <br/>
+אנחנו זמינים ב:
+<br/> <br/>
+דואר אלקטרוני:
+<a class=""link"" href=""mailto:support@zohocrm.com""> support@zohocrm.com </ a> <br/> <br/>
+התקשר:
++1 (888) 900 9646 <br/> <br/>
+צ'אט: Zoho צ'אט
+<br/> <br/>
+אנו מצפים לשרת את הצרכים העסקיים שלך!"	1
+crm.extend.trial.edition.sub	Extended! -Your evaluation period of  Zoho CRM 	=	הוארך! -תקופת ההערכה של Zoho CRM	1
+crm.field.updates.per.module	Field Updates per Rule 	=	עדכוני שדות לפי כלל	1
+crm.file.open	Open 	=	פתיחה	1
+crm.followup.user	follow-up /user 	=	מעקב / משתמש	1
+crm.forecast.appre.mail.msg.content2	You have a winner in your team! Congratulations. 	=	יש לך מנצח בקבוצה שלך! מזל טוב.	1
+crm.forecast.appre.mail.msg.role.month	Your role user(s) - {0} have successfully achieved the target of {1} for the role - {2} for the month of {3}. 	=	משתמש(י) התפקיד שלך -  {0} השיגו בהצלחה את יעד {1} לתפקיד - {2} לחודש {3}.	1
+crm.forecast.appre.mail.msg.role.quarter	Your role user(s) - {0} have successfully achieved the target of {1} for the role - {2} for the quarter of {3}. 	=	משתמש(י) התפקיד שלך -  {0} השיגו בהצלחה את יעד {1} לתפקיד - {2} לרבעון {3}.	1
+crm.forecast.appre.mail.msg.territory.month	Your territory user(s) - {0} have successfully achieved the target of {1} for the territory - {2} for the month of {3}. 	=	משתמש(י) הטריטוריה שלך -  {0} השיגו בהצלחה את יעד {1} לטריטוריה - {2} לחודש {3}.	1
+crm.forecast.appre.mail.msg.territory.quarter	Your territory user(s) - {0} have successfully achieved the target of {1} for the territory - {2} for the quarter of {3}. 	=	משתמש(י) הטריטוריה שלך -  {0} השיגו בהצלחה את יעד {1} לטריטוריה - {2} לרבעון {3}.	1
+crm.forecast.appre.mail.msg.user.role.month	You have met the target of {0} for the role - {1} for the month of {2}. 	=	השגת את יעד {0} לתפקיד - {1} לחודש {2}.	1
+crm.forecast.appre.mail.msg.user.role.quarter	You have met the target of {0} for the role - {1} for the quarter of {2}. 	=	השגת את יעד {0} לתפקיד - {1} לרבעון {2}.	1
+crm.forecast.appre.mail.msg.user.territory.month	You have met the target of {0} for the territory - {1} for the month of {2}. 	=	השגת את יעד {0} לטריטוריה - {1} לחודש {2}.	1
+crm.forecast.appre.mail.msg.user.territory.quarter	You have met the target of {0} for the territory - {1} for the quarter of {2}. 	=	השגת את יעד {0} לטריטוריה - {1} לרבעון {2}.	1
+crm.forecast.appre.mail.sub.role.month	Your role user(s) have achieved the given target for the month of {1}. 	=	משתמש(י) התפקיד שלך השיג(ו) את היעד הנתון לחודש {1}.	1
+crm.forecast.appre.mail.sub.role.quarter	Your role user(s) have achieved the given target for the quarter of {1}. 	=	משתמש(י) התפקיד שלך השיג(ו) את היעד הנתון לרבעון {1}.	1
+crm.forecast.appre.mail.sub.territory.month	Your territory user(s) have achieved the given target for the month of {1}. 	=	משתמש(י) הטריטוריה שלך השיג(ו) את היעד נתון לחודש {1}.	1
+crm.forecast.appre.mail.sub.territory.quarter	Your territory user(s) have achieved the given target for the quarter of {1}. 	=	משתמש(י) הטריטוריה שלך השיג(ו) את היעד נתון לרבעון {1}.	1
+crm.forecast.appre.mail.user.msg.content2	Keep up the good work! 	=	המשך את העבודה הטובה!	1
+crm.forecast.appre.user.sub	Celebrate! You have reached your given target 	=	חגיגה! הגעת ליעד הנתון שלך	1
+crm.forecast.authorization.error.msg	Forecast is not enabled. Please contact your administrator 	=	תחזית אינה מופעלת. אנא צור קשר עם מנהל המערכת שלך	1
+crm.forecast.delete.field.info	<b> {0} </b> is being used as Sales Target for Forecasts. 	=	"<b> {0} </ b> 
+נמצא בשימוש כיעד מכירות לתחזיות."	1
+crm.forecast.enable.benefits1	Set individual targets for your role members. 	=	הגדר מטרות אישיות לחברי התפקיד שלך.	1
+crm.forecast.enable.benefits2	Sum up the organization forecast based on role hierarchy. 	=	סכם את תחזית הארגון המבוססת על היררכיית תפקידים.	1
+crm.forecast.enable.benefits3	Monitor overall forecast for the organization. 	=	נטר את התחזית הכוללת לארגון.	1
+crm.forecast.enable.mail.content	"Your Zoho CRM Administrator -<b>#NAME</b> has enabled ""New Forecast"" for your organization. "	=	"מנהל זזבב שלך
+<b> # NAME </ b>
+איפשר ""תחזית חדשה"" לארגון שלך"	1
+crm.forecast.enable.mail.sub	New Forecast enabled for your organization 	=	אופשרה תחזית חדשה לארגון שלך	1
+crm.forecast.enable.manual	"To know more about the New Forecasting, please <a href='javascript:void(0);'>read our Manuals</a>"	=	"כדי לדעת יותר על החיזוי החדש, אנא
+ <a href='javascript:void(0);'>
+קראו את המדריכים שלנו
+</a>"	1
+crm.forecast.enable.note	Build a powerful {0} for your business 	=	לבנות עוצמה {0} עבור העסק שלך	1
+crm.forecast.field.alert	Field cannot be empty 	=	שדה אינו יכול להיות ריק	1
+crm.forecast.highlights1	1. Individual users' targets can be set and their performance can be monitored. 	=	1. ניתן להגדיר מטרות של משתמשים בודדים ולנטר את הביצועים שלהם.	1
+crm.forecast.highlights2	2. Target fields for the {0} are customizable. 	=	2. שדות יעד עבור {0} ניתנים להתאמה אישיות.	1
+crm.forecast.highlights3	3. Role based forecasts are made easy. 	=	3. תחזיות מבוססות תפקידים ניתנות לעיצוב.	1
+crm.forecast.highlights4	4. Weaker pipelines can be detected. 	=	4. ניתן להבחין בצינורות חלשים יותר.	1
+crm.forecast.label.drill.down	Drill down 	=	עבודה לעומק	1
+crm.forecast.mail.label.salient	The salient features of new forecast will allow you to 	=	המאפיינים הבולטים של תחזית חדשה יאפשרו לך	1
+crm.forecast.mail.msg	Please get in touch with your manager for further details. 	=	אנא צור קשר עם המנהל שלך לקבלת פרטים נוספים.	1
+crm.forecast.mail.subject.target.defined	Your target is set/changed for the month of {0} 	=	המטרה שלך היא נקבעה/שונתה לחודש {0}	1
+crm.forecast.mail.subject.target.defined.quarter	Your target is set/changed for the quarter {0} 	=	המטרה שלך נקבעה/שונתה לרבעון {0}	1
+crm.forecast.mail.target.set.msg	Your manager ( {0} ) has set/changed your target for the month of {1}. 	=	המנהל שלך ({0}) קבע / שינה את היעד שלך לחודש {1}.	1
+crm.forecast.mail.target.set.msg.quarter	Your manager ( {0} ) has set/changed your target for the quarter {1}. 	=	המנהל שלך ({0}) קבע / שינה את היעד שלך לרבעון {1}.	1
+crm.forecast.mail.target.set.user.msg	Your manager ( {0} ) has set/changed your target for the month of {1}. 	=	המנהל שלך ({0}) קבע / שינה את היעד שלך לחודש {1}.	1
+crm.forecast.mail.target.set.user.msg.quarter	Your manager ( {0} ) has set/changed your target for the quarter {1}. 	=	המנהל שלך ({0}) קבע / שינה את היעד שלך לרבעון {1}.	1
+crm.forecast.period.alert	Period cannot be empty 	=	תקופה לא יכולה להיות ריקה	1
+crm.forecast.setting.note	Configure your organization forecast settings as per your business needs. 	=	קביעת תצורה של הגדרות תחזית הארגון שלך בהתאם לצרכים העסקיים שלך.	1
+crm.forecast.settings.suc.msg	Your {0} settings have been successfully configured 	=	הגדרות {0} הוגדרו בהצלחה	1
+crm.gadgets.zcrmContact	Zoho CRM Contact 	=	Zoho CRM איש קשר 	1
+crm.gapp.adword	Adword 	=	AdWord	1
+crm.gapps.contact.googlesync	Google Contact 	=	איש הקשר של Google	1
+crm.gcal.addascontact	Add guest(s) in Google Calendar events as Contacts in Zoho CRM. 	=	הוסף אורח (ים) באירועי Google Calendar כאנשי קשר ב-CRM Zoho.	1
+crm.gcal.addsascontact	Adds guest(s) in Google Calendar events as Contacts in Zoho CRM. 	=	מוסיף אורח (ים) באירועי Google Calendar כאנשי קשר ב-CRM Zoho.	1
+crm.gcalinssync.gcaladdguest	Add guest in Zoho CRM 	=	הוסף אורח בZoho CRM	1
+crm.gcalinssync.gcaldonotaddguest	Don't add guest in Zoho CRM 	=	אל תוסיף באורח Zoho CRM	1
+crm.gcalinssync.gcalendar	Sync Calendar 	=	סנכרן לוח שנה	1
+crm.gcalinssync.gcalsummary	Sync Summary 	=	סנכרן סיכום	1
+crm.gcalinssync.guestsyncoption	Sync Guest Option 	=	סנכרן אפשרויות אורח	1
+crm.gcalinssync.heading	Sync Zoho CRM Calendar with your Google Calendar 	=	סנכרן לוח שנה  Zoho CRM עם לוח השנה של Google שלך	1
+crm.gcalinssync.syncoption	Sync Options 	=	אפשרויות סנכרון	1
+crm.gcalsync.syncing	Sync in progress... 	=	סינכרון בביצוע...	1
+crm.gcontact.conflict.crmwinsdesc	Zoho CRM contact will overwrite the Google contact 	=	איש קשר CRM Zoho יחליף את איש קשר גוגל	1
+crm.gcontact.conflict.googlewinsdesc	Google contact will overwrite the Zoho CRM contact 	=	איש קשר גוגל יחליף את איש קשר CRM Zoho	1
+crm.gcontact.dirction_1.desc	Sync only your Zoho CRM Contacts with your Google Contacts 	=	סנכרן רק את אנשי הקשר שלך ב-CRM Zoho עם אנשי הקשר של Google	1
+crm.gcontact.dirction_1.syncs	Syncs only your Zoho CRM Contacts with your Google Contacts 	=	סנכרן רק את אנשי הקשר שלך ה-CRM Zoho עם אנשי הקשר של Google	1
+crm.gcontact.dirction_1.title	1-Way: Zoho CRM Contacts to Google Contacts 	=	חד כיווני: אנשי קשר CRM Zoho עם אנשי קשר של Google	1
+crm.gcontact.dirction_2.desc	Sync only your Google Contacts with your Zoho CRM Contacts 	=	לסנכרן רק אנשי הקשר של Google שלך ​​עם אנשי הקשר שלך Zoho CRM	1
+crm.gcontact.dirction_2.syncs	Syncs only your Google Contacts with your Zoho CRM Contacts 	=	מסנכרן רק אנשי הקשר של Google שלך ​​עם אנשי הקשר שלך Zoho CRM	1
+crm.gcontact.dirction_2.title	1-Way: Google Contacts to Zoho CRM Contacts 	=	חד כיווני: אנשי קשר של Google אל אנשי קשר Zoho CRM	1
+crm.gcontact.dirction_3.desc	Sync both your Zoho CRM Contacts & Google Contacts with each other 	=	סנכרן גם את אנשי הקשר של  CRM Zoho שלך וגם את אנשי הקשר של Google אחד עם השני	1
+crm.gcontact.dirction_3.syncs	Syncs both your Zoho CRM Contacts & Google Contacts with each other 	=	מסנכרן גם את אנשי הקשר של  CRM Zoho שלך וגם את אנשי הקשר של Google אחד עם השני	1
+crm.gcontact.dirction_3.title	2 Way Sync 	=	סינכרון דו כיווני	1
+crm.general.limit	General Limits 	=	גבולות כלליים	1
+crm.google.adword	Google Adwords Integration* 	=	*  Google AdWords שילוב של	1
+crm.hide.old.editions	Hide Old Editions 	=	הסתר מהדורות ישנות	1
+crm.hr.response	hrs response 	=	תגובת שעות	1
+crm.html.customfunction.functionAuthorName	<strong>#AUTHORNAME<strong> 	=	<strong>#שם מחבר<strong> 	1
+crm.html.customfunction.functionDescription	#DESCRIPTION 	=	#תאור	1
+crm.html.customfunction.functiondisplayName	<strong>#FUNCTIONDISPLAYNAME</strong> 	=	<strong>#FUNCTIONDISPLAYNAME</strong> 	1
+crm.html.customfunction.functionscript	<pre>#FUNCTIONSCRIPT</pre> 	=	<pre>#FUNCTIONSCRIPT</pre> 	1
+crm.html.customfunction.workflowlinkid	#WORKFLOWLINKID 	=	#WORKFLOWLINKID 	1
+crm.html.trial.deactivate.alert.before.oneday	"Hello there! <br/><br/>We are so excited to follow up on your thoughts regarding the Zoho CRM \u2013 {0} Edition that you have been evaluating in the last fortnight. We are confident that you are as excited about the product as we are!<br/><br/>This is to remind you that your 15-day trial period will expire in another 24 hours. We sincerely hope we gave you enough time to look around and test the various features that Zoho CRM {0} Edition has to offer.<br/><br/>If you require additional time for the evaluation, write to us at <a class=""link"" href=""mailto:support@zohocrm.com"">support@zohocrm.com</a>.<br/><br/>We happily look forward to talk to you on how Zoho CRM - {0} Edition might be the right CRM solution for your business needs.<br/><br/>If you decided that Zoho CRM- {0} Edition is just what you need for your business, go ahead and 
+<a class=""link"" href=""https://crm.zoho.com/crm/Security.do?actionName=manageSubscription&fm=tp"">
+Purchase Now</a><br/><br/><b>Please note that upon the completion of the trial period, you will still be able to use the Free Edition of Zoho CRM.</b><br/><br/>We look forward to servicing your business needs!"	=	"שלום לך!
+<br/> <br/>
+נשמח מאד לקבל מידע על מחשבותיך בנושא מהדורת -CRM Zoho \u2013 {0}  שהערכת בשבועות האחרונים. אנו בטוחים כי אתה מתרגש מהמוצר כמונו!
+<br/> <br/>
+אנו מזכירים לך שתקופת הניסיון של 15 היום שלך תפוג כעבור 24 שעות נוספות. אנחנו מאוד מקווים שנתנו לך מספיק זמן כדי להסתכל סביב ולבחון את התכונות השונות שמציעה Zoho CRM {0} Edition.
+<br/> <br/>
+אם אתה זקוק לזמן נוסף להערכה, כתוב לנו אל <a class=""link"" href=""mailto:support@zohocrm.com""> support@zohocrm.com </ a>. <br/> <br/>
+אנו מצפים בשמחה לדבר איתך על איך מהדורת Zoho CRM - {0}  עשויה להיות פתרון ה-CRM המתאים לצרכים העסקיים שלך.
+<br/> <br/>
+אם תחליט ש Zoho CRM-{0} Edition היא בדיוק מה שאתה צריך עבור העסק שלך, קדימה,
+<a class=""link"" href=""https://crm.zoho.com/crm/Security.do?actionName=manageSubscription&fm=tp"">
+רכוש    אותה עכשיו
+</a> <br/> <br/> <b>
+יש לציין כי עם סיום תקופת הניסיון, עדיין תוכל להשתמש במהדורת החינם של CRM Zoho.
+</ b> <br/> <br/>
+אנו מצפים לשרת את הצרכים העסקיים שלך!"	1
+crm.html.trial.deactivate.alert.before.threedays	"Hope your trial of Zoho CRM is coming along well. We would like to remind you that your trial ends in 3 days. If you are happy with the outcome of your trial and would like, to subscribe to Zoho CRM, here's how you can upgrade your subscription:<br/><br/><ul><li>Click the <b>Subscription</b> link at the top</li><br/><li>Select a plan of your choice and follow the rest of the steps</li></ul><br/>For any assistance with the product or subscription plans, reach us via email <a class=""link"" href=""mailto:support@zohocrm.com"">support@zohocrm.com</a> or on the toll free number + 1 (888) 900 - 9646.<br/><br/>Thank you for evaluating Zoho CRM. We look forward to welcome you on board as our customer."	=	"נקווה שההתנסות שלך ב  Zoho CRM מתקדמת היטב. ברצוננו להזכיר לך שהניסיון שלך מסתיים בעוד 3 ימים. אם אתה מרוצה מהתוצאות של הניסיון שלך ואתה רוצה להירשם ל Zoho CRM, שדרג את המנוי שלך ככה:
+<br/> <br/> <ul> <li>
+לחץ
+<b>
+מנוי
+</ b>
+הקישור למעלה
+</ p> <br/> <li>
+בחר את התכנית הרצויה לך ובצע את שאר השלבים
+</ p> </ ul> <br/>
+לכל סיוע עם תוכניות המוצר או מנויים, ניתן להגיע אלינו באמצעות דואר אלקטרוני <a class=""link"" href=""mailto:support@zohocrm.com""> support@zohocrm.com </ a>
+  או במספר חיוג חינם
++ 1 (888) 900 -. 9646 <br/> <br/>
+תודה לך על הערכת CRM Zoho. אנו מצפים לקבל את פניך כלקוח שלנו."	1
+crm.html.trial.deactivate.instruction	"Hello there,<br/><br/>Thank you for taking time to check out Zoho CRM - {0} Edition during the 15 day trial period.<br/><br/><b>Your trial account has expired and you now have access to the Free Edition.</b><br/><br/>If you have decided that Zoho CRM- {0} Edition is just what you need for your business, go ahead and <a class=""link"" href=""https://crm.zoho.com/crm/Security.do?actionName=manageSubscription&fm=tp"">Purchase Now</a> <br/><br/>If you have any other requests or questions please do not hesitate to get in touch with us<br/><br/> Email: <a class=""link"" href=""mailto:support@zohocrm.com"">support@zohocrm.com</a><br/><br/> Call: +1 (888) 900 9646<br/><br/>  Chat: Zoho Support Live chat<br/><br/>We look forward to servicing your business needs!"	=	"שלום לך,
+<br/> <br/>
+תודה לך על שהקדשת זמן כדי לבדוק את Zoho CRM - מהדורה {0}  במהלך תקופת הניסיון של 15 היום.
+<br/> <br/> <b>
+תוקף חשבון הניסיון שלך פג, ועכשיו יש לך גישה רק למהדורת החינם.
+</ b> <br/> <br/>
+אם החלטת ש Zoho CRM-{0} Edition היא בדיוק מה שאתה צריך עבור העסק שלך, קדימה,
+<a class=""link"" href=""https://crm.zoho.com/crm/Security.do?actionName=manageSubscription&fm=tp"">
+רכוש עכשיו
+</ a> <br/> <br/>
+אם יש לך בקשות או שאלות נוספות אנא אל תהסס ליצור קשר איתנו
+<br/> <br/>
+דואר אלקטרוני:
+<a class=""link"" href=""mailto:support@zohocrm.com""> support@zohocrm.com </ a> <br/> <br/>
+התקשר:
++1 (888) 900 9646
+<br/> <br/>
+צ'אט: Zoho צ'אט
+<br/> <br/>
+אנו מצפים לשרת את הצרכים העסקיים שלך!"	1
+crm.import.clone.email.unique	Disabled as your organization has chosen not to create duplicates 	=	מושבת כי הארגון שלך בחר שלא ליצור כפילויות	1
+crm.import.limit	{0} - {1} per batch. 	=	{0} - {1} לכל אצווה.	1
+crm.import.overwrite.based	Overwrite based on: 	=	דריסה בהתבסס על:	1
+crm.import.overwrite.id.msg	The system automatically assigns unique IDs to every record created in Zoho CRM. You can use these IDs to overwrite/update records. 	=	המערכת מקצה אוטומטית מזהים ייחודיים לכל רשומה שנוצרת ב-CRM Zoho. אתה יכול להשתמש במזהים האלה כדי להחליף / לעדכן את הרשומות.	1
+crm.import.overwrite.none.check	{0} Id cannot be none. 	=	מזהה {0} לא יכול להיות ריק	1
+crm.import.overwrite.option.alert	Please choose a field to overwrite. 	=	בחר תחום כדי לדרוס.	1
+crm.import.rollback.status	Rollback in progress 	=	החזרה למצב קודם בביצוע	1
+crm.import.skip.overwrite	Data Import - Skip /Overwrite 	=	יבוא נתונים - דלג / דרוס	1
+crm.import.skip.overwrite.limit	Skip/Overwrite can be performed with a maximum of 5000 records. 	=	דילג / דריסה ניתן לבצע עד מקסימום של 5000 רשומות.	1
+crm.label.00	0	=	0	1
+crm.label.Account\ Territories	Account Territories 	=	טריטוריות חשבון	1
+crm.label.Contact\ Territories	Contact Territories 	=	טריטוריות אנשי קשר	1
+crm.label.Potential\ Territories	Potential Territories 	=	טריטוריות פוטנציאליים	1
+crm.label.add	Add 	=	הוסף	1
+crm.label.all.territories	All Territories 	=	כל הטריטוריות	1
+crm.label.assign.manually	Assign 	=	הקצה	1
+crm.label.confirmation	Confirmation 	=	אישור	1
+crm.label.create.role.forecast	Create {0} for {1} 	=	צור {0} עבור {1}	1
+crm.label.customapps.mapfields	Map field to fetch records 	=	צור מיפוי שדות להבאת רשומות	1
+crm.label.customfunction.gallery.showfunction	Show Function 	=	הצג פונקציה	1
+crm.label.customfunction.publish	Publish 	=	פרסם	1
+crm.label.customfunction.publish.message1	"Your function will be submitted to our review team. After reviewal, it will be published in the  gallery. "	=	הפונקציה שלך תוגש לצוות הביקורת שלנו. לאחר בדיקה היא תפורסם בגלריה.	1
+crm.label.customfunction.publish.message2	"The code, description and the display name of your function might be changed by our review team on need basis. "	=	"הקוד, התיאור ושם הפונקציה שלך עשויים להשתנות על ידי צוות הביקורת שלנו על לפי הצורך."	1
+crm.label.customfunction.publish.message3	"Once published, it cannot be deleted. "	=	"לאחר שפורסם, לא ניתן למחוק אותו."	1
+crm.label.customfunction.publishgallery.authorName	Author Name 	=	שם מחבר	1
+crm.label.customfunction.publishgallery.authorName.error	Author name should not contain the following special character(s) 	=	שם היוצר לא צריך להכיל את התו(ים) המיוחד(ים) הבא (ים)	1
+crm.label.customfunction.publishgallery.authorNameempty	Please specify a author name. 	=	אנא ציין את שם מחבר.	1
+crm.label.customfunction.publishgallery.authorname.lengthexceeded	Author name can't be longer than 100 characters. 	=	שם היוצר לא יכול להיות ארוך יותר מ -100 תווים.	1
+crm.label.customfunction.publishgallery.describtion	Describe your function 	=	תאר את הפונקציה שלך	1
+crm.label.customfunction.publishgallery.descriptionempty	Please describe few lines about your function. 	=	אנא תאר בכמה שורות את הפונקציה שלך.	1
+crm.label.customfunction.publishgallery.displayName	Display Name 	=	שם לתצוגה	1
+crm.label.customfunction.publishgallery.functionName.error	Display name should not contain the following special character(s) 	=	שם לתצוגה לא אמור להכיל את התו(ים) המיוחד(ים) הבא (ים)	1
+crm.label.customfunction.publishgallery.functionNameempty	Please specify the display name. 	=	אנא ציין את שם התצוגה.	1
+crm.label.customfunction.publishgallery.functionscript	Custom Function Script 	=	סקריפט פונקציה מותאם אישית	1
+crm.label.customfunction.publishingallery	Publish in Gallery 	=	פרסם בגלריה	1
+crm.label.customfunction.publishingallery.desc	"If you feel that your function could be useful for others, you can publish your function in Zoho CRM Gallery. "	=	"אם אתה מרגיש שהפונקציה שלך יכולה להיות שימושית עבור אחרים, אתה יכול לפרסם אותה בגלרית זזבב."	1
+crm.label.customfunction.publishingallery.displayName.desc	(ex: Get Campaigns details from Contactology) 	=	(למשל: קבלו פרטים מקמפייני Contactology )	1
+crm.label.customfunction.viewcode	View Code 	=	הצג קוד	1
+crm.label.customize.create.tabs	Create Tabs 	=	צור כרטיסיות	1
+crm.label.customizetab.createtab.title	Create Tab 	=	צור כרטיסיה	1
+crm.label.detailedview	Detailed View 	=	תצוגה מפורטת	1
+crm.label.forecast.achieved	Achieved 	=	הושג	1
+crm.label.forecast.child.target	Target for Child Territories 	=	מטרה לטריטוריות בנים	1
+crm.label.forecast.child.territory	Child Territories 	=	טריטוריות בנים	1
+crm.label.forecast.closed	Closed {0} 	=	{0} סגור	1
+crm.label.forecast.current	Current 	=	נוכחי	1
+crm.label.forecast.details	Details 	=	פרטים	1
+crm.label.forecast.hierarchy	{0} Hierarchy 	=	{0} היררכיית	1
+crm.label.forecast.indiviual.targets	Target for Territory Users 	=	יעד עבור משתמשי טריטוריה	1
+crm.label.forecast.manager.target	Manager Target 	=	יעד מנהל	1
+crm.label.forecast.my.targets	My Individual Target 	=	היעד אישי שלי	1
+crm.label.forecast.name	Name 	=	שם	1
+crm.label.forecast.not.set.target	Target not set 	=	יעד לא מוגדר	1
+crm.label.forecast.pipeline	Pipeline {0} 	=	צינור {0}	1
+crm.label.forecast.pipeline.amt	Pipeline 	=	צינור	1
+crm.label.forecast.potFields	{0} Fields 	=	{0} שדות	1
+crm.label.forecast.previous.target.history	Previous Target History 	=	היסטורית יעד קודמת	1
+crm.label.forecast.role.members	Role Members 	=	חברים לתפקיד	1
+crm.label.forecast.role.target	Role Target 	=	יעד התפקיד	1
+crm.label.forecast.role.target.quota	Role Target 	=	יעד התפקיד	1
+crm.label.forecast.role.target.summary	Role Target Summary 	=	סיכום יעד תפקיד	1
+crm.label.forecast.set.rolemember.target	Target for Role Users 	=	יעד למשתמשי תפקידים	1
+crm.label.forecast.set.sub.targets	Target for Child Roles 	=	יעד לתפקידי בנים	1
+crm.label.forecast.set.targets	Set Target 	=	קבע יעד 	1
+crm.label.forecast.set.targets.members	Set Target for this Territory Users. 	=	הגדר יעד למשתמשי טריטוריה זו.	1
+crm.label.forecast.setrole.targets.members	Set Targets for this Role Users 	=	הגדר מטרות עבור משתמשי תפקיד זה	1
+crm.label.forecast.settings	{0} Settings 	=	{0} הגדרות	1
+crm.label.forecast.settings.note	You are about to set your organization forecasting. You have chosen <strong> {0}  </strong> as your sales targets on <strong> {1} </strong> basis. 	=	"אתה עומד להגדיר את חיזוי הארגון שלך. בחרת את
+<strong> {0} </ strong>
+כיעדי המכירות שלך על בסיס של 
+<strong> {1} </ strong>"	1
+crm.label.forecast.settings.note1	Once set it cannot be changed. 	=	ברגע שתגדיר את זה לא תוכל לשנות.	1
+crm.label.forecast.shortage	Shortage in % 	=	מחסור ב%	1
+crm.label.forecast.sub.roles	Subordinate Roles 	=	תפקידים כפופים	1
+crm.label.forecast.summary	Summary 	=	תקציר	1
+crm.label.forecast.target	Target 	=	יעד	1
+crm.label.forecast.target.achieved	Target Achieved in % 	=	יעד הושג ב%	1
+crm.label.forecast.target.based	Target Based on 	=	יעד בהתבסס על	1
+crm.label.forecast.target.field	Target Field 	=	שדה יעד	1
+crm.label.forecast.target.period	Target period 	=	תקופת יעד	1
+crm.label.forecast.target.quota	Territory Target 	=	יעד טריטוריה	1
+crm.label.forecast.targettimeperiod	{0} Targets 	=	{0} מטרות	1
+crm.label.forecast.territory.target	Territory Target 	=	יעד טריטוריה	1
+crm.label.forecast.territory.users	Territory Users 	=	משתמשי טריטוריה	1
+crm.label.forecast.time.period	Target Time Period 	=	תקופת זמן יעד	1
+crm.label.general.caps.a	A 	=		1
+crm.label.general.caps.an	An 	=		1
+crm.label.general.small.a	a 	=		1
+crm.label.general.small.an	an 	=		1
+crm.label.general.upcoming.action	Upcoming Actions 	=	פעולות עתידיות	1
+crm.label.hello	"Hello, "	=	"שלום,"	1
+crm.label.include.child.territories	Include Child Territories 	=	בצע הכללה של טריטוריות בנים	1
+crm.label.multiple.territories	Multiple Territories 	=	טריטוריות מרובות	1
+crm.label.new	New 	=	חדש	1
+crm.label.new.forecast	About New {0} 	=	על {0} חדשים	1
+crm.label.newrelatedlist.createmyfirstfunction	Create First Custom Function 	=	צור פונקציה מותאמת אישית ראשונה	1
+crm.label.newrelatedlist.customapp.creatorrecord.delete.confirmMsg	There is no undo operation. Are you sure you want to delete the record permanently ? 	=	לא תוכל לבטל את הפעולה. האם אתה בטוח שברצונך למחוק את הרשומה באופן קבוע?	1
+crm.label.newrelatedlist.customfunction.delete.confirmMsg	Are you sure you want to delete the custom function 	=	האם אתה בטוח שברצונך למחוק את הפונקציה המותאמת אישית	1
+crm.label.newrelatedlist.delete.confirmMsg	Are you sure you want to delete the custom related list 	=	האם אתה בטוח שברצונך למחוק את הרשימה המותאמת אישית	1
+crm.label.no.manager	No Manager. 	=	אין מנהל	1
+crm.label.no.results.match	No results match 	=	אין תוצאות תואמות	1
+crm.label.no.users	No Users. 	=	אין משתמשים.	1
+crm.label.nomatchingterritory	No matching territories found! 	=	לא נמצאו טריטוריות תואמות!	1
+crm.label.nomatchingusers	No matching users found! 	=	לא נמצאו משתמשים תואמים!	1
+crm.label.other.territories	Other Territories 	=	טריטוריות אחרות	1
+crm.label.other.users	Other Users 	=	משתמשים אחרים	1
+crm.label.owner	owner 	=	בעלים	1
+crm.label.parent.territory	Parent Territory 	=	טריטוריית הורה	1
+crm.label.picklist.field	--Select Field-- 	=	- בחר שדה -	1
+crm.label.picklist.month	-- Select Month -- 	=	- בחר חודש -	1
+crm.label.picklist.monthly	Monthly 	=	חדשי	1
+crm.label.picklist.period	-- Select Period -- 	=	- בחר תקופה -	1
+crm.label.picklist.quarter	-- Select Quarter -- 	=	- בחר רבעון -	1
+crm.label.picklist.quarterly	Quarterly 	=	רבעוני	1
+crm.label.picklist.territory	-- Select Territory -- 	=	- בחר טריטוריה -	1
+crm.label.picklist.year	-- Select Year -- 	=	- בחר שנה -	1
+crm.label.purchase.mail.bestregards	"Best Regards, <br><br>Peter S. Balaji <br><br>Customer Relations "	=	"בברכה,
+<br> <br>
+פיטר ס באלאג'י
+<br> <br>
+קשרי לקוחות"	1
+crm.label.records.through.criteria	Apply my own criteria 	=	החל את הקריטריונים שלי	1
+crm.label.records.through.cv	By Custom View 	=	בתצוגה מותאמת אישית	1
+crm.label.search.accounts	Search Accounts 	=	חשבונות חיפוש	1
+crm.label.search.and.add.territory	Search by territory 	=	חפש לפי טריטוריה	1
+crm.label.search.by.role	Search by role 	=	חפש לפי תפקיד	1
+crm.label.set.target	Set Target now 	=	קבע יעד כעת	1
+crm.label.star.performer	Star Performer 	=	מבצע מצטיין	1
+crm.label.take.tour	Take a tour 	=	קח סיור	1
+crm.label.target.mismatch	Target Mismatch 	=	אי התאמה בין מטרות	1
+crm.label.territories.and.subordinates	Territories and Sub-territories 	=	טריטוריות ותת טריטוריות	1
+crm.label.territory	Territory 	=	טריטוריה	1
+crm.label.territory.add.manager	Add Manager 	=	הוסף מנהל	1
+crm.label.territory.change.manager	Change Manager 	=	שנה את המנהל	1
+crm.label.territory.disable	Disable. 	=	השבת.	1
+crm.label.territory.filter	By Territory 	=	לפי טריטוריה	1
+crm.label.territory.highlights	Highlights 	=	הדגשות	1
+crm.label.territory.information	Territory Information 	=	מידע טריטוריה	1
+crm.label.territory.manager	Manager 	=	מנהל	1
+crm.label.territory.name	Territory Name 	=	שם טריטוריה	1
+crm.label.territory.permissions	Permissions 	=	הרשאות	1
+crm.label.territory.read.only	Read Only 	=	קריאה בלבד	1
+crm.label.territory.read.write	Read/Write/Delete 	=	קריאה / כתיבה / מחיקה	1
+crm.label.territory.remove	Remove Territory 	=	הסר טריטוריה	1
+crm.label.territory.search.users	search & add user 	=	לחפש ולהוסיף למשתמש	1
+crm.label.users.permissions	Users and Permissions 	=	משתמשים והרשאות	1
+crm.label.watchvideo	Watch Video 	=	צפה בסרטון	1
+crm.label.without.territory	Without Territory 	=	ללא טריטוריה	1
+crm.label.zoho.campaigns	Zoho Campaigns 	=	קמפיינים של Zoho	1
+crm.lead.conversion.message	Conversion Details 	=	פרטי הסבה	1
+crm.lead.convert.addto.matching.record	Add to matching {0} of the {1} 	=	הוסף ל {0} התואמים של {1}	1
+crm.lead.convert.contact.admin	Please contact your administrator to proceed further. 	=	אנא צור קשר עם המנהל שלך כדי להמשיך הלאה.	1
+crm.lead.convert.duplicate.found	Duplicate E-Mails found 	=	נמצאו הודעות דואר אלקטרוני כפולות	1
+crm.lead.convert.label.matching.record	Matching Record 	=	רשומה תואמת	1
+crm.lead.convert.label.matching.records	Matching Records 	=	רשומות תואמות	1
+crm.lead.convert.merge.records	Merge and Proceed 	=	מזג והמשך	1
+crm.lead.convert.newcontact.for.account	A new {0} <b>{1}</b> will be created for the {2} 	=	<b> חדש {0} {1} </ b> ייווצר עבור {2}	1
+crm.lead.convert.not.accessible	You cannot convert the {0} to this existing {1} as you do not have privilege to access it or you cannot create {1} with this duplicate email address. 	=	"אתה לא יכול להסב את {0} ל {1} הקיים, כי אין לך זכות לגשת אליו או שאתה לא יכול ליצור {1} עם כתובת הדוא""ל הכפולה הזו."	1
+crm.lead.convert.overwrite.account	Overwrite {0} with {1}''s company name 	=	החלף {0} עם שם החברה של ' {1} '	1
+crm.lead.converted.duplicate.email	"A {0} with the email ""{1}"" already exists. "	=	"כבר קיים {0} עם דוא""ל ""{1}"" ."	1
+crm.license.downgrade.cont	What will I miss by downgrading from {0} to {1} 	=	מה יחסר לי אם אוריד דירוג מ {0} ל  {1}	1
+crm.license.downgrade.cont1	Features 	=	תכונות	1
+crm.license.downgrade.cont2	Available in {0} through payment. Whereas it is not possible in Standard Edition. 	=	זמין ב{ 0} באמצעות תשלום. בעוד שזה לא אפשרי במהדורה הסטנדרטית.	1
+crm.list.view	Custom List Views 	=	תצוגות רשימות מותאמות אישית	1
+crm.login.crmterms.html	http://www.zoho.com/crm/zohocrm-terms.html 	=	http://www.zoho.com/crm/zohocrm-terms.html	1
+crm.macro.warning.noActionsAvailableForThisMacro	No actions available in this macro to execute 	=	במאקרו זה אין פעולות זמינות לביצוע	1
+crm.mail.attachment.processing.failed	"Sorry, your Sales Order 'Subject' field may contains special character(s). Please check it and try again. "	=	"סליחה, שדה 'הנושא' בהזמנת המכירות שלך כנראה מכיל תו(ים) מיוחד(ים). אנא בדוק ונסה שוב."	1
+crm.mail.pdfattachment.processing.failed	Sorry! An error occurred while sending mail with the PDF attachment. Please contact our support for the assistance. 	=	סליחה! אירעה שגיאה בעת שליחת מייל עם קובץ PDF המצורף. אנא צור קשר עם התמיכה שלנו לסיוע.	1
+crm.manager.change.alert.noselect	please select a manager 	=	אנא בחר מנהל	1
+crm.map.custom.fields	{0} Conversion Mapping 	=	{0} מיפוי הסבה	1
+crm.mass.mail.limit.exceeds1	Mass Emailing can be done up to 20 mails per day in your trial edition. 	=	"ניתן לשלוח דוא""ל המוני עד -20 מיילים ביום במהדורת הניסוי שלך."	1
+crm.massmail.upgrade	"Sorry, You cannot send mass emails from the Free Edition. "	=	"סליחה, לא ניתן לשלוח מיילים המוניים ממהדורת החינם."	1
+crm.msg.assignment.territory	"The process of assigning territories for the accounts has been started. As a result of it, the territories of the related potentials will also be assigned appropriately. You will be notified through mail, once it is complete. "	=	"התהליך של הקצאת טריטוריות לחשבונות כבר התחיל. כתוצאה מכך, טריטוריות הפוטנציאלים הקשורים יוקצו גם הן כראוי. נודיע לך באמצעות דואר ברגע שהתהליך  יסתיים."	1
+crm.new.label.convert.email.contact.message	{0} with the email address {1} already exists. 	=	"{0} עם כתובת הדוא""ל של {1} כבר קיים."	1
+crm.newrelatedlist.label.customApps.noFields	Please choose some other form to proceed further as there are no fields in the selected form. 	=	"בחר טופס אחר כדי להמשיך הלאה, מכיוון שאין שדות בטופס שנבחר."	1
+crm.newrelatedlist.label.customApps.noViews	Please choose some other form to proceed further as there are no views in the selected form. 	=	"בחר טופס אחר כדי להמשיך הלאה, מכיוון שאין תצוגה לטופס שנבחר."	1
+crm.noof.form	No. of Form 	=	מס. טופס	1
+crm.note.assign.territory	Search accounts based on your needs and assign territories accordingly. Assignment of territories is based on territory rules. 	=	חפש חשבונות המבוססים על הצרכים שלך והקצה טריטוריות בהתאם. הקצאת הטריטוריות מבוססת על כללי טריטוריה.	1
+crm.note.territory.assignment	Territory rules will run for all the matching accounts 	=	כללי טריטוריה יפעלו עבור כל החשבונות המתאימים	1
+crm.notify.records.owner.account	"Notify record owner ({0},{1} and {2}) "	=	"הודע בעלים רשומות ({0}, {1} {2} ו)"	1
+crm.old	Old 	=	ישן	1
+crm.old.enterprise.edition	Old Enterprise Edition 	=	מהדורת Enterprise הישנה	1
+crm.old.professional.edition	Old Professional Edition 	=	מהדורת Professional הישנה	1
+crm.permission.bcc.dropbox	BCC Dropbox 	=	BCC Dropbox	1
+crm.prof.trial.expiry.one	How time flies! 24 hours before your trial period expires! 	=	איך זמן טס! עוד 24 שעות יפוג תוקף תקופת הניסיון שלך!	1
+crm.prof.trial.expiry.three	Your Zoho CRM Trial Expires in 3 Days 	=	ניסיון CRM Zoho יפוג בעוד 3 ימים	1
+crm.professional.edition	Professional Edition 	=	מהדורת Professional	1
+crm.pulse.followup	Pulse Follow-up 	=	מעקב דופק	1
+crm.pulse.territory.auto.add	Territories Added: 	=	טריטוריות שנוספו:	1
+crm.pulse.territory.auto.related.contacts	Related contacts updated: 	=	אנשי קשר קשורים שעודכנו:	1
+crm.pulse.territory.auto.related.potentials	Related potentials updated: 	=	פוטנציאלים קשורים שעודכנו:	1
+crm.pulse.territory.auto.remove	Territories Removed: 	=	טריטוריות הוסרו:	1
+crm.pulse.territory.auto.update	Territories updated automatically. 	=	טריטוריות מתעדכנות באופן אוטומטי.	1
+crm.pulse.territory.manual.add	added Territory: 	=	טריטוריה שנוספה:	1
+crm.pulse.territory.manual.delete	removed Territory: 	=	טריטוריה שהוסרה:	1
+crm.read.write.delete	"Public Read, Write & Delete "	=	"קריאה, כתיבה ומחיקה פתוחים לציבור"	1
+crm.relatedList.label.InvitedEvents	Invited Events 	=	אירועים מוזמנים	1
+crm.reports.avg.of	Avg of {0} 	=	ממוצע של {0}	1
+crm.reports.max.of	Max of {0} 	=	מקסימום של {0}	1
+crm.reports.min.of	Min of {0} 	=	מינימום של {0}	1
+crm.role.forecast.activation.note	"Forecast will be based on Roles. Your organisation''s existing forecast information will become obsolete and cannot be accessed. Kindly <a href=""{0}"" class=""fbllink""><u>export</u></a> forecast for any backup purposes."	=	"התחזית תהיה מבוססת על תפקידים. מידע התחזית הנוכחית של הארגון שלך יהפוך למיושן ולא יהיה אפשרי לגשת אליו. אנא
+ <a href=""{0}"" class=""fbllink""> <u>בצע יצוא </ u> </ a> תחזית למטרות גיבוי."	1
+crm.role.note.change.manager	 	=	 	1
+crm.role.select.manager	Select Manager 	=	בחר מנהל	1
+crm.rules.per.module	Number of Rules per Module 	=	מספר הכללים לכל מודול	1
+crm.salessummay.notapplicable	NA 	=	לא ישים	
+crm.security.associated.territory.empty	No Territory is associated 	=	אין טריטוריה קשורה	1
+crm.security.associated.territorysub.empty	No Territory and Sub-territories is associated 	=	לא טריטוריה ותת טריטוריות קשור	
+crm.security.license.edition.standard	Standard Edition 	=	מהדורה רגילה	
+crm.security.role.forecastManager	Forecast Manager 	=	מנהל תחזית	
+crm.self.service.portal	Self-service Portal 	=	פורטל שירות עצמי	
+crm.show.old.editions	Show Old Editions 	=	הצג מהדורות ישנות	
+crm.standard.edition	Standard Edition 	=	מהדורה רגילה	
+crm.territiory.asso.territories	Associated Territories 	=	טריטוריות נלווים	
+crm.territiory.asso.territories.and.sub	Associated Territories and Sub-territories 	=	טריטוריות נלווים ומשנת טריטוריות	
+crm.territory	Territory Management* 	=	ניהול טריטוריה *	
+crm.territory.activation.description	You are just a step away from enabling Territory Management for your organization. 	=	אתה רק במרחק המאפשר ניהול טריטוריה עבור הארגון שלך שלב.	
+crm.territory.activation.note2	"Forecast will be based on Territories. Your organisation''s existing forecast information will become obsolete and cannot be accessed. Kindly <a href=""{0}"" class=""fbllink""><u>export</u></a> forecast for any backup purposes."	=	"תחזית תהיה מבוססת על טריטוריות. המידע הקיים'' תחזית של הארגון שלך יהפוך למיושנים ולא ניתן לגשת אליו. חביבות <a href=""{0}"" class=""fbllink""> <u> יצוא </ u> </ a> תחזית לכל מטרות גיבוי."	
+crm.territory.activation.note3	Exported Forecast cannot be reused for Territory forecasting. 	=	תחזית יצוא לא ניתן לעשות שימוש חוזר לחיזוי טריטוריה.	
+crm.territory.add.manager.success.msg	Manager Added Successfully 	=	מנהל נוסף בהצלחה	
+crm.territory.addterritory	Add Territory 	=	הוסף טריטוריה	
+crm.territory.alert.add	You cannot add additional Territory. 	=	אתה לא יכול להוסיף טריטוריות נוספים.	
+crm.territory.alert.name	Territory Name cannot be empty 	=	שם טריטוריה לא יכול להיות ריק	
+crm.territory.alert.parentName	Parent Territory cannot be empty 	=	טריטוריה ההורה אינו יכולה להיות ריקה	
+crm.territory.change.manager.mail.content	{0} has been appointed as your new territory manager ( {1} ). Please get in touch with your manager for your sales activities. 	=	{0} מונה לתפקיד מנהל הטריטוריה החדש שלך ({1}). אנא צור קשר עם המנהל שלך לפעילות המכירות שלך.	
+crm.territory.change.manager.sub	You have a new manager for your territory 	=	יש לך מנהל חדש לטריטוריה שלך	
+crm.territory.change.manager.success.msg	Manager Changed Successfully 	=	מנהל שונה בהצלחה	
+crm.territory.change.owner.mail.content	"User {0} has been moved to a new territory and a few of her/his records have been reassigned to you.If you have any clarifications, please follow up with your Territory Manager - {1}. "	=	"משתמש {0} כבר עבר לטריטוריה חדשה וכמה ממנה / התקליטים שלו כבר מחדש לyou.If יש לך כל הבהרות, אנא מעקב עם מנהל הטריטוריה שלך - {1}."	
+crm.territory.change.owner.sub	Details of the new records assigned to you 	=	פרטים על השיאים החדשים שהוקצו לך	
+crm.territory.choose.transferto	please select a territory 	=	אנא בחר טריטוריה	
+crm.territory.create.child.territory	Create Child Territory 	=	יצירת טריטוריה ילד	
+crm.territory.create.from.org.note	Your organization's parent Territory is successfully created. Start creating child territories as needed. 	=	הטריטוריה ההורה של הארגון שלך נוצרה בהצלחה. להתחיל ביצירת טריטוריות לילדים במידת צורך.	
+crm.territory.create.from.role.note	The territory hierarchy for your organization has been created successfully. 	=	היררכית הטריטוריה עבור הארגון שלך נוצרה בהצלחה.	
+crm.territory.create.success.msg	Territory Created Successfully 	=	טריטוריה נוצר בהצלחה	
+crm.territory.delete.info	You must transfer the child territories to other territory before deleting this territory. 	=	עליך להעביר למדינה אחרת בטריטוריות הילד לפני מחיקת טריטוריה זה.	
+crm.territory.delete.info1	"{0}, {1} and {2} of this territory will not be associated to this territory "	=	"{0}, {1} {2} וטריטוריה זה לא קשור לטריטוריה זה"	
+crm.territory.delete.info2	{0} of this territory will be deleted permanently. 	=	{0} של טריטוריה זה יימחק לצמיתות.	
+crm.territory.delete.mail.content	Your territory ( {0} ) has been removed from your organization. Hence you have been dis-associated from it. However the records you owned in the territory will be retained with you without the territory association. 	=	הטריטוריה שלך ({0}) הוסרה מהארגון שלך. ומכאן יש לך כבר אי - משויך ממנו. עם זאת את הרשומות שבבעלותך בטריטוריה תישמר איתך ללא שיוך הטריטוריה.	
+crm.territory.delete.mail.sub	Your territory has been removed 	=	הטריטוריה שלך הוסרה	
+crm.territory.delete.note	"You are about to delete the territory from your hierarchy. By doing so, "	=	"אתה עומד למחוק את הטריטוריה מההיררכיה שלך. בעשותם כך,"	
+crm.territory.delete.success.msg	Territory Deleted Successfully 	=	טריטוריה נמחקה בהצלחה	
+crm.territory.disable.desc	"If your business needs have changed, you can always<a onclick=""Territory.showTerritoryPopup('disable')"" href=""javascript:void(0);"" class=""fbllink pR10 mR10 pL5"">Disable Territory Management.</a>"	=	"אם הצרכים העסקיים שלך השתנו, אתה תמיד יכול <a onclick=""Territory.showTerritoryPopup('disable')"" href=""javascript:void(0);"" PR10 mR10 pL5""> class=""fbllink השבת ניהול טריטוריה. </ >"	
+crm.territory.disable.info	"If you feel that Territory Management has been disabled without your knowledge, you can enable it again. "	=	"אם אתה מרגיש שניהול הטריטוריה הושבת ללא ידיעתך, אתה יכול להפעיל אותו שוב."	
+crm.territory.disable.info1	Go to Setup > Territory Management 	=	עבור להתקנה> ניהול טריטוריה	
+crm.territory.disable.info2	Click Territories 	=	לחץ על טריטוריות	
+crm.territory.disable.info3	Click Enable 	=	לחץ על הפעל	
+crm.territory.disable.mail.content.note	Please make a note of the following information going forward 	=	אנא רשום את הפרטים הבאים הולכים קדימה	
+crm.territory.disable.msg	Your Zoho CRM Administrator - #NAME has disabled Territory Management for your organization. 	=	מנהל ה-CRM שלך Zoho - # NAME ביטל ניהול טריטוריה לארגון שלך.	
+crm.territory.disable.msg.info1	"Territory information associated with the accounts, contacts and potentials will be inaccessible. "	=	"מידע טריטוריה קשור לחשבונות, אנשי קשר ואת הפוטנציאל יהיו נגישים."	
+crm.territory.disable.msg.info2	Existing Territory Forecasts will become obsolete and inaccessible. 	=	"תחזיות טריטוריה קיימת, לא תהיה מיושנות ובלתי נגישה."	
+crm.territory.disable.msg.info3	All forecast will now be based on your organization's role hierarchy. 	=	כל תחזית החברה תהיה מבוססת על היררכית התפקיד של הארגון שלך.	
+crm.territory.disable.msg1	Please make a note of the following information going forward: 	=	אנא רשום את הפרטים הבאים הולכים קדימה:	
+crm.territory.disable.note	"You are about to disable Territory management for your organization.  By doing so, "	=	"אתה עומד להשבית ניהול טריטוריה לארגון שלך. בעשותם כך,"	
+crm.territory.disable.note1	"Your territory information associated with your {0}, {1} and {2} will become  inaccessible. "	=	"מידע הטריטוריה שלך קשור {0}, {1} {2} ויהיה נגיש."	
+crm.territory.disable.note2	"Your existing territory {0} will become inaccessible. Henceforth, all your new forecasting will be based on your organizations role hierarchy. "	=	"הטריטוריה הקיים שלך {0} יהיה נגיש. מכאן ואילך, כל החיזוי החדש שלך יהיה מבוסס על תפקיד ההיררכיה הארגונית שלך."	
+crm.territory.disable.sub	Update - Territory Management for your Zoho CRM account disabled 	=	עדכון - ניהול טריטוריה עבור חשבון ה-CRM שלך Zoho מושבתים	
+crm.territory.enable	Enable Territory 	=	לאפשר לטריטוריה	
+crm.territory.enable.key.benefits	Key Benefits of Territory Management 	=	יתרונות עיקריים של ניהול טריטוריה	
+crm.territory.enable.key.benefits.info1	More focus on the Potentials of your territories and to maximize revenue 	=	להתמקד יותר על הפוטנציאל של הטריטוריות שלך ועל מנת למקסם את ההכנסות	
+crm.territory.enable.key.benefits.info2	Reduction cost and expenses 	=	עלות הפחתה והוצאות	
+crm.territory.enable.key.benefits.info3	Improved motivation of the sales force 	=	מוטיבציה משופרת של כוח המכירות	
+crm.territory.enable.manual	"To know more about Territory Management, please <a href='javascript:void(0);' style='color:#3366cc;'>read our manuals</a>"	=	"כדי לדעת יותר על ניהול טריטוריה, <a href='javascript:void(0);' לקרוא המדריכים שלנו style='color:#3366cc;'> </ a>"	
+crm.territory.enable.msg	Your Zoho CRM Administrator -<b>#NAME</b> has enabled Territory Management for your organization. 	=	מנהל ה-CRM Zoho שלך - NAME # <b> </ b> אפשר ניהול טריטוריה לארגון שלך.	
+crm.territory.enable.msg1	Define your organization structure based on Territories 	=	הגדרת מבנה הארגון שלך מבוסס על טריטוריות	
+crm.territory.enable.msg2	Segment your Accounts based on the territory rules 	=	קטע החשבונות שלך על פי כללי הטריטוריה	
+crm.territory.enable.msg3	Do Forecast and track your revenue effectively 	=	האם תחזית ולעקוב אחר ההכנסות שלך בצורה יעילה	
+crm.territory.enable.note	"Territory management allows you to define your organization based on regions, products, target margins, etc., to effectively manage your business. Focus more on your sales territories to maximize your revenue. "	=	"ניהול טריטוריה מאפשר לך להגדיר את הארגון שלך מבוסס על אזורים, מוצרים, שוליים היעד, וכו ', כדי לנהל את העסק שלך בצורה יעילה. להתמקד יותר בטריטוריות המכירות שלך למקסם את ההכנסות שלך."	
+crm.territory.enable.sub	Update - Territory Management for your Zoho CRM account enabled 	=	עדכון - ניהול טריטוריה עבור חשבון ה-CRM שלך אפשר Zoho	
+crm.territory.enabled.mail.content	With the newly enabled feature you can 	=	עם התכונה חדשה שאפשרה לך יכול	
+crm.territory.extend.from.role.hierarchy	Extend from Role Hierarchy 	=	להאריך מהיררכית התפקיד	
+crm.territory.forecast.note	Start planning and execute your business strategies accordingly. Happy forecasting !!! 	=	להתחיל בתכנון וביצוע האסטרטגיות העסקיות שלך בהתאם. חיזוי מאושר!	
+crm.territory.forecast.note1	You can setup your company Forecast 	=	באפשרותך להגדיר תחזית החברה שלך	
+crm.territory.forecast.start.note	Forecast is a prediction of expected sales of an organization. The sales revenue patterns and the product demands can be determined effectively. The Managers can set targets and measure the progress of their subordinates. The potentials of the individuals from pipeline to closed sales would be rolled up through their hierarchies and get reflected for the organization. 	=	תחזית היא חיזוי של מכירות צפויות של ארגון. את דפוסי הכנסות ממכירות ודרישות המוצר יכולים להיקבע בצורה יעילה. המנהלים יכולים לקבוע יעדים ולמדוד את ההתקדמות של הכפופים להם. הפוטנציאלים של אנשים מצינור למכירות סגורות יהיו מגולגלים בהיררכיות שלהם ולקבל לידי ביטוי בארגון.	
+crm.territory.highlights1	Define your organization through Territories. 	=	הגדרת הארגון שלך דרך טריטוריות.	
+crm.territory.highlights2	Do forecasting and revenue tracking effectively. 	=	האם חיזוי הכנסות ומעקב בצורה יעילה.	
+crm.territory.highlights3	Build reports and dashboards based on Territories. 	=	לבנות דוחות ולוחות מחוונים המבוססים על טריטוריות.	
+crm.territory.label.Rule	Rule 	=	כלל	
+crm.territory.label.auto.assigned	Automatically assigned on 	=	שהוקצה באופן אוטומטי על	
+crm.territory.label.childs	{0} & its Sub-territories 	=	{0} & משנה טריטוריות	
+crm.territory.label.name	Name 	=	שם	
+crm.territory.label.only	{0} only 	=	{0} רק	
+crm.territory.label.territory.manager	Territory Manager 	=	מנהל טריטוריה	
+crm.territory.label.user	Users 	=	משתמשים	
+crm.territory.mail.msg.users.added	{0}  has added a few users in your territory ( {1} ). 	=	{0} הוסיף כמה משתמשים בטריטוריה שלך ({1}).	
+crm.territory.mail.msg.users.added1	You can set the sales targets and goals for them. 	=	באפשרותך להגדיר את יעדי מכירות ומטרות עבורם.	
+crm.territory.mail.msg.users.removed	{0} has removed a few of the users from your territory ( {1} ). 	=	{0} יש להסיר כמה מהמשתמשים מהטריטוריה שלך ({1}).	
+crm.territory.mail.msg.users.removed1	The records owned by them have been moved to other users of the territory - {0}. 	=	את הרשומות שבבעלותם כבר עברו למשתמשים אחרים בטריטוריה - {0}.	
+crm.territory.mail.msg.users.removed2	"If you feel that the users have been removed without prior notice to you, please contact your Administrator. "	=	"אם אתה מרגיש שהמשתמשים הוסרו ללא הודעה מוקדמת לך, אנא פנה למנהל שלך."	
+crm.territory.mail.sub.users.changed	Territory users updated 	=	עודכנו משתמשי טריטוריה	
+crm.territory.mail.users.modify	{0} has been modified your {1} Territory 	=	{0} כבר שונה {1} הטריטוריה שלך	
+crm.territory.management	Territory Management 	=	ניהול טריטוריה	
+crm.territory.modified.success.msg	Territory Modified Successfully 	=	טריטוריה שונה בהצלחה	
+crm.territory.msg.changed.rule	The Rule changes will take effect for the existing records only when they are modified. Do you want to run the rules now for the existing records ? 	=	שינויי כללים ייכנסו לתוקף עבור רשומות קיימים רק כאשר ישנו אותן. האם ברצונך להפעיל את הכללים על הרשומות הקיימות?	1
+crm.territory.msg.no.parent.rule	The assignment rule which you have configured will not be evaluated as the assignment rule for the parent territory is yet to be configured. 	=	כלל ההקצאה שהגדרת לא יחושב כי כלל ההקצאה לטריטורית ההורה עדיין לא הוגדר.	1
+crm.territory.msg.rule.criteria	"For Accounts to be automatically assigned to this territory, please configure the Rule Criteria. "	=	"עבור חשבונות שיוקצו באופן אוטומטי לטריטוריה זו, יש להגדיר את הקריטריונים של הכלל."	1
+crm.territory.no.more.users	No more users to add ! 	=	לא ניתן להוסיף עוד משתמשים!	1
+crm.territory.note.change.manager	The existing active(open) records owned by the current manager will be moved to the new manager. The old manager will still be maintained as a Territory user. 	=	הרשומות הקיימות (פתוחות) בבעלות המנהל הנוכחי יועברו אל המנהל החדש. המנהל הישן עדיין יישמר כטריטוריה.	1
+crm.territory.note.deleteterritory	Deleting the territory will also delete its child territories. Are you sure you want to delete? 	=	מחיקת הטריטוריה תגרום למחיקת טריטוריות הבנים שלה. האם אתה בטוח שברצונך למחוק?	1
+crm.territory.note.extend.from.role	"Your organization's role hierarchy is listed below, You can replicate it as your Territory Hierarchy. You can add, edit or remove Territories as needed after the conversion. The Role's Forecast Manager if available will be set as the Territory's Manager. Members from the Role will be added as Territory members. "	=	"היררכיית התפקידים של הארגון שלך מופיעה ברשימה למטה. אתה יכול לשכפל אותה כהיררכיית הטריטוריה שלך. ניתן להוסיף, לערוך או להסיר טריטוריות כנדרש לאחר ההסבה. מנהל תחזית של התפקיד, אם זמין, יוגדר כמנהל של הטריטוריה. חברים לתפקיד יתווספו כטריטוריה."	1
+crm.territory.note.removeuser	"You must change the ownership (other than closed potentials and previous forecasts) of the records of the removed users to other users before proceeding. If a user doesn't belong to the territory is specified, the new user will be added to the territory. "	=	"עליך לשנות את הבעלות (למעט מפוטנציאלים סגורים ותחזיות קודמות) של רשומות המשתמשים שהוסרו אל משתמשים אחרים  לפני שתמשיך. אם משתמש אינו שייך לטריטוריה המוגדרת, המשתמש החדש יתווסף לטריטוריהה."	1
+crm.territory.note.role.hierarchy	Your existing Role Hierarchy will be used as your territory hierarchy 	=	היררכיית התפקידים הקיימת שלך תשמש כהיררכיית הטריטוריה שלך	1
+crm.territory.note.start.from.scratch	"Your organization name will be set as the parent territory of your organization territory hierarchy. You can start defining child territories after creating the hierarchy. Once the Territory Hierarchy is created from scratch, you cannot replicate the Role Hierarchy to create the Territory Hierarchy. "	=	"שם הארגון שלך יוגדר כטריטורית ההורה של היררכיית הטריטוריה לארגון שלך. אתה יכול להתחיל את הגדרת טריטוריות בן לאחר יצירת ההיררכיה. ברגע שהיררכיית הטריטוריה נוצרה מאפס, אתה לא יכול לשכפל את היררכיית התפקיד כדי ליצור היררכיית טריטוריה."	1
+crm.territory.note.start.hierarchy	Define your territories? from the scratch 	=	הגדרת הטריטוריות שלך? מההתחלה	1
+crm.territory.note.territory.hierarchy	Start creating the territory hierarchy for your organization using the options given below 	=	התחל ליצור היררכית הטריטוריה עבור הארגון שלך באמצעות האפשרויות המפורטות להלן	1
+crm.territory.schedule.mail.content	The territory rules have been run and the assignment of territories to the Accounts has been successfully completed. Territories for the related Contacts and Potentials of the Accounts have also been updated. 	=	כללי הטריטוריה כבר רצים וההקצאה של טריטוריות לחשבונות הושלמה בהצלחה. טריטוריות לאנשי הקשר הקשורים והפוטנציאלים של חשבונות עודכנו גם הם.	1
+crm.territory.schedule.mail.content.failure	The territory rules failed to run and so the accounts have not been assigned to the appropriate territories. 	=	נכשלה הפעלת כללי הטריטוריה ולכן החשבונות לא הוקצו לטריטוריות המתאימות.	1
+crm.territory.schedule.mail.content.failure1	"Please run the territory rules once again. If you have an issue again, write to support@zohocrm.com for assistance. "	=	"אנא הפעל שוב את כללי הטריטוריה. אם הבעיה חוזרת, כתוב אל support@zohocrm.com לקבלת סיוע."	1
+crm.territory.schedule.mail.subject.completed	Territory rules have run successfully 	=	כללי טריטוריה פעלו בהצלחה	1
+crm.territory.schedule.mail.subject.failure	Failure in assigning territories to the accounts 	=	כישלון בהקצאת טריטוריות לחשבונות	1
+crm.territory.start.from.scratch	Start from the Scratch 	=	התחל מאפס	1
+crm.territory.territories	Territories 	=	טריטוריות	1
+crm.territory.title.assign.territories	Assign Territories 	=	הקצאת טריטוריות	1
+crm.territory.title.choose.parent	Choose Parent Territory 	=	בחר טריטורית הורה	1
+crm.territory.title.create.territory.hierarchy	Create Territory Hierarchy 	=	יצירת הירארכיית טריטוריות	1
+crm.territory.title.delete.territory	Delete Territory 	=	מחק את הטריטוריה	1
+crm.territory.title.removeuser	Remove User 	=	הסר משתמש	1
+crm.territory.title.rename	Click to Rename 	=	לחץ לשינוי שם	1
+crm.territory.title.territory.hierarchy	Territory Hierarchy 	=	היררכיית טריטוריות	1
+crm.territory.transfer.to	Transfer the child territories to 	=	העבר את טריטוריות הבן ל	1
+crm.territory.users.add	List of user(s) added are 	=	רשימת המשתמש (ים) שנוספו היא 	1
+crm.territory.users.remove	User(s) who got removed are 	=	משתמש (ים) שהוסרו הם	1
+crm.time.based.actions.per.module	Time-based actions per Rule 	=	פעולות מבוססות זמן לפי כלל	1
+crm.timebased.action	Time-based actions 	=	פעולות מבוססות זמן	1
+crm.title.assignterritory.notify	Assign Territory Notification 	=	הקצאת הודעת טריטוריה	1
+crm.title.assignterritory.progress	Assigning in Progress... 	=	תהליך הקצאה בהתקדמות ...	1
+crm.title.confirmation	Confirmation 	=	אישור	1
+crm.title.create.territory	Create Territory 	=	יצירת טריטוריה	1
+crm.title.edit.territory	Edit Territory 	=	ערוך טריטוריה	1
+crm.title.enable.forecast	Enabling {0} 	=	אפשור {0}	1
+crm.title.territory.activation	Enabling Territory Management 	=	איפשור ניהול טריטוריה	1
+crm.title.territory.assignment.rule	Assign Territories to Accounts 	=	הקצאת טריטוריות לחשבונות	1
+crm.title.territory.disable	Disabling Territory Management 	=	השבתת ניהול טריטוריה	1
+crm.title.territory.disabled	Territory Management has been disabled 	=	ניהול טריטוריה מושבת	1
+crm.title.territory.enabled	Territory Management has been enabled 	=	ניהול טריטוריה מאופשר	1
+crm.title.territory.remove	Remove Territory 	=	הסר טריטוריה	1
+crm.title.workflow.all.wfDeluge	Zoho CRM - Workflow Deluge 	=	Zoho CRM - Workflow Deluge	1
+crm.title.workflow.show.wfDeluge	Zoho CRM - View Workflow Deluge 	=	Zoho CRM - Deluge - צפה בזרימת עבודת	1
+crm.topmenu.blogs	Blogs 	=	בלוגים	1
+crm.topmenu.forum	Forum 	=	פורום	1
+crm.topmenu.manuals	Manuals 	=	ספרי הדרכה	1
+crm.total.custom.fields.per.module	Total Custom Fields per module 	=	"ס""ה שדות מותאמים אישית לפי מודול"	1
+crm.trial.confirm	I understand. Enable Now 	=	אני מבין. הפעל עכשיו	1
+crm.trial.confirm.info	"You are about to try ""{0} Edition"" for 15 days. During this trial period you would miss the features mentioned below. "	=	"אתה עומד לנסות ""{0} מהדורה"" במשך 15 ימים. במהלך תקופה זו יחסרו לך התכונות שמוזכרות להלן."	1
+crm.trial.edition	{0} Edition - Trial 	=	ניסיון - מהדורה {0}	1
+crm.trial.enable.sub	Your Zoho CRM - {0} Edition trial period starts now 	=	ניסיון מהדורה {0} של זזבב מתחיל כעת	1
+crm.trial.enabled.body	"Hi,<br/><br/>Thank you for opting to evaluate Zoho CRM - {0} Edition. Your 15-day trial period starts now.<br/><br/> We will be happy to discuss further how Zoho CRM - {0} Edition might be the right fit for your organization. Here is how you can reach us<br/><br/> Email: <a class=""link"" href=""mailto:support@zohocrm.com"">support@zohocrm.com</a><br/><br/> Call: +1 (888) 900 9646<br/><br/>  Chat: Zoho Support Live chat<br/><br/> Also know that you can request a <a class=""link"" href=""https://www.zoho.com/crm/lp/demo.html"">Webinar</a>, or access our <a class=""link"" href=""https://attendee.gotowebinar.com/rt/4236704523688342272"">Online Videos and Demos</a> to help you understand the features of the product.<br/><br/> We hope you enjoy evaluating Zoho CRM - {0} Edition.<br/>"	=	"היי,
+<br/> <br/>
+תודה לך על הבחירה להעריך את CRM Zoho - {0} Edition. תקופת הניסיון של 15 היום שלך מתחילה עכשיו. <br/> <br/>
+  נשמח לדון בהמשך איך Zoho CRM - {0} מהדורה עשויה להיות המוצר הנכון עבור הארגון שלך. אתה יכול להגיע אלינו ככה:
+<br/> <br/> דוא""ל: <a class=""link"" href=""mailto:support@zohocrm.com""> support@zohocrm.com </a> <br/> <br/>
+  קריאה: +1 (888) 900 9646 <br/> <br/> צ'אט: Zoho הצ'אט <br/> <br/> גם יודע שאתה יכול לבקש <class = ""קישור"" href = ""https: / / www.zoho.com / CRM / LP / demo.html ""> Webinar </a>
+, או ראה גם
+<a class=""link"" href=""https://attendee.gotowebinar.com/rt/4236704523688342272"">
+סרטונים והדגמות באינטרנט
+</a> כדי לעזור לך להבין את התכונות של המוצר.
+<br/> <br/>
+אנו מקווים שאתה נהנה מהערכת Zoho CRM - {0} Edition.
+<br/>"	1
+crm.trial.expiry.date	Expires in {0} Days 	=	יפוג בעוד { 0} ימים	1
+crm.trial.expiry.message1	Your {0} Trial expires tomorrow 	=	ניסיון {0} שלך יפוג מחר	1
+crm.trial.expiry.message2	Your {0} Trial expires today 	=	ניסיון {0} שלך פג היום	1
+crm.trial.expiry.message3	Your {0} Trial expires in {1} days 	=	ניסיון {0} שלך יפוג בעוד {1} ימים	1
+crm.trial.expiry.today	Expires today 	=	פוקע היום	1
+crm.trial.expiry.tomorrw	Expires tomorrow 	=	פג תוקף מחר	1
+crm.trial.missing.module	{0} and {1} modules 	=	{0} {1} מודולים	1
+crm.trial.sccess.message	Trial enabled successfully 	=	ניסיון אופשר בהצלחה	1
+crm.try.new.editions	New Editions 	=	מהדורות חדשות	1
+crm.try.old.editions	Old Editions 	=	מהדורות ישנות	1
+crm.upgrade.feature.access.msg1	Please {0} your account to use this feature. 	=	אנא {0} החשבון שלך כדי להשתמש בתכונה זו.	1
+crm.upgrade.trial.edition.body	"Hi,<br/><br/>You have opted to evaluate {1} Edtion in Zoho CRM. We understand that your business needs may have grown.<br/><br/>You can evaluate the {1} Edition for the remaining {2} days of your trial period.<br/><br/>We will be happy to talk to you on how Zoho CRM - {1} Edition will be the right fit for your business needs.<br/><br/>Do not hesitate to reach us if you have any questions during the trial period. We are available on:<br/><br/> Email: <a class=""link"" href=""mailto:support@zohocrm.com"">support@zohocrm.com</a><br/><br/> Cal: +1 (888) 900 9646<br/><br/> Chat: Zoho Support Live chat<br/><br/>If you require additional time for the evaluation, write to us at <a class=""link"" href=""mailto:support@zohocrm.com"">support@zohocrm.com</a><br/><br/>Good Luck with your evaluation!"	=	"היי,
+<br/> <br/>
+בחרת להעריך את {1} Edtion ב-CRM Zoho. אנו משערים שהצרכים העסקיים שלך גדלו.
+<br/> <br/>
+אתה יכול להעריך את מהדורת {1} עבור {2} הימים הנותרים של תקופת הניסיון שלך.
+
+<br/> <br/>
+נשמח לדבר איתך על איך Zoho CRM -. {1} Edition תהיה המוצר הנכון עבור הצרכים העסקיים שלך <br/> <br/> 
+אל תהסס לפנות אלינו אם יש לך שאלות כלשהן במהלך תקופת הניסיון . אנחנו זמינים ב:
+<br/> <br/>
+דואר אלקטרוני:
+<a class=""link"" href=""mailto:support@zohocrm.com""> support@zohocrm.com </a> <br/> <br/> קאל: +1 (888) 900 9646 <br/> <br /> צ'אט: תמיכת Zoho צ'אט <br/> <br/>
+אם אתה זקוק לזמן נוסף להערכה, כתוב לנו אל
+<a class=""link"" href=""mailto:support@zohocrm.com""> support@zohocrm.com </a> <br/> <br/>
+מאחלים לך הצלחה בהערכה שלך!"	1
+crm.upgrade.trial.edition.sub	Your evaluation edition in Zoho CRM has been upgraded 	=	מהדורת ההערכה שלך ב Zoho CRM שודרגה	1
+crm.users.per.storage	User Licenses * 250 MB 	=	רישיונות שימוש * 250 MB	1
+crm.users.per.storage1	User Licenses * 500 MB 	=	רישיונות שימוש * 500 MB	1
+crm.web.lead.and.contact	Web to Lead/Contact Form 	=	טופס רשת אל ליד/איש קשר	1
+crm.webentity.awaiting.approve	{0} awaiting approval. 	=	{0} ממתין לאישור	1
+crm.webentity.enable.approval.case	"<a href=""/crm/WebCaseApproval.do?isload=true"" target=""_blank"" class='link'>Approve the {0}</a> coming through this web form manually."	=	"<a href=""/crm/WebCaseApproval.do?isload=true"" target=""_blank"" class='link'>
+אשר את {0}  
+</a>
+שמגיע דרך טופס אינטרנט זה באופן ידני"	1
+crm.webentity.enable.approval.contact	"<a href=""/crm/WebContactApproval.do?isload=true"" target=""_blank"" class='link'>Approve the {0}</a> coming through this web form manually."	=	"<a href=""/crm/WebContactApproval.do?isload=true"" target=""_blank"" class='link'>
+ אשר את {0}
+</a>
+שמגיע דרך טופס אינטרנט זה באופן ידני"	1
+crm.webentity.enable.approval.lead	"<a href=""/crm/WebLeadApproval.do?isload=true"" target=""_blank"" class='link'>Approve the {0}</a> coming through this web form manually."	=	"<a href=""/crm/WebLeadApproval.do?isload=true"" target=""_blank"" class='link'>
+ אשר את {0}
+</a>
+שמגיע דרך טופס אינטרנט זה באופן ידני"	1
+crm.webentity.enable.approval.message.note	"Note: As your organization has chosen not to allow {0} with duplicate email address, the {0} coming through web forms with duplicate email address will aslo required manual approval. "	=	"הערה: כפי שהארגון שלך בחר שלא לאפשר {0} עם כתובת הדוא""ל כפולה, {0} שמגיע דרך טפסים באינטרנט עם כתובת דוא""ל משוכפלת ידרוש אישור ידני."	1
+crm.webto.duplicate.webform	Duplicate {0} via webform 	=	כפל {0} באמצעות טופס האינטרנט	1
+crm.webto.webform.duplicate.mail.content	Duplicate {0} generated via Web To {1} form are {2}awaiting approval</a> as your organization have chosen not to allow duplicate {0}. 	=	כפלי {0} שמופקים באמצעות אינטרנט עבור טופס {1}  הינם {2} ממתינים לאישור </a> כי הארגון שלך בחר שלא לאפשר לשכפל {0}.	1
+crm.whats.this	What's this? 	=	מה זה?	1
+crm.workflow.label.deluge	Deluge 	=	Deluge	1
+crm.workflow.rules.per.module	Rules per Module 	=	כללים לכל מודול	1
+crm.yes.understand	I Understand. Proceed 	=	אני מבין. התקדם	1
+crm.zcampaign.bounced	Bounced 	=	הוקפץ חזרה	1
+crm.zcampaign.bouncerate	Bounce rate 	=	שיעור הקפצה בחזרה	1
+crm.zcampaign.campaign.mail.details	Campaign Mail Details 	=	פרטי דואר של מסע פרסום	1
+crm.zcampaign.clicked	Clicked 	=	לחץ	1
+crm.zcampaign.complaints	Complaints 	=	תלונות	1
+crm.zcampaign.delivered	Delivered 	=	נמסר	1
+crm.zcampaign.followup	Followup 	=	מעקב	1
+crm.zcampaign.mail	Mail 	=	דואר	1
+crm.zcampaign.mail.content	Mail Content 	=	תכני דואל	1
+crm.zcampaign.notclicked	Not clicked 	=	לא נלחץ	1
+crm.zcampaign.opened	Opened 	=	נפתח	1
+crm.zcampaign.optout	UnSubscribed 	=	המנוי בוטל	1
+crm.zcampaign.recipient	Recipient 	=	מקבל	1
+crm.zcampaign.recipients	Recipients 	=	מקבלי	1
+crm.zcampaign.scheduled	Scheduled 	=	מתוכנן	1
+crm.zcampaign.sent.date	Sent Date 	=	תאריך שליחה	1
+crm.zcampaign.spam	Complaints 	=	תלונות	1
+crm.zcampaign.subject	Subject 	=	נושא	1
+crm.zcampaign.unopened	Unopened 	=	שלא נפתח	1
+crm.zcampaign.view	View 	=	מבט	1
+crm.zcampaign.view.recipients	View Recipients 	=	צפה במקבלים	1
+crm.zmail.push.notification.mesg	You have {0} new messages 	=	יש לך {0} הודעות חדשות	1
+crm.zreports.database.name	Zoho CRM Reports 	=	דוחות CRM Zoho	1
+custommodule.crmfield.fl.name	{0} Name 	=	{0} שם	1
+custommodule.crmfield.fl.owner	{0} Owner 	=	{0} בעלים של 	1
+disabled	disabled 	=	מושבת	1
+enabled	enabled 	=	מאופשר	1
+encode.cyrillic	Cyrillic 	=	קירילית	1
+error.excelFileRowCount.restriction.proposed.free	File should not contain more than 1000 rows. 	=	קובץ לא צריך להכיל יותר מ 1000 שורות.	1
+fieldmapping	Field mapping 	=	מיפוי שדה	1
+googleaccount	Google Account 	=	חשבון Google	1
+import.error.columns.size.exceeds	Please ensure that the number of columns in the file should not exceed 500. 	=	אנא ודא שמספר העמודות בקובץ לא יעלה על 500.	1
+listview_1	Sync only your Google Calendar events with your Zoho CRM Calendar 	=	סנכרן רק אירועי לוח השנה של Google שלך עם לוח השנה שלך Zoho CRM	1
+listview_2	Syncs only your Zoho Crm events with your Google Calendar 	=	מסנכרן רק אירועי Crm Zoho שלך עם לוח השנה של Google שלך	1
+listview_3	Syncs both your Zoho CRM Calendar & Google Calendar events with each other 	=	סנכרן גם את לוח Zoho CRM שלך וגם את אירועי לוח השנה של Google - אחד עם עם השני	1
+syncdirection_1	1-Way: Google Calendar to Zoho CRM Calendar 	=	חד כיווני - Google Calendar אל לוח שנה Zoho CRM 	1
+syncdirection_2	1-Way: Zoho CRM Calendar to Google Calendar 	=	חד כיווני - לוח שנה Zoho CRM אל Google Calendar	1
+syncdirection_3	2 Way Sync	=	סינכרון דו כיווני	1
