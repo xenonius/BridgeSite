@@ -1,0 +1,1245 @@
+crm.convert.lead.converted.deleted===The {0} you are trying to access has been converted already. Moreover, the records ({1}/{2}/{3}) created during coversion are also inaccessible since they were deleted as well. 
+crm.export.support.com==={0} 
+crm.html.api.developer.api.limit.exceeds===#BRANDLABEL CRM API - Max Limit Exceeds 
+crm.html.customfunction.functionAuthorName.label===Function Author 
+crm.html.customfunction.functionDescription.label===Function Description 
+crm.html.customfunction.functiondisplayName.label===Function Display Name 
+crm.html.customfunction.functionscript.label===Function Script 
+crm.html.customfunction.workflowlinkid.label===WorkFlowLinkId 
+crm.html.extend.trial.edition.body===Hello there,<br/><br/>As requested we have extended the trial period of the {1} CRM - {0} Edition for another 15 days.<br/><br/>We hope that gives you enough time to try out all the features of {1} CRM to help you evaluate and decide if it is the CRM solution for your business needs.<br/><br/>You can count on us for support while you make your decision. Do not hesitate to reach us for any questions or help during the trial period.<br/><br/>We are available on:<br/><br/> Email: <a class==="link" href==="mailto:{2}">{2}</a><br/><br/> Call: {3}<br/><br/> We look forward to servicing your business needs! 
+crm.html.extend.trial.edition.sub===Extended! -Your evaluation period of #BRANDLABEL CRM 
+crm.html.forecast.enable.mail.content===Your #BRANDLABEL CRM Administrator -<b>#NAME</b> has enabled "New Forecast" for your organization. 
+crm.html.forecast.enable.manual===To know more about the New Forecasting, please <a href==='http://www.zoho.com/crm/help/forecasts/based-on-role-hierarchy.html'>read our Manuals</a> 
+crm.html.trial.enable.sub===Your {1} CRM - {0} Edition trial period starts now 
+crm.html.trial.enabled.body===Hi,<br/><br/>Thank you for opting to evaluate {1} CRM - {0} Edition. Your 15-day trial period starts now.<br/><br/> We will be happy to discuss further how {1} CRM - {0} Edition might be the right fit for your organization. Here is how you can reach us<br/><br/> Email: <a class="link" href="mailto:{2}">{2}</a><br/><br/> Call: {3}<br/><br/> We hope you enjoy evaluating {1} CRM - {0} Edition.<br/> 
+crm.html.upgrade.trial.edition.body=Hi,<br/><br/>You have opted to evaluate {1} Edtion in {0} CRM. We understand that your business needs may have grown.<br/><br/>You can evaluate the {1} Edition for the remaining {2} days of your trial period.<br/><br/>We will be happy to talk to you on how {0} CRM - {1} Edition will be the right fit for your business needs.<br/><br/>Do not hesitate to reach us if you have any questions during the trial period. We are available on:<br/><br/> Email: <a class==="link" href="mailto:{3}">{3}</a><br/><br/> Cal: {4}<br/><br/> Chat: {0} Support Live chat<br/><br/>If you require additional time for the evaluation, write to us at <a class="link" href="mailto:{3}">{3}</a><br/><br/>Good Luck with your evaluation! 
+crm.html.upgrade.trial.edition.sub=Your evaluation edition in {0} CRM has been upgraded 
+crm.html1.trial.deactivate.quickbooks.instruction===Your 15 days trial for #BRANDLABEL CRM's QuickBooks Integration has expired. To continue using the QuickBooks Integration, please upgrade your account by following the steps given below.<p></p><li> Log in to #BRANDLABEL CRM.</li><li> Click the Upgrade link on top.</li><li> In the Manage Subscription page, click Manage for your Edition.</li><li> Under Add-ons & Plug-ins, select the QuickBooks Integration checkbox.</li><li> Click 'Check out'</li> 
+crm.label.html.outlook.plugin=#BRANDLABEL CRM Plug-in for Microsoft Outlook 
+crm.title.html.zohocrmteam===#BRANDLABEL CRM Team 
+crm.userinvite.con1=has invited you to join the CRM account of 
+crm.userinvite.con12===Please write to us at 
+crm.userinvite.con13=for assistance. 
+crm.userinvite.con14===Here is hoping that you have a wonderful experience with #BRANDLABEL CRM. 
+crm.userinvite.con2=Alternately, you can  copy and paste the following url in your browser: 
+crm.userinvite.con3===Once you are signed into your CRM account,  you can 
+crm.userinvite.con4=<b>Track sales activities</b> with a complete visibility of your sales cycle. 
+crm.userinvite.con5===<b>Connect with Customers</b> through their social profiles and communicate with them from within your CRM account <b>(only to enterprise / enterprise trial customers)</b> 
+crm.userinvite.con6=<b>Automate day to day</b> activities and stay focused on the business rather than maintaining data 
+crm.userinvite.con7===<b>Go Mobile</b> and stay up-to-date with access to customer data on your mobile 
+crm.userinvite.con8=You are welcome to read and learn more about #BRANDLABEL CRM, from our 
+crm.userinvite.joinnow===Join Now 
+crm.zti.buynow.what{0}crm=What is {0} CRM {0} PhoneBridge Add-on?
+
+
+MODIFIED Keys
+
+
+Mobile\ AddOn === {0} CRM Mobile Edition
+Office\ plugin = {0} CRM Plug-in for Microsoft Office
+Outlook\ Plugin === {0} CRM Plugin for Microsoft Outlook
+Outlook\ plugin = {0} CRM Plug-in for Microsoft Outlook
+ZohoWins === {0} CRM Wins
+Zoho\ Books = {0} Books
+Zoho\ Home === {0} Home
+Zoho\ Invoice = {0} Invoice
+Zoho\ Invoice\/Zoho\ Books === {0} Invoice/{0} Books
+Zoho\ PhoneBridge = {0} PhoneBridge
+Zoho\ Project === {0} Project
+Zoho\ Projects = {0} Projects
+Zoho\ Recruit === {0} Recruit
+Zoho\ Support = {0} Support
+Zoho\ mail === {0} Mail Add-on
+bccdropbox.deactivation.notifymail.body = <div style==='"font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'"><p>Hello {0},</p><p>{1}, one of the Administrators of CRM, suspects that your BCC Dropbox has been compromised and is generating spam. To stop it from creating further problems, he ({2}) has  currently suspended this feature in your CRM account.</p><p>To restart using BCC Dropbox, Regenerate address Now.</p><p>Regards,<br/>{0} CRM Team.</p></div>
+bccdropbox.desc = We have now made it possible for you to associate your emails to {0} CRM from any of your email clients like GMail, Outlook, Thunderbird, etc.! Try the new BCC Dropbox!
+bccdropbox.desc1 === All you have to do is to Blind Carbon copy (BCC) the BCC Dropbox email address that we give you, while sending emails to the customers. Based on the search pattern, {0} CRM will automatically place a copy of the email that you want to associate, in the respective customer's record. Yes, it is that easy!
+bccdropbox.insufficient.storage.body.100N105 = <div style==='"font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'"><p>Hello {0},</p><p>You have reached 100% of the storage space allotted to your {0} CRM account. Since your storage is full, you will not be able to upload attachments from the {0} CRM interface nor send attachments to CRM using the BCC Dropbox feature. </p><p>To ensure that your {0} CRM account continues to work without interruption, you can free up space or buy more storage by following the steps below:</p><p><strong>To free up storage in your account:</strong></p><p><strong>Step 1: </strong>Log in to your {0} CRM account.</p><p><strong>Step 2: </strong>Navigate through the records and delete the attachments that you do not require.</p><p><strong>To buy more storage:</strong></p><p><strong>Step 1: </strong>Click Upgrade > Manage your plan.</p><p><strong>Step 2: </strong>In the Manage Subscription page, under Add Subscriptions, choose the Extra Storage Space from the drop-down list. </p><p><strong>Step 3: </strong>Click Check out.</p><p>For more information on managing your file storage, please read this <a href="https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage">article</a>.</p><p>Regards,<br/>{0} CRM Team.</p></div>
+bccdropbox.insufficient.storage.body.110N115N120 = <div style==='"font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'"><p>Hello {0},</p><p>This is a repeat reminder that you have exceeded the maximum storage quota allotted to your {0} CRM account. </p><p>Until you upgrade the storage, you will not be able to upload attachments from the {0} CRM interface nor send attachments to CRM using the BCC Dropbox feature. </p><p>To ensure that your {0} CRM account continues to work without interruption, you can free up space or buy more storage by following the steps below:</p><p><strong>To free up storage in your account:</strong></p><p><strong>Step 1: </strong>Log in to your {0} CRM account.</p><p><strong>Step 2: </strong>Navigate through the records and delete the attachments that you do not require.</p><p><strong>To buy more storage:</strong></p><p><strong>Step 1: </strong>Click Upgrade > Manage your plan.</p><p><strong>Step 2: </strong>In the Manage Subscription page, under Add Subscriptions, choose the Extra Storage Space from the drop-down list. </p><p><strong>Step 3: </strong>Click Check out.</p><p>For more information on managing your file storage, please read this <a href="https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage">article</a>.</p><p>Regards,<br/>{0} CRM Team.</p></div>
+bccdropbox.insufficient.storage.body.90N95 = <div style==='"font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'"><p>Hello {0},</p><p>You have reached close to {1} of the total storage quota allotted to your {0} CRM account. </p><p>When your storage is full, you will not be able to upload attachments from the {0} CRM interface nor send attachments to CRM using the BCC Dropbox feature.</p><p>To ensure that your {0} CRM account continues to work without interruption, you can free up space or buy more storage by following the steps below:</p><p><strong>To free up storage in your account:</strong></p><p><strong>Step 1: </strong>Log in to your {0} CRM account.</p><p><strong>Step 2: </strong>Navigate through the records and delete the attachments that you do not require.</p><p><strong>To buy more storage:</strong></p><p><strong>Step 1: </strong>Click Upgrade > Manage your plan.</p><p><strong>Step 2: </strong>In the Manage Subscription page, under Add Subscriptions, choose the Extra Storage Space from the drop-down list. </p><p><strong>Step 3: </strong>Click Check out.</p><p>For more information on managing your file storage, please read this <a href="https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage">article</a>.</p><p>Regards,<br/>{0} CRM Team.</p></div>
+bccdropbox.insufficient.storage.body.above.120 = <div style==='"font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'"><p>Hello {0},</p><p>Due to insufficient storage space in your {1} CRM account, we were unable to associate the email/attachment sent via BCC Dropbox to {1} CRM.</p><p>Recipients emails address : {2}</p><p>Please contact your CRM administrator for further assistance.</p><p>Regards,<br/>{1} CRM Team.</p></div>
+bccdropbox.insufficient.storage.sub.100N105 = Your {0} CRM storage is full
+bccdropbox.insufficient.storage.sub.110N115N120 === Your {0} CRM storage quota exceeded - Possible data loss.
+bccdropbox.insufficient.storage.sub.90N95 = Your {0} CRM Storage space is almost full
+bccdropbox.searchPattern.change.body === <div style='"font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'"><p>Hello {0},</p><p>{1}, one of the Administrators of CRM, has changed your {0} CRM account's profile permission settings.</p><p>You may want to make a note of the search pattern that changes with profile permission settings.</p><p>Your search pattern now looks like this: </p><p>{2}</p><p>Regards,<br/>{0} CRM Team.</p></div>
+com.project.existtoproj = Existing {0} Projects User
+com.project.newtoproj === New to {0} Projects
+com.project.notenabled = {0} Projects Integration is not activated in your account.
+com.project.trialexpired === Your 15 days Trial Version of the Professional/Enterprise Edition has expired. Subscribe to the Paid Edition to continue using {0} Projects Integration.
+crm.InvalidTicket.Reasons.third = Contact {0} CRM Support at <a href==="mailto:{1}" class="link">{1}</a>. or <strong>Call Toll Free: <strong>                        {2}            </strong>
+crm.about.auth.mgs = {0} CRM API makes it easy for the programmers to integrate {0} CRM with other third party applications. {0} CRM data can be accessed through these APIs in XML or JSON object. To kick start our API, here are the few starting points.
+crm.about.auth.title === About the {0} CRM API
+crm.account.closed.error.message = <h2>Sorry. No data available.</h2><p>Your data file must have expired. <br /> Or <br /> You are an In Active {0} CRM user.</p>
+crm.account.closed.heading === Download your {0} CRM data
+crm.account.closing.heading = Your #BRANDLABEL CRM account has been Closed
+crm.account.closing.information1 === Your #BRANDLABEL CRM account has been <b>closed due to inactivity for more than 120 days</b>. As a next step, you can download the #BRANDLABEL CRM account data from the secured URL given below.
+crm.account.closing.information4 = In future, if you want to use #BRANDLABEL CRM, you will have to create a new account by signing up at: <a href==="https://#CRMURL">https://#CRMURL</a>
+crm.account.creation.title = {0} CRM - Account Creation
+crm.account.details === {0} CRM Account details
+crm.account.warning.answer2 = Just login to your #BRANDLABEL CRM account once.
+crm.account.warning.heading === Your #BRANDLABEL CRM account is idle for more than 120 days
+crm.account.warning.information1 = We found that your #BRANDLABEL CRM account <b>was not accessed for the past 120 days</b>. We encourage you to continue using #BRANDLABEL CRM to increase your sales team productivity. Please login to <a href==="https://#CRMURL">https://#CRMURL/</a> to keep your account active.
+crm.account.warning.information2 = If you do not wish to use #BRANDLABEL CRM anymore, ignore this e-mail and your account will be closed automatically with-in 15 days.
+crm.addons.nonadmin.activate.message === {0} status is not activated for your profile. Please contact your {1} CRM administrator.
+crm.addons.status = To make use of {0} CRM for {1},
+crm.adduser.information.existingzohouser === An invitation email with the access link has been sent to the user.The user has to click on the access link to log in to {0} CRM account.
+crm.adduser.information.newzohouser = An invitation email with the access link has been sent to the user.<br>The user has to click on the access link to sign up for {0} CRM account.
+crm.admin.replaceID.note1 === This Page helps you to replace the {0} CRM ID of the user.
+crm.admin.replaceZCRMID.sameId = Same ID. Please provide different {0} CRM ID.
+crm.admin.replaceZCRMID.success === Replaced the {0} CRM ID of the user successfully.
+crm.admin.resetpass.valid = Please provide valid {0} CRM ID for resetting the Password.
+crm.admin.terminate.note1 === Please provide valid {0} CRM ID for terminating.
+crm.adv.copyrite = 2014 {0} Corp.
+crm.adword.conf.revoketitle === You are about to deactivate Google Adwords Integration in {0} CRM.
+crm.adword.conf.revoketwo = Google Adwords Tab and your Google Adwords information in {0} CRM will be removed.
+crm.adword.mailcontent1 === Your #BRANDLABEL CRM Administrator
+crm.adword.mailcontent3 = Track your Google spending and ROI inside #BRANDLABEL CRM.
+crm.adword.mailcontent4 === Make your web forms as Google Adwords page and update the Google Adwords information in #BRANDLABEL CRM along with the customer data.
+crm.adword.mailsubject = Update - Google Adwords Integration for your {0} CRM account activated
+crm.adword.mailsubjectdeactivation === Update - Google Adwords Integration for your {0} CRM account deactivated
+crm.adword.setup.heading = Select Google Adwords accounts you want to track inside {0} CRM.
+crm.adword.setup.heading.first === It seems that you are managing multiple Google Adwords account for your customer id. Select Google Adwords accounts you want to track inside {0} CRM.
+crm.adword.tab.desc = {0} CRM for Google Adwords provides information about your Google spending and ROI.
+crm.adword.webform.newform5 === Your site is ready now to push the Google Adwords Information to {0} CRM.
+crm.adword.webform.smalltext = Just wondering, how to make your web forms created in {0} CRM to appear as Google Adwords pages? Here you go.
+crm.adword.webformpagetitle3 === The web form in your site is ready to push leads along with Google Adwords information to {0} CRM.
+crm.adwords.auth.highlightsone = Get your Google Adwords information inside {0} CRM seamlessly.
+crm.adwords.auth.highlightstwo === Make your web forms as Google Adwords pages and track your customer information in {0} CRM.
+crm.adwords.auth.title = Google Adwords Integration enables you to track your {0} and {1} generated from Google Advertisements inside {2} CRM.
+crm.adwords.webform.pushtext === To put your web form in Google Adwords page and push information to {0} CRM, please enable the option below
+crm.alert.userToEnterUsernameMsg2 = You have been logged in to {0} CRM by Email address. To access other {0} Services, you must have Username.
+crm.alert.userToEnterUsernameMsg3 === <b>Note:</b> You cannot change the username after this update. Next time, you can use Username or Email address to access all {0} services.
+crm.anytime.datatakeup = You can take your data anytime when you are not satisfied with {0} CRM
+crm.api.basic.info === {0} CRM provides REST API to integrate your CRM account with third-party software or services. A valid user''s Authentication Token is necessary for the integration.The user should have "{0} CRM API Access" permission to access API.
+crm.api.developer.api.limit.exceeds = {0} CRM API - Max Limit Exceeds
+crm.api.developer.api.limit.exceeds.content1 === Today you have exceeded the maximum limit of API requests available for your {0} CRM edition.
+crm.api.developer.api.whatis = {0} CRM provides API (Application Programming Interface) for integrating CRM modules with any third-party applications such as, accounting, ERP, e-commerce, self-service portals and others. With the {0} CRM API, you can extract CRM data in XML or JSON format and develop new applications or integrate with your existing business applications.
+crm.api.enter.emailid === Enter the {0} CRM Id
+crm.api.help.title = #BRANDLABEL CRM API Help
+crm.api.key.request.note === This page helps you to request API Key for your {0} CRM Account.
+crm.api.key.title = {0} CRM - API Key
+crm.api.limit.exceeds.content1 === This is to alert you that you have exceeded the maximum API requests available to you on your #BRANDLABEL CRM edition for Today.
+crm.api.limit.exceeds.content3 = If you would like any clarification or help, e-mail us at #SUPPORTMAILID
+crm.api.must.know.thing.2 === 2. A valid Authentication token to access {0} CRM from other applications.
+crm.api.request.thanks.note = Thank you for requesting {0} CRM API Key. We will get back to you within a business day. For any clarification, please contact us <a href==="mailto:{1}" class="link">{1}</a> or call us at: <b>                        {2}            </b>
+crm.api.security.note = Please save this email for future reference as it contains confidential information about accessing your data using {0} CRM API key. If you experience any problems while using APIs, please contact us.
+crm.api.usage.note === Thank you for your interest in #BRANDLABEL CRM API. With #BRANDLABEL CRM API you can synchronize data between #BRANDLABEL CRM and other business applications.
+crm.api.zohocrm.apikey.recommended.mgs = We highly recommend you to use Authentication token to access (0) CRM as we are deprecating API Key usage by June 30, 2012
+crm.api.zohocrm.apiuser.info === Start using Auth Token instead of using Ticket and API key to access {0} CRM APIs. If you wish to view your API Key Click <a class=\"smalledit pointer\" onClick=\"unHideDiv('apiKeyDiv');\"> <span class=\"font13\">here</span></a>
+crm.api.zohocrm.edition.1 = {0} CRM Edition
+crm.api.zohocrm.faq.answer1 === {0} CRM API key is organization-specific. You can use the same API Key for all users with different ticket IDs
+crm.apikey.genarate.title = {0} CRM API Key Generation
+crm.apikey.request.title === {0} CRM - Request for API Key
+crm.auditlog.message1 = This feature allows you to view the list of actions performed by the Users in {0} CRM.
+crm.auth.calender === Sync {0} CRM Calendar with your Google Calendar
+crm.auth.contacts = Sync {0} CRM Contacts with your Google Contacts
+crm.auth.noprivileges === You can generate the auth token only if you are an admin in any of the {0} PhoneBridge group. Please contact your Administrator.
+crm.auth.over.ticket.mgs = If you are using Ticket and API key to access our {0} CRM API, you can simply use Auth Token to access it. It is a permenant token. Hence creating the Ticket for every 7 days is not required.
+crm.auth.service.name === {0} Service Name
+crm.auth.service.whyauthtoken = This token is used to configure {0} PhoneBridge for your PBX system.
+crm.auth.token.service.warning === Regeneration of the {0} CRM Auth token will delete the existing token and generate a new one. Henceforth, the existing token used to access {0} CRM API will not work anymore. So we highly recommend you to ensure that you replace the existing token with the newly generated one.
+crm.baner.for.googleapps = Sync {0} CRM Contacts & Calendar with Google Apps (Professional and Enterprise Editions)
+crm.browser.supported.alert === Your Browser is not supported, to use {0} CRM, we recommend you to use the latest version of <a href = '{1}' target = 'new'> Chrome, Firefox and Safari.</a>
+crm.build.custom.apps.not.supported = Sorry !!! You are trying to build Custom Apps using {0} Creator which is not available in your current {1} plan. To avail this feature, you need to upgrade to higher plans.
+crm.button.attachment.docs === Attach From {0} Docs
+crm.calendar.causechangecalendar = If you change the calendar, modified configuration will be applied while executing the scheduler and duplicate events will be created in {0} CRM/Google Calendar. Are you sure?
+crm.calendar.causeofdelete === Are you sure you want to deactivate the sync between Google calendar and {0} CRM calendar?
+crm.calendar.explaingcal = You can schedule synchronization of events between {0} CRM and Google Calendar. After synchronizing events, you can view and share the events with other users in Google Calendar. This feature is <b>available only in the Paid Edition</b>.
+crm.calendar.pushcrmremindar === Add Reminders from {0} CRM to Google Calendar
+crm.calendar.pushgooleremindar = Add Reminders from Google Calendar to {0} CRM
+crm.campaign.description.points2 === with {0} Campaigns email marketing solutions \u2013 you will be able to easily send your email campaigns, newsletters, press releases, offers, product releases & updates, invites and announcements without installation of any software.
+crm.campaign.important.notes1 = Upon configuration, your {0} Campaigns Account will get associated with {0} CRM
+crm.campaign.important.notes2 === Owner has to take care of the subscription of {0} Campaigns and Sharing the database
+crm.campaign.integrations.config.steps = Steps to configure {0} Campaigns
+crm.chat.group.chat.note === Group your {0} CRM users based on different criteria and easily chat with groups instead of adding users individually.
+crm.chat.no.users.found = You are the only user in your CRM account. If you want to chat inside {0} CRM.
+crm.configure.step2 === Generate ZSC Key in {0} Projects
+crm.confirm.zohoacc = Confirming your {0} Account
+crm.confirm.zohoacc.step1 === <strong>step 1:</strong> Visit <a href="http://accounts.zoho.com" style="color:#0071ba" target="_blank">{0} Accounts</a> and complete your <a href="http://zohosso.wiki.zoho.com/#resendconfirmation" style="color:#0071ba" target="_blank">confirmation process</a>.
+crm.confirm.zohoacc.step2 = <strong>step 2:</strong> Access <a href==="http://zmail.zoho.com" style="color:#0071ba" target="_blank">{0} Mail</a>, configure POP for your Mail Service (GMail, Yahoo! etc) and <strong>Log out</strong> from the {0} Mail service.
+crm.connectiontimedout.creator.error = Unable to connect with {0} Creator
+crm.contactus.category.office.plugin === {0} CRM Office Plug-in
+crm.contactus.category.outlook.plugin = {0} CRM Plugin for Microsoft Outlook
+crm.contactus.faq.q6a === We offer multiple levels of security including the physical, software and people/process levels to ensure that your data is secure. Therefore, security of your data in {0} CRM is guaranteed. For more details, <a href="http://www.zoho.com/zoho_faq.html#6" target="_blank">click here</a>.
+crm.contactus.faq1.q4a = No. {0} CRM offers you 3 users free only in the Free Edition. In Professional or Enterprise Edition, you've to pay from the first user.
+crm.contactus.line1 === {0} Support is available 24hrs a day & 5 days a week, excluding public holidays. Please fill out the form below and we will respond to you as quickly as possible.
+crm.contactus.usa.tollfree.2numbers = <div class==="tollh3">                        {0}            </div>
+crm.copy.config.different.License.type = User in different {0} CRM Edition
+crm.copy.config.error.subject === {0} CRM Copy Customization Error
+crm.copy.config.existing.partner = Existing {0} Partner?
+crm.copy.config.request.note === Please submit the following information to activate Copy Customization option for your {0} CRM account. Please note that all fields are mandatory.
+crm.copy.config.request.thanks.note = Your request to activate "Copy Customization" is successfully sent to <a target==="_blank" href="http://zoho.com/partners.html">ZAPP</a> ({0} Alliance Partners Program) team and we shall get back to you within ONE business day. For further information, write to us at <a href="mailto:{1}">{1}</a>
+crm.copy.config.success.subject = {0} CRM Copy Customization
+crm.copycustomization.confirmation.error === Your customer account is not yet confirmed. Please ask your customer to confirm his {0} CRM account.
+crm.create.new.account.info2 = Later, you can invite your colleagues to your {0} CRM account
+crm.create.new.account.title === Create a {0} CRM Account
+crm.creator.activationmail.subject = {0} CRM + Custom Apps : A Beginners Handbook
+crm.creator.createAcc.desc === {0} Creator account will be created for you.
+crm.creator.deactivation.desc.note1 = The custom tabs will not be available in {0} CRM.
+crm.creator.deactivation.desc.note2 === The associated applications, forms or views will not be deleted from the associated {0} Creator account.
+crm.creator.delete.desc = You have chosen to delete the custom tab in {0} CRM.
+crm.creator.delete.info1 === The custom tab will not be available in {0} CRM.
+crm.creator.delete.info3 = The associated application, forms & views and the permissions given to the users to access them will be retained in {0} Creator account.
+crm.creator.error.CompType === There was an error in {0} Creator.. For assistance, please write to us at: {1}
+crm.creator.error.adddeveloper = We were unable to add the developer.  please write to us at: {0}
+crm.creator.error.appName === {0} Creator's Application Name / Id is missing. For assistance, please write to us at: {1}
+crm.creator.error.appNotPresent = The Custom Application is not available in your {0} Creator account.
+crm.creator.error.appType === There was an error in {0} Creator.. For assistance, please write to us at: {1}
+crm.creator.error.authorization = Custom Apps available in Enterprise edition only. Please upgrade your {0} CRM account.
+crm.creator.error.compId === Component Id is missing. For assistance, please write to us at: {0}
+crm.creator.error.defaultViewId = Default View Id is missing. For assistance, please write to us at: {0}
+crm.creator.error.errorMsg === Error in {0} Creator. please write to us at: {1}
+crm.creator.error.formName = {0} Creator's Form Name is missing. For assistance, please write to us at: {1}
+crm.creator.error.getShare === An error occured. For assistance, please write to us at: {0}
+crm.creator.error.getUser = An error occured while fetching the list of users.  please write to us at: {0}
+crm.creator.error.internalError === There was an error in {0} Creator. Please try again after sometime.
+crm.creator.error.removeUsers = An error occured while removing the users.  please write to us at: {0}
+crm.creator.error.removeshare === An error occured. For assistance, please write to us at: {0}
+crm.creator.error.unconfirmedmail = Your email has not yet confirmed. Please confirm your email to proceed further. After successful confirmation, log out from the {0} Accounts page, log in to {0} CRM and then configure.
+crm.creator.error.userShare === An error occured. For assistance, please write to us at: {0}
+crm.creator.error.xmlError = There was an error in {0} Creator.. For assistance, please write to us at: {1}
+crm.creator.form === Choose a {0} Creator form
+crm.creator.integration = {0} Creator Integration
+crm.creator.label.afteractivation.hint.step2 === How to include {0} CRM modules into your Custom App?
+crm.creator.label.beforeactivation.hint.step1 = You need an Enterprise Edition of {0} CRM ( Available to Enterprise trial users too...)
+crm.creator.label.beforeactivation.hint.step2 === You need to be an Administrator of your {0} CRM account.
+crm.creator.label.beforeactivation.hint.step3 = You should have a {0} Creator account.
+crm.creator.mail.notify.footer === Zoho Corporation</b>. 4141 Hacienda Drive, Pleasanton, CA 94588, USA<br/>Phone:             #CALLPHONE       Fax: #CALLFAX
+crm.creator.mail.notify.note5 = All changes made to the associated applications in {0} Creator will be reflected in {0} CRM.
+crm.creator.mail.notify.note7 === #BRANDLABEL Creator Team
+crm.creator.nolink = No {0} Creator Permalinks Found
+crm.creator.poweredby === powered by {0} Creator
+crm.creator.service = {0} Creator
+crm.creator.upgradePlan.usersMismatch.error === User(s) selected here exceeds the users' limit in your {0} Creator account. Please upgrade your Creator Account / purchase additional users.
+crm.custom.field.autonumber.sch.error = An error occurred while auto numbering the field {0} in {1}. Report it to <a href==="mailto:{2}" class="link">support</a>.
+crm.customerackmail.line1 = Thanks for purchasing additional users in #BRANDLABEL CRM. Please see the following information:
+crm.customerackmail.line2 === Once again thank you for your interest in #BRANDLABEL CRM.
+crm.customizename.title = {0} CRM - Name Format
+crm.customlink.tip === Links are user defined hyper links in which you can include {0} CRM Fields as parameters.
+crm.customrl.error.selectentityfield = Please select a {0} CRM field.
+crm.data.migration.error.message2 === file. Please contact <a href="mailto:{0}" class="link">{0}</a> for further clarifications.
+crm.data.migration.error.subject = {0} CRM Data Migration Error
+crm.data.migration.subject === {0} CRM Data Migration
+crm.data.migrationsucess.subject = {0} CRM - Data Migration Success
+crm.deactivate.alert.message === You are about to deactivate the user(s). By doing so, they cannot access {0} CRM. However, upon re-activation, they can access {0} CRM with their existing data.
+crm.deactivate.crm.zoho.project.users.heading = The following users even after deactivation in {0} CRM, can still continue to work on {0} Projects.
+crm.deactivate.phone.bridge.user === User {0} is the Group Identification user. Upon deactivation, the PBX group members cannot use {1} Phonebridge.
+crm.deactivateuser.enableoutlook = You cannot enable {0} CRM Plugin for Microsoft Outlook activation for a disabled user.
+crm.downgrade.line1 === The downgrade action has been successfully completed. We hope that you are happy with our service and this downgrade is because of other reasons. However it is still possible that we have provided you less than happy service. If that be so, then do mail us at #SUPPORTMAILID and we will look into the issue at the earliest.
+crm.downgrade.user.quickbook = Your {0} CRM account will be automatically downgraded to the Free Edition. Please note that the QuickBooks Integration will also be downgraded as it is not be available in the Free Edition.
+crm.dumprequest.note === Export your entire {0} CRM data for your backup measures. Fee of $10 will be charged for every backup.
+crm.dumprequest.note1 = If this is your first transaction in {0} CRM, please provide your credit card details.
+crm.email.dupcheck.enable.alert === Records with the same email addresses that are sent to {0} CRM via insert, update and convert APIs will be ignored.
+crm.email.dupcheck.limitation.sheet = Update / Create records via {0} Sheet view.
+crm.evaluate.enterprise === Your current {0} CRM Edition: <b>Enterprise Edition</b>
+crm.evaluate.professional = Your current {0} CRM Edition: <b>Professional Edition</b>
+crm.evaluate.standard === Your current {0} CRM Edition: <b>Standard Edition</b>
+crm.evaluate1 = Your current {0} CRM Edition: <b>Free Edition</b>
+crm.event.notification.subject === {0} CRM - Event Notification Mail
+crm.event.notification.subject1 = {0} CRM - Event Reminder Notification
+crm.export.data.payment.not.processed === {0} CRM Export Data - Payment has not been Processed
+crm.export.data.payment.processed = {0} CRM Export Data - Purchase
+crm.export.line1 === Per your request, we have uploaded your complete #BRANDLABEL CRM data and  attachments to your #BRANDLABEL CRM account. To download these files, please log in to your #BRANDLABEL CRM account and click on the following links:
+crm.export.line4 = <br><b>Important:</b> As a security measure, you must log into your  #BRANDLABEL CRM account before downloading the data. Also, the files <b>will be available for you for the next 48 hours. After 48 hours, your data will be automatically destroyed</b> and no longer available. Should you want to make the data available again, you'll need to initiate a new, separate request.<br /><br />If you experience any problem while downloading your #BRANDLABEL CRM data, please contact us.<br /><br />Best Regards,<br /><b>The #BRANDLABEL CRM Team</b><br /><br /><b>Toll Free:</b>                         #CALLPHONE            <br /><b>Email:</b> <a href==="mailto:#SUPPORTMAILID">#SUPPORTMAILID</a><br /><br>
+crm.export.purchas.fail = <br>Sorry, we are unable to process payment transaction for  "#BRANDLABEL CRM Data Backup" service.In order to schedule regular data backup, please update your Credit Card information as soon as possible.
+crm.fb.integ.instruction === Facebook integration requires Facebook authentication. You can manage the Facebook authentication for {0} CRM.
+crm.forecast.enable.mail.content = Your {0} CRM Administrator -<b>{1}</b> has enabled "New Forecast" for your organization.
+crm.forecast.enable.note === Have you switched to the <strong>New {0}</strong> from {1} CRM?
+crm.forecast.mail.param.change.note3 = If you have any further questions, please mail us at {0}
+crm.form.del.note === <strong>Delete Webform:</strong><br><br>Your webform will be deleted permanently. The data generated through this form will hence forth not appear in {0} CRM.
+crm.freeusers.renewal.warning.msg = In case we do not receive your payment within few days, your {0} CRM account will be automatically downgraded to the Free Edition. In future, if you upgrade to the Professional or Enterprise Edition, you will not get the "3 Users Free" offer. As per our new pricing policy, you have to pay from the first user.
+crm.freeusrs.transaction.warning.msg === In case we do not receive your payment after 7 days from expiry date, your {0} CRM account will be automatically downgraded to the Free Edition. Later, if you plan to subscribe to the Professional or Enterprise Edition, you will not get the "3 Users Free" offer (as per our new pricing). You will have to pay for all the users in your account.
+crm.gadgets.crmTitle = {0} CRM Gadgets
+crm.gadgets.embedAccess === Embed {0} CRM gadgets into Google Sites, Google Email and iGoogle.
+crm.gadgets.zcrmAccounts = {0} CRM Accounts
+crm.gadgets.zcrmContact === {0} CRM Contact
+crm.gadgets.zcrmContacts = {0} CRM Contacts
+crm.gadgets.zcrmLeads === {0} CRM Leads
+crm.gadgets.zcrmTasks = {0} CRM Tasks
+crm.gapp.add.calendar.note3 === You can also export multiple events from {0} CRM to Google Calendar in a single click.
+crm.gapp.add.task.note = You can export tasks from {0} CRM to Google Tasks. After exporting, you can view tasks in Google Tasks, Gmail, Calendar or iGoogle. This feature is <b>available in all Editions</b>.
+crm.gapp.add.task.note3 === You can also export multiple tasks from {0} CRM to Google Tasks in a single click.
+crm.gapp.admin.notify.addition = User has been successfully added to your {0} CRM account
+crm.gapp.admin.notify.addition.note === User has to accept the invitation to join into your {0} CRM account.
+crm.gapp.admin.notify.deactivation = Sorry, you cannot access {0} CRM.
+crm.gapp.admin.notify.deactivation.note === Currently, your {0} CRM access has been deactivated. Please contact your Administrator.
+crm.gapp.admin.notify.duplication.note = This user already exists in your {0} CRM account. Hence, you cannot add again.
+crm.gapp.admin.request.note === Your administrator will review your request and enable {0} CRM access.
+crm.gapp.admins.exists = At present your organization is using multiple {0} CRM accounts along with your Google Apps domain.
+crm.gapp.admins.exists.option1 === <b>Yes, I want to join now.</b><br>To become a {0} CRM user, please choose one of the following {0} CRM Administrators' email addresses.
+crm.gapp.admins.exists.option1.info = Administrator will review your request and add you as a {0} CRM user.
+crm.gapp.attach.docs.note === You can attach files from Google Drive to leads, accounts, contacts, potentials and other {0} CRM modules. This feature is <b>available in Professional and Enterprise Editions</b>.
+crm.gapp.backto.crm = Go to {0} CRM
+crm.gapp.gmail.NoLicense === Google Email integration free trial has expired. Please buy the {0} Mail Add-on to activate this feature.
+crm.gapp.gmail.addon.not.activated = {0} Mail Add-on is not activated for your account. Please activate your account from <strong>Setup</strong> &gt; <strong>Subscription Manager</strong> &gt; <strong>Activate Users</strong>.
+crm.gapp.gmail.config.note === You can synchronize customer-specific Emails between Google Apps and {0} CRM by configuring the POP3 in {0} CRM. Google Email's Pop account can be configured here in {0}CRM. Please provide your google Email's details.
+crm.gapp.gmail.config.note1 = This feature is available for users subscribed to {0} Mail Add-on.
+crm.gapp.gmail.config.note12 === 3. In the Manage Subscription page, select the <strong>Number of {0} Mail Add-on Users </strong>($ 3 / user / month).
+crm.gapp.gmail.config.note16 = 7. In the Activate Users page, click <strong>Edit</strong> and <strong>enable {0} Mail Add-on </strong>check-box for the required users.
+crm.gapp.gmail.config.note19 === After 15 days trial, you must buy {0} Mail Add-on to avail Google Email integration.
+crm.gapp.gmail.config.note7 = Your Google Email account will be configured in {0} CRM. Now, you can send emails to leads or contacts.
+crm.gapp.gmail.config.note9 === To activate {0} Mail Add-on to your users, follow these steps:
+crm.gapp.gmail.config.title = Configure Google Email in {0} CRM
+crm.gapp.import.contacts.note === Google Apps Contacts are listed below. You can import these contacts into {0}CRM. The imported contacts will be assigned to you and shared with {0} CRM users as per your organizational hierarchy. Hence, we <b>highly recommend</b> you to import business contacts only.
+crm.gapp.import.contacts.step6 = Your contacts are imported into {0} CRM.
+crm.gapp.import.users.note === You can add users from Google Apps to {0} CRM. By default, system will assign CEO role and Standard User profile to the users. Hence, we recommend you to review and update the roles and profiles of users when you add them, to match with your organizational hierarchy.
+crm.gapp.import.users.note1 = You are in <b>{0}</b> with <b>{1}</b> users licenses. You can add <b>{2}</b> more users. If you exceed this limit, users will be <b>deactivated</b> until you buy the additional licenses. Hence we suggest you to <a href==="/crm/Security.do?actionName=manageSubscription&fm=tp">Manage your Subscription</a> before adding users into {3} CRM.
+crm.gapp.user.admin.exists.option1 = Yes, I want to join now.</b><br>Choose this option to send an automated request to your administrator. Once the request is approved by your administrator, you can access {0} CRM.
+crm.gapp.user.admin.notexists === Your organization doesn't have a {0} CRM account
+crm.gapp.user.admin.notexists.note = Please ask one of your Google Apps administrators to create {0} CRM account.
+crm.gapp.welcome.mesg1 === Hi {0}, Welcome to {0} CRM
+crm.gapp.welcome.mesg10 = Import your Google contacts into {0} CRM
+crm.gapp.welcome.mesg2 === Thank you for choosing {0} CRM.
+crm.gapp.welcome.mesg4 = You're the <b>Administrator</b> for the {0} CRM account.
+crm.gapp.welcome.mesg8 === Enable {0} CRM access to Google Apps users
+crm.gapps.GCal.successMessage = Successfully added to {0} calendar in Google Apps.
+crm.gapps.GTask.popup.note === Choose a Google's Task Lists. Your {0} CRM tasks will be exported to the selected Task List.
+crm.gapps.config.normaluser.note = {0} CRM for Google makes it easier for your business to collaborate, communicate and share information with others.
+crm.gapps.config.note === {0} CRM for Google Apps makes it easier for your business to collaborate, communicate, and share information with your colleagues. If your business is using Google Apps, you can now integrate Google Apps modules (Users, Contacts, Email, Calendar, Docs, Sites, and Gadgets) with {0} CRM.
+crm.gapps.contactsync.bothway = Between {0} CRM & Google (two-way)
+crm.gapps.contactsync.duplicatemessage1 === ( In case of duplicate contacts, the {0} CRM record will overwrite the other )
+crm.gapps.contactsync.fromzoho = Custom Views in {0} CRM
+crm.gapps.contactsync.gcontactsync.note === You can synchronize the contacts between {0} CRM and Google Contacts automatically by setting up the sync configuration. The contacts will be automatically synchronized based on sync setting and the sync frequency that you specify.
+crm.gapps.contactsync.googletozoho = Google to {0} CRM (one-way)
+crm.gapps.contactsync.ifconflicts === If same contact is modified both in {0} CRM & Google then,
+crm.gapps.contactsync.zcrmfield = In {0} CRM
+crm.gapps.contactsync.zohocontacts === Contacts to be taken from {0}CRM
+crm.gapps.contactsync.zohotogoogle = {0} CRM to Google (one-way)
+crm.gapps.contactsync.zohowins === {0} CRM Wins
+crm.gapps.settings = {0} CRM for Google Apps
+crm.gapps.settings.normaluser === {0} CRM for Google
+crm.gapps.user.title = Google Apps requires you to grant permission to {0} CRM to access Google Administrative APIs. If you are a Google Apps administrator, you can enable the access as mentioned below
+crm.gapps.view.task.note === Tasks from {0} CRM will be exported into the selected Google's Task list
+crm.gappuser.invite.subject = User invitation from {0} CRM
+crm.gcal.addascontact === Add guest(s) in Google Calendar events as Contacts in {0} CRM.
+crm.gcal.addsascontact = Adds guest(s) in Google Calendar events as Contacts in {0} CRM.
+crm.gcalinssync.gcaladdguest === Add guest in {0} CRM
+crm.gcalinssync.gcaldonotaddguest = Don't add guest in {0} CRM
+crm.gcalinssync.heading === Sync {0} CRM Calendar with your Google Calendar
+crm.gcontact.conflict.crmwinsdesc = {0} CRM contact will overwrite the Google contact
+crm.gcontact.conflict.googlewinsdesc === Google contact will overwrite the {0} CRM contact
+crm.gcontact.dirction\_1.desc = Sync only your {0} CRM Contacts with your Google Contacts
+crm.gcontact.dirction\_1.syncs === Syncs only your {0} CRM Contacts with your Google Contacts
+crm.gcontact.dirction\_1.title = 1-Way: {0} CRM Contacts to Google Contacts
+crm.gcontact.dirction\_2.desc === Sync only your Google Contacts with your {0} CRM Contacts
+crm.gcontact.dirction\_2.syncs = Syncs only your Google Contacts with your {0} CRM Contacts
+crm.gcontact.dirction\_2.title === 1-Way: Google Contacts to {0} CRM Contacts
+crm.gcontact.dirction\_3.desc = Sync both your {0} CRM Contacts & Google Contacts with each other
+crm.gcontact.dirction\_3.syncs === Syncs both your {0} CRM Contacts & Google Contacts with each other
+crm.general.clarification = If you have any questions, please e-mail us at {0}
+crm.generate.success.message === The web form has been successfully generated. You can copy and paste the below html code in your site and start capturing leads in {0} CRM
+crm.getmore.heading1 = Get more out of {0} CRM
+crm.google.sync.edition.not.supported === Synchronization of Contacts and Calendar between Google Apps and {0} CRM is available only in Professional and Enterprise Paid Editions.
+crm.google.zohocrm.uninstalled.note = {0} CRM has been uninstalled from your Google Apps account. Please install it again and try {0} Crm for Google
+crm.home.get.start.intro.title === Getting Started with {0} CRM
+crm.home.get.start.logo.intro = {0} CRM allows organizations to change the default logo to your company logo. The customized company logo will appear for all the users within the account.
+crm.html.admin.name === #BRANDLABEL CRM Administrator:
+crm.html.associate.user.invite.expiry = This link is valid until you click it. If you think you have been invited without your permission please contact your CRM administrator. If you have any login related issues please mail to #SUPPORTMAILID
+crm.html.associate.user.invite.instruction1 === Clicking on the access link will include you with your administrator account and it would be the confirmation from your side to get into #BRANDLABEL CRM.
+crm.html.clarifications = For any clarifications please contact us at #SUPPORTMAILID
+crm.html.clarifications1 === If you need any assistance, please e-mail us at #SUPPORTMAILID
+crm.html.contact = Please contact <a class==="link" href="#SALESMAILID">#SALESMAILID </a> for license upgrade.
+crm.html.deactivate.instruction = Your account in #BRANDLABEL CRM has been deactivated by your #BRANDLABEL CRM Administrator.
+crm.html.deactivate.outlook.instruction === #BRANDLABEL CRM Plugin for Microsoft Outlook account has been deactivated by your #BRANDLABEL CRM Administrator.
+crm.html.deactivatemail.instruction = Your user account with #BRANDLABEL CRM has been deactivated by your #BRANDLABEL CRM Administrator.
+crm.html.gappuser.limit.exceeds === However, your organization has exceeded the license limit. Hence we request you to buy additional licenses from #BRANDLABEL CRM and then add #USERNAME to your #BRANDLABEL CRM account.
+crm.html.new.gappuser.request.instruction1 = Click <a href==="#LINK">here</a> to approve the #USERNAME's request. Once approved, #USERNAME will receive an invitation email from #BRANDLABEL CRM. Alternatively, you can add user from #BRANDLABEL CRM.
+crm.html.new.gappuser.request.subject = {0} Requested {1} CRM access
+crm.html.new.gappuser.request.welcome === #USERNAME would like to use #BRANDLABEL CRM for business purposes.
+crm.html.new.user.addition = To add user in #BRANDLABEL CRM, follow these steps:
+crm.html.new.user.addition.step1 === Log in to #BRANDLABEL CRM.
+crm.html.newaccount.created = Your account in #BRANDLABEL CRM has been successfully created. #BRANDLABEL CRM gives you great flexibility to organize your business, communicate and collaborate with your contacts and colleagues.
+crm.html.newaccount.save.contact === Please save this email for future reference as it contains important login instructions.If you have any login related issues or if you think your account has been created without your permission, kindly mail to <a href="mailto:#SUPPORTMAILID" target="_blank">#SUPPORTMAILID</a>
+crm.html.newaccount.welcome = Welcome to #BRANDLABEL CRM!
+crm.html.newuser.access.url === Access #BRANDLABEL CRM from
+crm.html.newuser.instruction1 = Your account in #BRANDLABEL CRM has been created by your CRM Administrator. #BRANDLABEL CRM gives you great flexibility to organize your business, communicate and collaborate with your contacts and colleagues.
+crm.html.newuser.invite.expiry === <b>Important Note: </b>Email address mentioned above should be used for your registration. Else, your {0} account will not be associated to your administrator account. This link is valid until you click and get registered.
+crm.html.newuser.permission = If you think you have been invited without your permission please contact your CRM administrator. If you have any login related issues please mail to #SUPPORTMAILID
+crm.html.newuserinvite.clickhere === {0} CRM Site
+crm.html.password.case.sensitive = <b>Note: </b> Your #BRANDLABEL CRM ID, Password & Secret Answer are all case sensitive.
+crm.html.phone.contact === Please contact <a class="link" href="mailto:{0}">{0} </a> or call us at {1} for license upgrade.
+crm.html.reactivate.instruction1 = Your account in #BRANDLABEL CRM has been reactivated by your #BRANDLABEL CRM Administrator.
+crm.html.report.integ.content1 === We are please to confirm that <strong>#OWNERNAME (#OWNEREMAIL)</strong>, has integrated your #BRANDLABEL CRM account with #BRANDLABEL Reports on #DATE.
+crm.html.report.integ.highlights.note1 = Slice and dice #BRANDLABEL CRM data and create insightful dashboards
+crm.html.report.integ.highlights.note2 === Take data-driven business decisions by complete Business Intelligence tools in #BRANDLABEL Reports
+crm.html.report.integ.highlights.note3 = Automatically export Leads, Accounts, Contacts, Potentials and Users data to #OWNERNAME's #BRANDLABEL Report account periodically.
+crm.html.report.integ.message1 === <strong>#OWNERNAME (#OWNEREMAIL)</strong>, one of your #BRANDLABEL CRM Administrators has integrated your #BRANDLABEL CRM account with #BRANDLABEL Reports on #DATE.
+crm.html.report.integ.step1 = 1. Log in to #BRANDLABEL CRM.
+crm.html.report.integ.step2 === 2. Open Reports tab and click on the "Advanced CRM Analytics" link. Advanced CRM Analytics (powered by #BRANDLABEL Reports) will open in a new Browser tab.
+crm.html.report.integ.step3 = 3. In #BRANDLABEL Reports, you can see "<strong>#BRANDLABEL CRM Reports</strong>", a newly created CRM database. You can manage reports & dashboards as per your business needs.
+crm.html.report.integ.steps3 === 3. In {0} Reports, you can see "<strong>{0} CRM Reports</strong>", a newly created CRM database and manage reports & dashboards as per your business needs.
+crm.html.report.scheduler.receiving = You are receiving this mail from #BRANDLABEL CRM Report Scheduler.
+crm.html.report.scheduler.receiving1 === You are receiving this e-mail from #BRANDLABEL CRM Report Scheduler.
+crm.html.sub.expiry.outlook.instruction = #INSTRUCTIONS account has been deactivated by your #BRANDLABEL CRM Administrator
+crm.html.trial.deactivate.alert.before.oneday === Hello there! <br/><br/>We are so excited to follow up on your thoughts regarding the {1} CRM \u2013 {0} Edition that you have been evaluating in the last fortnight. We are confident that you are as excited about the product as we are!<br/><br/>This is to remind you that your 15-day trial period will expire in another 24 hours. We sincerely hope we gave you enough time to look around and test the various features that {1} CRM {0} Edition has to offer.<br/><br/>If you require additional time for the evaluation, write to us at <a class="link" href="mailto:{2}">{2}</a>.<br/><br/>We happily look forward to talk to you on how {1} CRM - {0} Edition might be the right CRM solution for your business needs.<br/><br/>If you decided that {1} CRM- {0} Edition is just what you need for your business, go ahead and <a class="link" href="https://crm.zoho.com/crm/Security.do?actionName=manageSubscription&fm=tp">Purchase Now</a><br/><br/><b>Please note that upon the completion of the trial period, you will still be able to use the Free Edition of {1} CRM.</b><br/><br/>We look forward to servicing your business needs!
+crm.html.trial.deactivate.alert.before.threedays = Hope your trial of {0} CRM is coming along well. We would like to remind you that your trial ends in 3 days. If you are happy with the outcome of your trial and would like, to subscribe to {0} CRM, here's how you can upgrade your subscription:<br/><br/><ul><li>Click the <b>Subscription</b> link at the top</li><br/><li>Select a plan of your choice and follow the rest of the steps</li></ul><br/>For any assistance with the product or subscription plans, reach us via email <a class====="link" href="mailto:{1}">{1}</a> or on the toll free number {2}.<br/><br/>Thank you for evaluating {0} CRM. We look forward to welcome you on board as our customer.
+crm.html.trial.deactivate.enterprise.instruction = Thank you for having a look at the Professional / Enterprise Edition of {0} CRM.<br/>Your trial period has expired for the Professional / Enterprise Edition and you have been switched to your previous Edition.<br/>If you want to use either Professional or Enterprise Edition, <b>kindly subscribe within the next 15 days</b>.<br/><br/>To subscribe for {0} CRM - Enterprise Edition, follow the steps mentioned in the link below:<br/><a class==="link" href="https://www.zoho.com/crm/help/manage-subscriptions.html">http://www.zoho.com/crm/help/manage-subscriptions.html</a><br/><br/><b>Note:</b>If you subscribe within the next 15 days, you can retain the configuration as set by you during the evaluation period of the Enterprise Edition. Else, you will be entitled only to the features available in your previously opted Edition. This applies for Professional Edition as well.
+crm.html.trial.deactivate.instruction = Hello there,<br/><br/>Thank you for taking time to check out {1} CRM - {0} Edition during the 15 day trial period.<br/><br/><b>Your trial account has expired and you now have access to the Free Edition.</b><br/><br/>If you have decided that {1} CRM- {0} Edition is just what you need for your business, go ahead and <a class==="link" href="https://crm.zoho.com/crm/Security.do?actionName=manageSubscription&fm=tp">Purchase Now</a> <br/><br/>If you have any other requests or questions please do not hesitate to get in touch with us<br/><br/> Email: <a class="link" href="mailto:{2}">{2}</a><br/><br/> Call: {3}<br/><br/>  Chat: {1} Support Live chat<br/><br/>We look forward to servicing your business needs!
+crm.html.trial.deactivate.mobileaddon.instruction = Your 15 days trial for {0} CRM Mobile Edition has expired. To continue using {0} CRM Mobile Edition, please upgrade your account by following the steps given below.<p></p><li> Log in to {0} CRM.</li><li> Click the Upgrade link on top.</li><li> In the Manage Subscription page, click Manage for your Edition.</li><li> Under Add-ons & Plug-ins, select the Number of {0} CRM Mobile Edition users from the drop-down list.</li><li> Click 'Check out'</li>
+crm.html.trial.deactivate.outlook.contact === For any further queries, mail us to <a class="link" href="#SUPPORTMAILID">#SUPPORTMAILID</a> or call our Toll Free No (USA & Canada): <b>                        #CALLPHONE            .</b>
+crm.html.trial.deactivate.outlook.instruction = Your 15 days trial account for #BRANDLABEL CRM's Plug-in for Microsoft Outlook has expired. To continue using the Plug-in, please follow the instructions given below.<p></p><li>Log in to #BRANDLABEL CRM.</li><li>Click the Upgrade link on top.</li><li>Click Manage your plan.</li><li>Choose the number of outlook users to add.</li><li>Click the Update Account button.</li>
+crm.html.trial.deactivate.zti.instruction === Your 15 days trial for {0} PhoneBridge has expired. To continue using {0} PhoneBridge, please upgrade your account by following the steps given below.To continue using, please upgrade your account by following the steps given below.<p></p><li> Log in to {0} CRM.</li><li> Click the Upgrade link on top.</li><li> In the Manage Subscription page, click Manage for your Edition.</li><li> Under Add-ons & Plug-ins, select the Number of {0} PhoneBridge users from the drop-down list.</li><li> Click 'Check out'</li>
+crm.html.zohocrm.intro = #BRANDLABEL CRM gives you great flexibility to organize your business, communicate and collaborate with your contacts and colleagues.
+crm.import.columns.unmapped === Following Columns in your XLS/XLSX/CSV/VCF file are not mapped with any of the {0} CRM field. The data in these columns will not be imported if you try to continue the importation. Click the Previous button to map these fields. If you wish to continue, click the Import button.
+crm.import.duplicates.note3 = For each record, links are provided to view the corresponding existing record in {0} CRM.
+crm.import.error === {0} CRM Import Error
+crm.import.failure.message2 = <br><br>Please contact {0} for further assistance.<br><br>We will help you complete the data import.<br><br>Regards,<br>{1} CRM Team
+crm.import.failure.subject === {0} CRM - Data import failure
+crm.import.history2 = By default, {0} CRM allows <b>30 days</b> Rollback after which you can neither Rollback nor access history of the imported file(s).
+crm.import.notification === {0} CRM Import Notification
+crm.import.notification.info1 = Your data has been imported in #BRANDLABEL CRM. You can continue with other imports if any.
+crm.import.notification1 === {0} CRM - Data import success
+crm.import.overwrite.alert = If you select this option, all the values in the existing records will be overwritten by new values. Once the data is updated you cannot restore to the previous status. Hence you are strongly advised to use this option very carefully. For any clarification, please contact {0}
+crm.import.wizard2.note5 === Map the {0} CRM field names with the appropriate column names of the source file that you import.
+crm.import.zoho.crm.field = {0} CRM Field
+crm.importhistory.title === {0} CRM - Import History
+crm.intermediate.page.message = You have successfully signed into {0} CRM <br>Please Wait
+crm.invoice.zohobooks.instruction === The {0} Invoice/{0} Books integration allows you to view and monitor invoices related to customers within your {0} CRM account.
+crm.join.exising.account.info = If your company is using {0} CRM, please contact your CRM Administrator to get {0} CRM access instead of creating a new one.
+crm.join.existing.account.title === Join my Company's {0} CRM Account
+crm.label.addons.zdocs = {0} Docs
+crm.label.addons.zmail === {0} mail
+crm.label.available.for.enterprise.editon = This feature is available only for {0} CRM Enterprise Edition
+crm.label.creator.createacc === You need to have a {0} Creator account to access Custom Apps. Click <a href="https://creator.zoho.com" target="_blank" class="link">here</a> to create now.
+crm.label.creator.error = Error Message from {0} Creator
+crm.label.creator.error.editionLimitReached === You cannot create this application as you have reached the limit. Please upgrade your {0} Creator account.
+crm.label.creator.error.message.noUsersToShare = No CRM users available to share {0} Creator Views.
+crm.label.creator.error.message.noViewsToShare === No {0} Creator Views available in this {0} Creator form.
+crm.label.creator.error.noApps = No Apps Found in {0} Creator Account.
+crm.label.creator.noPermission.note1 === You do not have a {0} Creator account.
+crm.label.crmfieldlist = {0} CRM Fields
+crm.label.customfunction.publishingallery.desc === If you feel that your function could be useful for others, you can publish your function in {0} CRM Gallery.
+crm.label.data.migration.help = This page helps you to migrate data from other CRM systems to your {0} CRM account.
+crm.label.data.migration.help1 === Before starting the data migration, ensure that all custom fields are created in your {0} CRM account
+crm.label.databackup.purchase.thanks = <br>Thanks for subscribing to #BRANDLABEL CRM - Data Backup service. Here is your subscription information.
+crm.label.download.outlook.plugin === 15 days #BRANDLABEL CRM Plugin for Microsoft Outlook trial
+crm.label.error.message3 = If you're having trouble locating a destination on {0} CRM, try visiting the {0} CRM home page.
+crm.label.error.title === {0} CRM - Error
+crm.label.export.info.help = This page helps you to export data ( maximum: 3000 records) from your {0} CRM account in CSV format. If you want to export all data for further analysis or backup purpose, please use the <a href==="/crm/RequestForDataDump.do?action=requestDump">Request Data Backup</a> option.
+crm.label.friend.tell.crm = Tell about {0} CRM
+crm.label.login.id === {0}CRM ID
+crm.label.login.name = {0} CRM ID
+crm.label.login.username === {0} CRM ID
+crm.label.mobile.edition = {0} CRM Mobile Edition
+crm.label.my.zoho.account === My {0} Account
+crm.label.myzohoapps.creator.activation.note.desc = On activation, your {0} Creator account will be associated with this {0} CRM account.
+crm.label.myzohoapps.creator.briefdesc === {0} CRM, now integrated with {0} Creator, enables you to build custom apps for your specific Sales and Marketing needs. Build Apps, Forms, Views and Schedule Tasks. Above all else, you can also include your {0} CRM modules like Leads,Contacts etc. into your form. And views of that form are visible on {0} CRM custom tabs.
+crm.label.myzohoapps.creator.desc = Extend your {0} CRM by building a wide range of custom apps around it. {0} Creator's intuitive drag-and-drop form-builder lets you do just that, on your own.
+crm.label.myzohoapps.creator.useMyApp === Import App from {0} Creator
+crm.label.newrelatedlist.configureParameter.desc = Map the arguments of the function with the appropriate {0} CRM fields. You can also specify the custom values to the arguments.
+crm.label.outlook.edition === {0} CRM Plug-in for Microsoft Outlook
+crm.label.outlook.plugin = {0} CRM Plug-in for Microsoft Outlook
+crm.label.pagelayout.warning.alert === Warning:\nThis section is supplied by {0} CRM and it is translated for International users.\nDeleting this can cause invalid data error.\n\n Are you sure to continue deleting?
+crm.label.purchase.mail.assure = Thank you again for choosing #BRANDLABEL.<br>
+crm.label.purchase.mail.bestregards.sign === Best Regards,<br><br>The Team #BRANDLABEL CRM<br>Toll Free:                         #CALLPHONE            <br>Fax: #CALLFAX<br>Email: #SALESMAILID<br><br>Zoho Corporation |  4141 Hacienda Drive, Pleasanton, CA 94588, USA<br>
+crm.label.purchase.mail.thanks = <br>Thank you for choosing {0} as your customer relationship management service provider.<br>Please find your purchase details as mentioned below
+crm.label.purchase.mail.thanks1 === Thanks for subscribing with #BRANDLABELCRM Service. As the purchase date falls on the next subscription period, you will not be charged now, and will be charged only during the #BRANDLABEL CRM auto recurring renewal process. Below is your purchase details.
+crm.label.rename.duplicate.module.reserve.entry = This name is a standard word in {0} CRM and cannot be used. Please enter a different Tab Name
+crm.label.sheet.instructions === <li>Records from the Custom view can be viewed, updated using the sheet.</li><li>ID column is very important, hence should not be changed/removed for data consistency</li><li>New Record(s) added in the sheet will be added in {0} CRM upon saving the sheet.No need to give ID value for adding new record</li><li>Ensure that values are given for all the mandatory columns</li><li>Records will get updated/added only after the save button is clicked</li><li>Value in a cell will get saved only when you move the focus out of that cell</li><li><b>Max Rows allowed is 100</b></li><li>Deletion of records from the sheet is not supported</b></li><li><b>{0} Sheet view is not supported yet for Activities,Forecasts and other inventory modules</b></li><li><b>New Columns added will not be reflected in {0} CRM</b></li>
+crm.label.tax.calculation = {0} CRM - Customize Tax Rates
+crm.label.tell.subject === You are invited to open a {0} CRM Account
+crm.label.tell.urfriends = Tell about {0} CRM to your friends
+crm.label.url.zoho.creator === {0} Creator
+crm.label.url.zoho.discussions = {0} Discussions
+crm.label.url.zoho.invoice === {0} Invoice
+crm.label.url.zoho.mail = {0} Mail
+crm.label.url.zoho.meeting === {0} Meeting
+crm.label.url.zoho.products = {0} Services
+crm.label.url.zoho.projects === {0} Projects
+crm.label.url.zoho.recruit = {0} Recruit
+crm.label.url.zoho.writer === {0} Writer
+crm.label.warning.suggest = {0} CRM Suggests:
+crm.label.web.to1 === {0} CRM - Web to
+crm.label.your.zoho.credentials = This page will redirect you to {0} CRM Login page. In case it doesn't, click&nbsp;
+crm.label.zmail.addon === {0} Mail Add-on
+crm.label.zoho.auth.token = {0} Auth Token
+crm.label.zoho.campaigns === {0} Campaigns
+crm.label.zoho.discussions = {0} Discussions
+crm.label.zoho.meeting.add.link === {0} Meeting
+crm.label.zoho.projects.add.link = {0} Projects
+crm.label.zoho.services.value.adds === {0} CRM customers also subscribed to:-
+crm.lead.convertion.subject = {0} CRM - New {1} conversion & assignment
+crm.lead.duplicate.title === {1} CRM - Find and Duplicate {0}
+crm.leadconvertion.line3 = {0} CRM - New
+crm.license.activate.users.instruction === This page allows you to activate and deactivate the users. The maximum number of activated users should be less than or equal to license users. The same applies for enabling {0} CRM Plugin for Microsoft Outlook for users as well
+crm.license.downgrade.warning.template.cont3 = Your {0} CRM accounrt has been downgraded to the Free Edition.
+crm.license.downgrade.warning.template.subject === Your {0} CRM account has expired!
+crm.license.error.crmzsupportcountexceed = {0} Support Integration
+crm.license.error.crmzticountexceed === CRM {0} PhoneBridge
+crm.license.first.warning.template.cont2 = We are unable to transact the amount for the next subscription renewal with {0} CRM.
+crm.license.first.warning.template.cont3 === Please confirm your credit card details with the bank that issued the card. In case of any modifications, you can update the credit card details in the Manage Subscription page of {0} CRM. For more help, <a href="https://crmkbase.zoho.com/link/how-to-update-my-credit-card-information">click here</a>.
+crm.license.first.warning.template.subject = Attention please! - {0} CRM renewal transaction failed
+crm.license.nonstore.downgrade.template.subject === {0} CRM subscription has expired.
+crm.license.nonstore.downgrade.warning.template.subject = Renew your {0} CRM subscription.
+crm.license.second.warning.subject === Reminder! - {0} CRM renewal transaction failed, again!
+crm.license.steps.update.carddetails = <br>To upgrade your {0} CRM account, follow these steps:<br>
+crm.license.third.warning.subject === Final Reminder - {0} CRM renewal transaction failed.
+crm.license.transactionnotok.line3 = We are not able to transact amount for the next subscription renewal with #BRANDLABEL CRM. Kindly check your credit card details with the bank that issued the credit card and update the credit card details in #BRANDLABEL CRM ASAP within the next few days to avoid cancellation of your license.
+crm.license.transactionnotok.line31 === 1. Log in to {0} CRM with administrator privilege.
+crm.license.transactionok.line11 = Thank you for renewing your {0} CRM account. Please see the following information:
+crm.ln.error.general === There was a problem in processing the request. Please try again after sometime. If the problem persists, send us a mail to {0}.
+crm.ln.error.general.retrive = There was a problem in retrieving data from LinkedIn. Please try again after sometime. If the problem persists, send us a mail to {0}.
+crm.ln.integ.instruction === LinkedIn integration requires LinkedIn authentication. You can manage the LinkedIn authentication for {0} CRM.
+crm.ln.saveImage.title = Click to push the image to {0} CRM
+crm.login.crmaccount === New to {0} CRM?
+crm.login.data.migration.crm.helplink = Migrate to {0} CRM
+crm.login.data.migration.crm.helplink.info === Migrate from other CRM to {0}
+crm.login.feature.email.content = With the {0} Mail add-on you can track all your customers email correspondence inside {0} CRM.
+crm.login.intro === Introducing {0} &quot;Affordable&quot; CRM
+crm.login.inventory.management.message = {0} CRM empowers you to complete the post-sales activities with an integrated inventory management system.
+crm.login.other.zoho === Other {0} Apps
+crm.login.outlook = {0} CRM Plug-in for Microsoft Outlook
+crm.login.outlook.message === {0} CRM enhances your productivity by synchronizing CRM Contacts, Tasks, Calendar, and emails with Outlook.
+crm.login.page.mail.Experience = Experience {0} CRM
+crm.login.page.mail.heading === Track your Sales & Email inside {0} CRM!
+crm.login.page.mail.top.content = {0} CRM - the other award-winning CRM that gives you more for less!
+crm.login.page.zwitch.to.crm === to {0} CRM
+crm.login.product.customization.message = Drag-and-drop UI tools for customizing {0} CRM as per your business process.
+crm.login.reason1 === <strong>Award-winning, complete CRM solution.</strong> {0} CRM offers all the modules and tools that you might need to run your sales &amp; marketing.
+crm.login.reason5 = <strong>It's all hosted.</strong> When you choose {0} CRM, we do the hard work for you. You do not have to buy expensive servers, software, backup solutions, etc. Just focus on selling and leave the rest to us.
+crm.login.reason7 === <strong>It's not just CRM. </strong>When you create a {0} CRM account, you also get access to the {0} suite of products - from online storage and web meetings to other business products, such as project management, invoices and more.
+crm.login.reasons.title = Top 6 Reasons to Choose {0} CRM
+crm.login.reports.dashboards.message === {0} CRM helps you to analyze sales &amp; marketing trends and key CRM metrics by reports and dashboards.
+crm.login.sales.marketting.message = {0} CRM aligns your Sales and Marketing by integrating sales with campaigns, leads, sales pipeline, forecasts, etc.
+crm.login.security.message === {0} CRM empowers you to control the CRM data access based on users' job role in your organization hierarchy.
+crm.login.signup.note.questions1 = Why choose {0} CRM?
+crm.login.signup.note.questions2 === Because {0} CRM makes it easy for you to sell more and manage your customers, and gives you <strong>3 users absolutely FREE</strong> to get started.
+crm.login.signup.note.questions8 = Yes, {0} CRM is a "<strong>pay as you go</strong>" service, so you can upgrade, downgrade, or cancel at any time.
+crm.login.signup.note1.questions2 === Because {0} CRM makes it easy for you to sell more and manage your customers, and gives you <strong>Free Edition with 3 users free </strong> to get started.
+crm.login.signup.thanks.choosing = Thank you for choosing {0} CRM
+crm.login.signup.thanks.choosing.ent === Thank you for choosing {0} CRM - Enterprise Trial
+crm.login.signup.thanks.choosing.pro = Thank you for choosing {0} CRM - Professional Trial
+crm.login.support.service.message === {0} CRM employs Cases and Solutions to streamline your customer support process by integrating with sales data.
+crm.login.text = On-Demand CRM Software-as-a-Service(SaaS),Free CRM,Customer Relationship Management - {0} CRM
+crm.login.tollfree === Call Toll Free:                         {0}
+crm.loginname.check.message2.forOtherAccount = <p  class==="font13 floatL">The user is already part of another {0} CRM Account</p> <img title="Close" class="floatR mt1" alt="" src="//img.zohostatic.com/crm/images/close1.gif" onclick="hideFreezeMessage('freezeMessageDiv');"><p class="clearB pB5"></p><b>There are two options:</b> <p class="pL10">1. Specify a different Email address.<br>2. If you want to use the same Email address, please ask the user to change the Email address associated with the other account. For more details: <a href="javascript:;" onclick="openHelp('https://crmkbase.zoho.com/link/adding-an-existing-zoho-user-to-my-company-account')" class="link2 pL5">click here</a>.</p>
+crm.loginname.check.message2.forOtherAccount.ReInvite = <p  class==="font13 floatL"> The user you are trying to re-invite is already part of another {0} CRM Account.</p> <img title="Close" class="floatR mt1" alt="" src="//img.zohostatic.com/crm/images/close1.gif" onclick="hideFreezeMessage('errorDiv');"><p class="clearB pB5"><b> There are two options before you re-invite: </b> <p class="pL10"> 1. Specify a different email address for the user.<br>2. If you want to use the same Email address, please ask the user to change the Email address associated with the other {0} CRM Account. For more details,<a onclick="openHelp('https://crmkbase.zoho.com/link/adding-an-existing-zoho-user-to-my-company-account')" href="javascript:;"> click here</a>.</p>
+crm.loginname.check.message2.forOtherAccount.ReInvite.viaLink = <p  class==="font13 floatL"> The user you are trying to re-invite is already part of another {0} CRM Account.</p> <img title="Close" class="floatR mt1" alt="" src="//img.zohostatic.com/crm/images/close1.gif" onclick="hideFreezeMessage('errorDiv');"><p class="clearB pB5"><b> There are two options before you re-invite: </b> <p class="pL10"> 1. Specify a different email address for the user.<br>2. If you want to use the same Email address, please ask the user to change the Email address associated with the other {0} CRM Account. For more details,<a onclick="openHelp('https://crmkbase.zoho.com/link/adding-an-existing-zoho-user-to-my-company-account')" href="javascript:;"> click here</a>.</p>
+crm.loginname.check.message4.forAssociateUser = The user with this email address already has an account with {0}. Please ask the user to accept the invitation by clicking the Access Link in the email sent to the user's email address.
+crm.mail.merge.title === {0} CRM - Mail Merge Templates
+crm.mailmerge.activelink = Activate / Deactivate {0} CRM Plug-in for Microsoft Office users
+crm.mailmerge.adminOnly === Please contact your administrator to enable {0} CRM Plug-in for Microsoft Office trial.
+crm.mailmerge.crmplugin = {0} CRM Plug-in for Microsoft Office
+crm.mailmerge.enableTrial === You must activate the {0} CRM Plug-in for Microsoft Office to use this function. Click <a href="/crm/MailMerge.do?action=OfficePlugin" class=" arial12 bluelink">here</a> to activate.
+crm.mailmerge.evaluation = {0} CRM Plug-in for Microsoft Office Evaluation Status
+crm.mailmerge.evaluationstatus === Your {0} CRM Plug-in for Microsoft Office evaluation is <b>Active</b>
+crm.mailmerge.exceeds1 = To upload more templates, please click here to avail the {0} CRM Plug-in for Microsoft Office Subscription
+crm.mailmerge.iesupport === This feature is supported only in Internet Explorer 6 and above. Please access {0} CRM using Internet Explorer and try creating mail merge documents again.
+crm.mailmerge.note1 = This page helps you to upload the Microsoft Word mail merge template(s) in {0} CRM. You can use these templates to create mail merge documents for Leads, Accounts and Contacts.
+crm.mailmerge.officeplugin === {0} CRM Plug-in for Microsoft Office
+crm.mailmerge.purchaseinfo = Your {0} CRM Plug-in for Microsoft Office Subscription is currently <b>Active</b>.
+crm.mailmerge.subscribe === Your {0} CRM Plug-in for Microsoft Office Trial/Subscription has expired. To purchase, click <a class="bluelink" href="/crm/PlansList.do">here</a>
+crm.mailmerge.templateNote = This page helps you to add the Microsoft Word mail merge template in {0} CRM. You can use these templates to create mail merge documents for Leads, Accounts and Contacts.
+crm.mailtocase.enable.product === {0} Product-wise Support Feature
+crm.mailtocase.enable.zoho.support = Enable {0} Support
+crm.mailtocase.product.support.details === {0} Product-wise Support
+crm.mailtocase.zoho.support = {0} Support
+crm.migration.message.personal.account === You need to add another user before you proceed further. It is mandatory to have at least two users in your {0} CRM account before migrating users from other CRM.
+crm.migration.sucess = Your data has been migrated successfully in #BRANDLABEL CRM. You can continue with other migration if any.
+crm.mobile.apple.heading === Access {0} CRM in your Apple iPhone
+crm.mobile.apple.intro = {0} CRM for iPhone is a native application that lets you access your {0} CRM account from your iPhone. You can manage the Leads, Accounts, Contacts, Potentials and Activities (Tasks, Events, Calls) modules on the go.
+crm.mobile.blackberry.heading === Access {0} CRM in your BlackBerry
+crm.mobile.blackberry.intro = {0} CRM for BlackBerry is a native application that lets you access your {0} CRM account from your BlackBerry. You can manage the Leads, Accounts, Contacts, Potentials and Activities (Tasks, Events, Calls) modules on the go.
+crm.mobile.common.heading === Access {0} CRM in your Mobile devices
+crm.mobile.common.intro = {0} CRM Mobile Edition lets you access Customer Information from your mobile devices. You can download and install the application to get instant access to your CRM account, anywhere and anytime.
+crm.mobile.common.shortintro === {0} CRM Mobile Edition lets you access Customer Information from your mobile devices.
+crm.mobile.contact.admin = Please contact your {0} CRM Administrator to enable Mobile Edition for your organization.
+crm.mobile.edition.purchase.alert === You have already enabled the 15-day trial for Mobile Edition. <a href="/crm/Security.do?actionName=manageSubscription&fm=tp">Click here</a> to subscribe to the {0} CRM Mobile Edition.
+crm.mobile.feature3 = Make calls to your {0} CRM contacts
+crm.mobile.license.downgrade === You Mobile Edition license has been downgraded. Please <a href="/crm/Security.do?actionName=manageSubscription&fm=tp">Subscribe</a> to continue using {0} CRM Mobile Edition.
+crm.mobile.trademark.message = The names and logos for {0} are trademarks of {0} Corp. All other trademarks, brand names, or product names belong to their respective holders.
+crm.mobile.trial.expired === Your trial period has expired. Please subscribe to continue using {0} CRM Mobile Edition.
+crm.mobileaddon.expiry.subject = {0} CRM - Mobile Edition 15 days trial Expired
+crm.module.not.supported.mobile === Sorry !!! You are trying to access {0} CRM Mobile Edition page which is not possible in your current {1} plan. To avail the Mobile Edition, you need to upgrade to higher plans.
+crm.multicurrency.activation.mail.subject = {0} CRM - Multi-currency has been activated
+crm.new.account.welcomeMsg1 === My Organization has an account in  {0} CRM
+crm.new.account.welcomeMsg2 = Contact your CRM administrator for {0} CRM access
+crm.new.account.welcomeMsg3 === My Organization is new to <br/>{0} CRM
+crm.new.email.all.folder.view = {0} CRM - All Email Templates
+crm.new.email.folder === {0} CRM - New Email Template Folder
+crm.new.email.folder.view = {0} CRM - View Email Template
+crm.new.gapp.add.task.note === You can export tasks from {0} CRM to Google Tasks.
+crm.newfree.banner.info = Save&nbsp;10%&nbsp;-&nbsp;Get&nbsp;an&nbsp;<a style==="color:white;text-decoration:underline;" href="/crm/Security.do?actionName=manageSubscription&fm=bn">annual&nbsp;subscription</a>&nbsp;to&nbsp;{0}&nbsp;CRM
+crm.newrelatedlist.label.fieldMapping = Map your Custom App fields to the appropriate {0} CRM fields to get the contextual information of your App inside {0} CRM.
+crm.newrelatedlist.label.zohocreatorapps.desc === The custom apps which you have already added using {0} Creator is listed below. Pick your choice to make it as your related list.
+crm.notify.owner.title2 = {0} CRM - You have a new
+crm.office.plugin.instruction === {0} CRM Plug-in for Microsoft Office is a business enhancement add-on that helps you to create mail merge documents for Leads, Accounts, and Contacts.
+crm.officeplugin.activatationinfo = Your {0} CRM Plug-in for Microsoft Office user status is <b>Active</b>.
+crm.officeplugin.disabled === Your {0} CRM Plug-in for Microsoft Office user status is <b> disabled </b>. Please click <a href="/crm/License.do?actionType=LicenseUsers">here</a> to activate or contact your {0} CRM Administrator.
+crm.officeplugin.docerror = {0} CRM cannot download the Microsoft Word template
+crm.officeplugin.downloadofficeplugin === Download {0} CRM Plug-in for Microsoft Office
+crm.officeplugin.label = Download {0} CRM Plug-in for Microsoft Office here.
+crm.officeplugin.note1 === {0} CRM Plug-in for Microsoft Office is a business enhancement add-on that helps you to create mail merge documents for Leads, Accounts, and  Contacts.
+crm.officeplugin.purchase = Your {0} CRM Plug-in for Microsoft Office Trial version has expired. To avail subscription, click <a href==="/crm/PlansList.do">here</a>
+crm.officeplugin.purchase1 = Your {0} CRM Plug-in for Microsoft Office Trial version has expired.
+crm.officeplugin.purchaseinfo === Avail {0} CRM Plug-in for Microsoft Office subscription right away.
+crm.officeplugin.question1 = What is {0} CRM Plug-in for Microsoft Office?
+crm.officeplugin.question2 === What are the software requirements to install {0} CRM Plug-in for Microsoft Office?
+crm.officeplugin.trial = Evaluate the trial version of {0} CRM Plug-in for Microsoft Office for 30 records.
+crm.officeplugin.trialActive === Your {0} CRM Plug-in for Microsoft Office trial is now enabled.
+crm.officeplugin.trialnotactive = Click the link below to Evaluate your {0} CRM Plug-in for Microsoft Office.
+crm.officeplugin.tryingAgain === Your {0} CRM Plug-in for Microsoft Office Trial status is already active.
+crm.officeplugin.versionsupport2 = Listed below are the software requirements for {0} CRM Plug-in for Microsoft Office
+crm.officeplugin.zohocrmplguin === {0} CRM Plug-in for Microsoft Office
+crm.olplugin.message = Evaluate {0} CRM Plug-in for Microsoft Outlook.
+crm.olplugin.message2 === Your {0} CRM Plug-in for Microsoft Outlook status is Disabled <a href="/crm/License.do?actionType=LicenseUsers">click here</a> to activate or contact your {0} CRM administrator.
+crm.olplugin.message3 = Your {0} CRM Plug-in for Microsoft Outlook Evaluation/Subscription is completed.
+crm.other.zoho.user.info === If you already have a {0} CRM account, click on <strong>CANCEL</strong> button below and log in with your existing user ID.</p><p class="normaltext">Clicking on the <strong>CONTINUE</strong> button will create a New {0} CRM account for you.
+crm.otheriamuser.answer1 = Yes. You can use the existing username and password of {0} Account to access {0} CRM. Please choose the edition that meets your business needs.
+crm.otheriamuser.answer2 === Possibly, you are using {0} CRM service with a different username. Please log out and contact {1} or call:                       {2}               for assistance.
+crm.otheriamuser.answer3 = Yes, {0} CRM is a "pay as you go" service, so you can upgrade, downgrade, or cancel at any time.
+crm.otheriamuser.create.account.note === Select this option for a New {0} CRM account
+crm.otheriamuser.join.company.note1 = <strong>Please contact your IT or CRM Administrator</strong> to add you as a user in your company's {0} CRM account.
+crm.otheriamuser.join.company.note2 === For any assistance, please contact:<br />{0} <br />Toll Free:                         {1}
+crm.otheriamuser.question1 = 1. Can I use my existing user name and password of {0} Account to access {0} CRM?
+crm.otheriamuser.question2 === 2. I already have a {0} CRM account. Why am I redirected to choose edition again?
+crm.otheriamuser.welcome = Welcome to {0} CRM!
+crm.otheriamuser.welcome.notes === {0} CRM is a complete customer relationship management solution that helps you grow your business. It empowers you to manage your sales, marketing, customer support and inventory in a single system.
+crm.outlook.deactivate.subject = {0} CRM - Outlook Deactivation
+crm.outlook.evaluation.alert === Outlook trial version has been enabled for 15 days. Click 'Download {0} CRM Plugin for Microsoft Outlook' button to download the {1} CRM Plugin for Microsoft Outlook.
+crm.outlook.expiry.subject = {0} CRM - Outlook 15 days trial Expired
+crm.outlook.plugin.instruction === You can use {0} CRM Plug-in for Microsoft Outlook to synchronize your data (contacts, tasks, events, and emails) between {0} CRM and Microsoft Outlook.
+crm.outlook.plugin.not.supported = Sorry !!! You are trying to access {0} CRM Plug-in for Microsoft Outlook which is not available in your current {1} plan. To avail this feature, you need to upgrade to higher plans.
+crm.outlook.plugin.working === Working with {0} CRM Plug-in for Microsoft Outlook
+crm.outlook.support.email = Email: <a href==="mailto:{0}">{0}</a>
+crm.payment.instruction2 = After purchasing users in {0} CRM, swiping of the renewal amount for the next subscription period happens automatically until you explicitly instruct the system to stop making recurring payments.
+crm.permission.api.access.permission === {0} CRM API Access
+crm.permission.customize.zohocrm = Customize {0} CRM
+crm.permission.zoho.mail.integ === {0} Mail Integration
+crm.permission.zoho.meeting.view = {0} Meeting
+crm.permission.zoho.phonebridge.integ === {0} PhoneBridge
+crm.permission.zoho.sheet.view = {0} Sheet View
+crm.permission.zoho.support.integ === {0} Support Integration
+crm.permission.zohowriter.addon = {0} Writer Add-on
+crm.planaccount.mobileaddon.label === Number of {0} CRM Mobile Edition user
+crm.planaccount.mobileaddonadd.label = {0} CRM Mobile Edition to add
+crm.planaccount.mobileaddonsub.label === {0} CRM Mobile Edition to reduce
+crm.planaccount.zsupport.label = Number of {0} Support user
+crm.planaccount.zsupportadd.label === Number of {0} Support Add-on users to add
+crm.planaccount.zsupportsub.label = {0} Support Integration to reduce
+crm.planaccount.zti.label === Number of {0} PhoneBridge users
+crm.planaccount.ztiadd.label = Number of {0} PhoneBridge users to add
+crm.planaccount.ztisub.label === Number of {0} PhoneBridge users to reduce
+crm.planaccount10 = Number of {0} CRM Plug-in for Microsoft Office users to add
+crm.planaccount11 === Number of {0} Mail Add-on users to add
+crm.planaccount12 = Number of {0} CRM Plug-in for Microsoft Office users to reduce
+crm.planaccount13 === Number of {0} Mail Add-on users to reduce
+crm.planaccount2 = Number of {0} CRM Plug-in for Microsoft Outlook users to add
+crm.planaccount5 === Number of {0} CRM Plug-in for Microsoft Outlook users to reduce
+crm.planaccount7 = {0} CRM Plug-in for Microsoft Office
+crm.planaccount8 === {0} CRM for QuickBooks
+crm.planaccount9 = {0} Mail Add-on
+crm.portal.setup.note1 === The selected users will be added as Administrators in {0} Projects
+crm.prerequisities.step1 = The ZSC key from {0} Projects should have been generated
+crm.primary.contact.alert === Sorry, you cannot deactivate this user as he/she is the Primary Contact of your {0} CRM account. Please, choose another user as the primary contact in 'Company Details' page to deactivate this user.
+crm.primary.profile.alert = Sorry, you cannot change the profile of this user as he/she is the Primary Contact for your {0} CRM account. The Primary Contact should have an Administrator profile.
+crm.primarycontact.admin.message === Please <a href="{0}"><u color="#0000CC">update</u></a> the Primary Contact in {1} CRM.
+crm.primarycontact.home.tooltip = <b>Your Primary Contact&#146s {0} Account is closed.<br><br>To receive notifications regarding all the transactions, bills and communication from {0} CRM, please update the Primary Contact details of your {0} CRM account in the Company Details page</b>
+crm.primarycontact.home.tooltip.deactive === <b>Your Primary Contact&#146s {0} CRM Account is deactivated.<br><br>To receive notifications regarding all the transactions, bills and communication from {0} CRM, please update the Primary Contact details of your {0} CRM account in the Company Details page</b>
+crm.prof.ent.trial.expiry = Your {0} CRM - {0} Edition trial period has expired
+crm.prof.trial.expiry.three === Your {0} CRM Trial Expires in 3 Days
+crm.proj.causechangeportal = When you select a different project portal, all the projects associated with the portal "{0}" will be deleted from {0} CRM. Do you still want to change the portal?
+crm.proj.clickchangelink === Click 'Change' to configure another portal. Please note that once you change the portal, all the existing data associated to the portal will not be available in {0} CRM.
+crm.project.aboutproj = The {0} Projects integration allows you to plan, execute, and monitor customer projects right from within your {0} CRM account. {0} Projects integration with CRM helps you to:
+crm.project.aboutproj1 === Add projects related to your customers from {0} CRM
+crm.project.aboutproj2 = Execute all projects inside {0} Projects
+crm.project.aboutproj3 === View the status of the projects related to your customers inside {0} CRM
+crm.project.aboutprojnote = {0} Projects Integration is available in Standard, Professional and Enterprise Edition. You can also avail this integration by trying out the Trial version of mentioned editions.
+crm.project.clientuser.note0 === <b>{0}</b> and <b>{1}</b> in {2} CRM will be added as <b>Clients</b> and <b>Client Users</b> respectively in {2} Projects.
+crm.project.clientuser.note2 = A Client, in {0} Projects, is a company or an organization ({0}) for which the projects are done.
+crm.project.clientuser.note3 === A Client user can be added to only one Client in {0} Projects.
+crm.project.clientuser.note4 = The {0} which are added as Client users will have an access in {0} Projects. Henceforth they will be able to view the project information.
+crm.project.donthaveportal === You do not have a portal associated to your email address. Create a portal or configure another user\'s portal to use {0} Projects Integration.
+crm.project.error.notaddedclients = The client user(s) <b class==="dim">{0}</b> were not added to the project as they are added to other client in {0} Projects. You can change the email address of the users and add them to this project.
+crm.project.genzsckey = Generate ZSC Key in {0} Projects
+crm.project.intro === The {0} Projects integration allows you to plan, execute, and monitor customer projects right from within your {0} CRM account.
+crm.project.notactivated = {0} Projects Integration is not available in the Free Edition.
+crm.project.nousertoassociate === You do not have users in your {0} CRM account to associate them to the portal.
+crm.project.pleasechooseuser = Select {0} CRM Users
+crm.project.portal.alreadyportalavailable.label === You own a Portal in {0} Projects. Associate your Portal to {0} CRM.
+crm.project.portal.causeofuninsatll = You are trying to deactivate {0} Projects Integration from {0} CRM. Please note that all the projects under the associated portal will be deleted in {0} CRM.
+crm.project.portal.datalose === When you select a different project portal, all information associated with portal <b>{0}</b> will be lost from {1} CRM. Do you still want to change the portal?
+crm.project.portal.installedportal = The {4} Projects Integration is activated and the portal <b>{0}</b> is associated to your {4} CRM account. You can now create or associate projects from the {1}, {2}, and {3} modules.
+crm.project.portal.noportalavailable.label === You do not own a portal in {0} Projects. Create a new portal and associate it to your account
+crm.project.portal.note = The selected users will be added as Administrators in {0} Projects. An Administrator in {0} Projects has all privileges in a portal like adding new projects, folders, add/remove users, add/edit/delete tasks and schedule meetings.
+crm.project.portal.noteremaining === to learn more about the roles in {0} Projects.
+crm.project.portal.paiduseronly = {0} Projects Integration is available only in the <b>Professional</b> and the <b>Enterprise</b> Editions.
+crm.project.portal.whyzohoproject === {0} Projects Integration helps you to create projects for your clients from within your CRM account. Additionally, you can monitor the status of your projects from the {0}, {1} or {2} modules.
+crm.project.portal.zohoproject = {0} Projects Integration
+crm.project.portalnamechanged === The Portal Owner or the Portal's ZSC key may have changed. You need to update the portal settings. Please note that changing the portal will disassociate all the projects in {0} CRM.
+crm.project.privileges = Permissions for {0} CRM Users
+crm.project.projuser.note2 === The other project users selected will be added as managers in {0} Projects.
+crm.project.projuser.note2remaining = to learn more about the roles in {0} Projects.
+crm.project.remove.warning === The selected project will be removed from {0} CRM but not from {0} Projects. Do you want to continue?
+crm.project.selectprivileges = Select the Permissions for {0} CRM Users
+crm.project.setup === Set Up {0} Projects Integration
+crm.project.upgradelicense = You cannot add more projects from your {0} CRM account. You are trying to add projects that exceeds your {0} Projects License Limit. Upgrade your {0} Projects account to add more projects
+crm.project.warning.head === {0} Projects
+crm.project.warning.msg = The users with the following email addresses are part of {0} Projects.
+crm.project.warning.msgcontinue === Please note that once deactivated, the users can still continue to work on the projects from their {0} Projects account.
+crm.project.zohoproject = {0} Projects
+crm.pulse.limit.notification.mail.note1 === This is to alert you that you have exceeded the maximum limit of workflow follow up records allowed in the Enterprise Edition of {0} CRM
+crm.pulse.limit.notification.subject = {0} CRM - Workflow Followup limit exceeded
+crm.pulse.notification.subject === Important message from {0} CRM about Followup limit exceed
+crm.purchase.tooltip.quickbooks = QuickBooks integration with {0} CRM helps you to organize customer information and synchronize data between {0} CRM and QuickBooks.
+crm.qb.mapping.crmfieldnottaken === {0} CRM Mandatory field is not chosen
+crm.qb.mapping.crmfieldtaken = {0} CRM field already chosen
+crm.qbook.expiry.subject === {0} CRM - QuickBooks 15 days trial Expired
+crm.quickbook.datatransfer.export = Export from {0} CRM to QuickBooks
+crm.quickbook.datatransfer.exportnote === This page helps to export data from {0} CRM to update in QuickBooks.
+crm.quickbook.datatransfer.import = Import from QuickBooks to {0} CRM
+crm.quickbook.datatransfer.importnote === This page helps to import data from QuickBooks to update in {0} CRM.
+crm.quickbook.datatransfer.lable1 = <b>Import</b>  [ QuickBooks to {0} CRM ]
+crm.quickbook.datatransfer.lable2 === <b>Export</b>  [ {0} CRM to QuickBooks ]
+crm.quickbook.datatransfer.lable3 = <b>Synchronize</b>  [ QuickBooks <-> {0} CRM ]
+crm.quickbook.datatransfer.note2 === After the first sync, if any record is modified either in {0} CRM or in QuickBooks, the changes will take place only during the next sync.
+crm.quickbook.datatransfer.note3 = Newly created QB records will be added in {0} CRM, only if the data transfer mode is selected as Import or Synchronize.
+crm.quickbook.datatransfer.note4 === Synchronize the data to update in {0} CRM and in QuickBooks. You can prioritize the data while synchronizing between {0} CRM and QuickBooks.
+crm.quickbook.datatransfer.note5 = This page helps to export data from {0} CRM to update in QuickBooks.
+crm.quickbook.datatransfer.sync === Synchronize [QuickBooks <-> {0} CRM]
+crm.quickbook.whytoken = This token is used to access {0} CRM from QuickBooks.
+crm.quickbooks.backtoqbsettings === Back to {0} CRM for QuickBooks Home page
+crm.quickbooks.downloadqwc.content = Download QuickBooks Web Connector file (with .qwc extension) to establish connection between {0} CRM and QuickBooks.
+crm.quickbooks.fieldmap.note === Here you can map the {0} CRM fields with equivalent QuickBooks fields for each modules.
+crm.quickbooks.fieldmap.note3 = While map the fields, please map similar field types like {0} date field with QB date field, {0} integer field with QB integer field, etc., as we will not verify the mapped field types. So that the merge will happen properly.
+crm.quickbooks.fieldmap.note4 === While map Picklist, Multiselect picklist, look up fields, please ensure that all the incoming records' values already available in the corresponding field values. For example, if the QB contact's salutation value is XXX then this XXX should be available in the {0}crm's salutation picklist field. Otherwise this value will not be saved properly.
+crm.quickbooks.fieldmap.note5 = You can map {0} custom date and datetime field with a QB field (text), but you should enter date and datetime values in QB field in YYYY-MM-DD and YYYY-MM-DD HH:MM format. Otherwise random/empty date value will be updated or update will not happen properly.
+crm.quickbooks.fieldmapping.alert1 === field in {0} CRM is mapped to more than one field
+crm.quickbooks.fileinfo.label2 = Please give the QuickBooks Company file name with fullpath in the text field or browse the QuickBooks Company file if the file is available in your local system ie., if QuickBooks is installed in this system. This Company data will be merged with {0} CRM during sync.
+crm.quickbooks.fileinfo.label3 === Once you give the file path, we will give you a qwc file (file with .qwc extension). Please save this file in your system and add this in QuickBooks WebConnector using Add Application option. Once you added this in QBWC then you can run this application to sync data between QuickBooks and {0} CRM
+crm.quickbooks.header = {0} CRM for QuickBooks
+crm.quickbooks.header1 === Use the <b>{0} CRM for QuickBooks</b> to synchronize your customer contacts between {0} CRM and QuickBooks.<br><br>This page helps configure {0} CRM - QuickBooks integration settings.
+crm.quickbooks.mapaccounttype.content = The Account Type field in QuickBooks is mandatory. Hence, you need to map it to a {0} CRM field:
+crm.quickbooks.mapaccounttype.help1 === The following values are available in the Account Type field but are not part of the selected {0} CRM's pick list field.  <b> {1} </b> Add the values to the selected Pick List field:
+crm.quickbooks.mapfields.content = Map {0} CRM fields with the corresponding QuickBooks fields to make sure that data is  transferred accurately.
+crm.quickbooks.mapproducttype.content === The Product Type field in QuickBooks is mandatory. Hence, you need to map it to a {0} CRM field:
+crm.quickbooks.mapproducttype.help1 = The following values are available in the Product Type field but are not part of the selected {0} CRM's pick list field. <br/>  <b> {1}  </b> <br/> Add the values to the selected Pick List field:
+crm.quickbooks.plugin.instruction === {0} CRM for QuickBooks helps you to maintain up-to-date records in both {0} CRM and QuickBooks.
+crm.quickbooks.requirements.content2 = You need to map the time zone of your System and {0} CRM account to avoid unexpected errors in data transfer.
+crm.quickbooks.selectcrmfield === Select a {0} CRM Field
+crm.quickbooks.step2 = In the Fields Mappings page, map {0} CRM fields with corresponding QuickBooks fields
+crm.quickbooks.step4Note1 === Match your Desktop time zone with your selected {0} CRM time zone.
+crm.quickbooks.subscription.expired = Your subscription has been expired, If you want to use {0} CRM for QuickBooks kindly subscribe again
+crm.quickbooks.subscription.statusmsg === {0} CRM for QuickBooks subscription status
+crm.quickbooks.trial.expired = Free trial has been expired,If you want to use {0} CRM for QuickBooks further kindly subscribe
+crm.quickbooks.trial.period === Try {0} CRM for QuickBooks free for 15 days
+crm.quickbooks.whatis.answer = {0} CRM for QuickBooks helps you to maintain up-to-date records in both {0} CRM and QuickBooks. You can use the Import, Export and Synchronize options to transfer data manually or automatically and reduce duplicate data entries.
+crm.quickbooks.whatis.question === What is {0} CRM for QuickBooks?
+crm.quickbooks.zohocrmfields = {0} CRM Fields
+crm.reauth.cookies.not.accept === If you do not accept the <b>cookies</b> set on login or your computer is not configured to accept cookies, your session will expire almost immediately. We use cookies (small pieces of site information) to assist us in user authentication and in saving configuration information. Cookies are required for <b>{0} CRM!</b>
+crm.record.not.accessible.message3 = The {0} could have been deleted from {1} CRM.
+crm.recyclebin.note1 === The Recycle Bin displays the list of the records that have been deleted (accidentally or intentionally) by the users in your {0} CRM account.
+crm.report.from.scheduler = You are recieving this mail from {0} CRM Report Scheduler.
+crm.report.integ.mail.subject === Your {0} CRM Account integrated with {0} Reports
+crm.report.integration = {0} Reports Integration
+crm.report.scheduler === {0} CRM Report Scheduler
+crm.report.scheduler1 = {0} CRM - Report Scheduler
+crm.reports.deactivate.heading === Deactivation of {0} Reports
+crm.reports.delete.note1 = You are about to deactivate the integration between {0} CRM and {0} Reports. By doing so,
+crm.reports.delete.note2 === All data & associated reports will be deleted in {0} Reports
+crm.reports.delete.note3 = Your data within {0} CRM will remain safe
+crm.reports.integ.configure === Configure {0} Reports
+crm.reports.integ.downgrade.heading.note1 = As the configured {0} Reports Account has been downgraded to Free Edition, the Advanced CRM Analytics is unavailable for your organization.
+crm.reports.integ.downgrade.mesg === You have been downgraded to Free Edition of {0} Reports. Please contact the report integration owner, < {1} > for further assitance.
+crm.reports.integ.downgrade.option2 = 2. Configure the integration afresh, using your {0} reports account.
+crm.reports.integ.downgrade.option3 === 2. Upgrade your {0} Reports to Standard or higher edition and configure the integration using your account afresh.
+crm.reports.integ.downgrade.owner.mesg = You have been downgraded to Free Edition of {0} Reports. Please upgrade to &quot;standard&quot; or higher edition of {0} Reports to continue the integration.
+crm.reports.integ.edition === {0} Reports Edition
+crm.reports.integ.mustread1 = Data Hierarchy of CRM Data will not be carried in {0} Reports. However from {0} Reports the data or db sharing can be done.
+crm.reports.integ.mustread3 === {0} Reports Account will be created / associated to this CRM Account. Purchase Info
+crm.reports.integ.mustread4 = {0} CRM would be synchronized with {0} reports for every 24 hours.
+crm.reports.integ.mustread5 === If you are sharing the database created through {0} CRM, then the shared user is able to export the data.
+crm.reports.integ.poweredby = powered by {0} Reports
+crm.reports.integ.sales.analytics.info === Data from the following modules will be pushed to {0} Reports.
+crm.reports.integ.select.fields.info = Only the selected fields from each module will be pushed to {1} Reports.
+crm.reports.integ.sync.error === Sorry, an unexpected error occurred during synchronization process. The error has been logged and we will be analyzed it.<br><br>In the meantime, it is really appreciable, if you can provide us with additional information to {0}.
+crm.reports.integ.sync.problem = Problem in syncing data with {0} Reports
+crm.reports.integ.sync.time.info === Pick your time to push the data everyday to {0} Reports
+crm.reports.integration.config = {0} Reports Configuration
+crm.reports.integration.important.notes3 === Data from <strong>{0}, {1}, {2}, {3}, {4} and Users</strong> will be automatically synchronized with {5} Reports every <strong>24</strong> hours, for your analysis & reporting.
+crm.reports.integration.short.note = {0} Reports Integration allows you to analyze your {0} CRM data and create insightful reports & dashboards.
+crm.reports.integration.title === {0} Reports
+crm.security.company.ccard.info = <b>Attention to Paid Users</b>: Please update your credit card details if you have changed your primary contact in {0} CRM. The credit card details have to be updated with the new primary contact so that all the payment related information mails are sent to the new primary contact.
+crm.security.sharing.rules.info === This page helps you to manage the sharing rules for all the modules and also for Organization default share settings. From this rules {0} CRM will define the level of access to each other's data.
+crm.security.viewallemailtemps = {0} CRM - All Email Templates
+crm.setup.zoho.apps === {0} Apps
+crm.sign.in = {0} CRM - Sign in
+crm.signup.title === Customer Relationship Management, On-Demand CRM - {0} CRM - Select CRM Edition
+crm.social.setup.tag = {0} CRM offers faster and smarter ways to conduct business through social integration with services like Facebook and Twitter.
+crm.socialTab.facebook.addCaption === Add your Facebook account to help you stay engaged with your customer community within {0} CRM.
+crm.socialTab.twitter.addCaption = Add your Twitter account to help you respond to customer tweets from the Social Tab within {0} CRM.
+crm.store.accinfo === #BRANDLABEL CRM Account Information
+crm.store.downgrade5 = Choose the correct {0} CRM Plug-in for Microsoft Office licenses count to downgrade
+crm.store.downgrade7 === Choose the correct {0} PhoneBridge user licenses count to downgrade
+crm.store.downgrade8 = Choose the correct {0} Support user licenses count to downgrade
+crm.store.downgrade9 === Choose the correct {0} CRM Mobile Edition user licenses count to downgrade
+crm.store.mobileaddon.tooltip = {0} CRM Mobile Edition helps you to access CRM from your iPhone and BlackBerry smartphones.
+crm.store.no.of.officeplugin === Number of {0} CRM Plug-in for Microsoft Office
+crm.store.no.of.outlook = Number of {0} CRM Plug-in for Microsoft Outlook
+crm.store.no.of.zmail === Number of {0} Mail Add-on
+crm.store.officeplugin.tooltip = {0} CRM Plug-in for Microsoft Office helps you to create mail merge documents, such as Form Letters, Address Labels, Envelopes and other documents based on customer data from {0} CRM.
+crm.store.outlook.thanks === Thank you for ordering {0} CRM Plugin for Microsoft Outlook licenses. You can activate {1} CRM Plugin for Microsoft Outlook for users from here.
+crm.store.outlook.tooltip = {0} CRM Plug-in for Microsoft Outlook helps you to synchronize your contacts, calendar and tasks between Microsoft Outlook and {0} CRM. Also, add Outlook inbound and outbound emails with Leads or Contacts in {0} CRM.
+crm.store.thanks === <b>Thank you for subscribing with {0} CRM.</b><br>For details, please refer the Email sent.<ul><li>Users who have subscribed for additional user licenses, {0} CRM Plugin for Microsoft Outlook,Office Plug-in or {0} Mail Add-On, can click <a href='/crm/License.do?actionType=LicenseUsers' class='link'>here</a> to activate their user licenses.</li><li>Any user can subscribe to {0} CRM from the Manage Subscriptions Page.An Email, with the details of the subscription, will be sent to the Email ID specified during subscription.</li><li>However, all further <b>renewal emails will be sent to the Primary Contact Email ID</b> specified in the Company Details Page.</li></ul>
+crm.store.user.tooltip = Users can log in to your {0} CRM account, access CRM data and use various functions according to their permissions configured by the Administrator.
+crm.store.zmail.tooltip === {0} Mail Add-on helps you to manage all your customer emails within {0} CRM and also associate email conversation with CRM data (leads, contacts and potentials).
+crm.store.zsupport.tooltip = {0} Support Integration helps you to view all the support tickets associated to the Leads and Contacts in {0} CRM.
+crm.store.zti.tooltip === {0} PhoneBridge helps you to execute inbound and outbound calls from within {0} CRM and also manage call logs.
+crm.successful.added.message = You are successfully added to {0} CRM.
+crm.successful.signup.message === You have successfully signed up for {0} CRM
+crm.support.com = #SUPPORTMAILID
+crm.support.try.implement === Trying to implement {0} CRM for my organization
+crm.task.notification.subject = {0} CRM - Task Notification Mail
+crm.task.notification.subject1 === {0} CRM - Task Reminder Notification
+crm.task.reminder.mail.title1 = {0} CRM - You have a New Task (Subject:
+crm.template.email.signature === {0} CRM - Signature
+crm.template.security.error = Our system is unable to process your content, please contact <a href==="mailto:{0}" class="link">{0}</a>.
+crm.terms.accept.alert = Please read and accept the Terms of {0} CRM Service
+crm.terms.accept.message === Terms of {0} CRM Service
+crm.terms.agree.message = Please read and agree to the {0} CRM <a class==="link" href="//www.zoho.com/crm/zohocrm-terms.html" target="_blank">Terms of Service</a> <img src="//img.zohostatic.com/crm/images/popOut.png" alt="" class="pop"/> to proceed further.
+crm.terms.title = {0} CRM - Terms of Service
+crm.terms.update.message === We have published <u><a class="skyBluTxt" target="_blank" href="//www.zoho.com/crm/zohocrm-terms.html">service specific terms for {0} CRM</a></u>. These terms will apply in addition to the <u><a class="skyBluTxt" target="_blank" href="//www.zoho.com/terms.html">General Terms of Service</a></u>
+crm.territory.disable.mailto.note = Do let us know at #SUPPORTMAILID if we can step in to help you with the process.
+crm.territory.disable.msg === This is to notify you that <b>#NAME</b>, one of the administrators of your #BRANDLABEL CRM account has disabled Territory Management for your organization.
+crm.territory.enable.msg = This is to notify you that <b>#NAME</b>, one of the administrators of your #BRANDLABEL CRM account has enabled Territory Management for your organization.
+crm.territory.schedule.mail.content.failure1 === Please run the territory rules once again. If you have an issue again, write to {0} for assistance.
+crm.thanks.trying = Thanks for trying {0} CRM
+crm.title.attachment.view === {0} CRM - View Attachment
+crm.title.calendar.dayview = {0} CRM - Day View
+crm.title.calendar.monthview === {0} CRM - Month View
+crm.title.calendar.weekview = {0} CRM - Week View
+crm.title.change.my.display === {0} CRM - Change my display
+crm.title.change.owner = {1} CRM - Change the {0} Owner
+crm.title.change.owner.error === {1} CRM - Error: Change {0} Owner
+crm.title.change.owner.security.error = {1} CRM - Security Error: Change {0} Owner
+crm.title.clone.email.template === {0} CRM - Clone Email Template
+crm.title.clone.entity = {1} CRM - Clone {0}
+crm.title.clone.entity.error === {1} CRM - Error: Clone {0}
+crm.title.clone.entity.security.error = {1} CRM - Security Error: Clone {0}
+crm.title.contact.roles.security.error === {0} CRM - Security Error: Show Contact Roles
+crm.title.create.activity = {1} CRM - Create {0}
+crm.title.create.activity.error === {1} CRM - Error - Create {0}
+crm.title.create.competitor = {0} CRM - Create Competitor
+crm.title.create.entity === {1} CRM - Create {0}
+crm.title.create.entity.error = {1} CRM - Error: Create {0}
+crm.title.create.entity.security.error === {1} CRM - Security Error: Create {0}
+crm.title.custom.field.mapping = {0} CRM - Custom Field Mapping
+crm.title.custom.field.mapping.error === {0} CRM - Error: Custom Field Mapping
+crm.title.custom.field.mapping.security.error = {0} CRM - Security Error: Custom Field Mapping
+crm.title.customize.entity.page === {1} CRM - Organize {0} Details
+crm.title.customize.entity.page.error = {1} CRM - Error: Organize {0} Details
+crm.title.customize.entity.page.security.error === {1} CRM - Security Error: Organize {0} Details
+crm.title.customize.related.list = {0} CRM - Related List Columns
+crm.title.customize.related.list.security.error === {0} CRM - Security Error: Related List Columns
+crm.title.customize.tabs = {0} CRM - Organize Tabs
+crm.title.customize.tabs.error === {0} CRM - Error: Organize Tabs
+crm.title.customize.tabs.security.error = {0} CRM - Security Error: Organize Tabs
+crm.title.customize.tax === {0} CRM - Customize Tax Rates
+crm.title.customize.tax.security.error = {0} CRM - Security Error: Customize Tax Rates
+crm.title.customview.edit === {0} CRM - Edit Custom View
+crm.title.customview.error = {0} CRM - Error in Custom View
+crm.title.customview.new === {0} CRM - Create Custom View
+crm.title.customview.show = {0} CRM - Displaying Custom View Details
+crm.title.dashboard.wizard.SecurityError === {1} CRM - Security Error - {0}
+crm.title.dashboard.wizard.showDashboards = {1} CRM - {0}
+crm.title.dashboard.wizard.step0 === {1} CRM - Select {0} Component: Step 1
+crm.title.dashboard.wizard.step1 = {1} CRM - Select {0} Component: Step 2
+crm.title.dashboards.SecurityError === {1} CRM - Security Error - {0}
+crm.title.dashboards.editDashboardFolder = {0} CRM - Edit Dashboard Folder
+crm.title.dashboards.newDashboard === {0} CRM - New Dashboard
+crm.title.dashboards.newDashboardFolder = {0} CRM - New Dashboard Folder
+crm.title.dashboards.showAllDashboards === {0} CRM - Dashboard List
+crm.title.dashboards.showDashboard = {0} CRM - Dashboard List
+crm.title.dashboards.success === {1} CRM - {0}
+crm.title.dashboards.zoom = {1} CRM - Zoom {0}
+crm.title.delete.entity.error === {1} CRM - Error: Delete {0}
+crm.title.delete.entity.security.error = {1} CRM - Security Error: Delete {0}
+crm.title.edit.activity === {1} CRM - Edit {0}
+crm.title.edit.activity.security.error = {1} CRM - Security Error: Edit {0}
+crm.title.edit.competitor === {0} CRM - Edit Competitor
+crm.title.edit.competitor.error = {0} CRM - Error: Edit Competitor
+crm.title.edit.contact.roles === {1} CRM - Edit {0} Roles
+crm.title.edit.custom.field = {0} CRM - Edit Custom Field
+crm.title.edit.email.template === {0} CRM - Edit Email Template
+crm.title.edit.entity = {1} CRM - Edit {0}
+crm.title.edit.entity.error === {1} CRM - Error: Edit {0}
+crm.title.edit.entity.security.error = {1} CRM - Security Error: Edit {0}
+crm.title.edit.field.properties === {1} CRM - Edit Field Properties
+crm.title.edit.potential.stage = {1} CRM - Edit {0} Stage
+crm.title.edit.tc.field === {0} CRM - Edit Terms and Conditions
+crm.title.entity.field.list = {0} CRM - {0} Field List
+crm.title.entity.field.list.error === {0} CRM - Error: {0} Field List
+crm.title.entity.field.list.security.error = {0} CRM - Security Error: {0} Field List
+crm.title.entity.name.lookup === {1} CRM - {0} Name Lookup
+crm.title.entity.name.lookup.error = {1} CRM - Error: {0} Name Lookup
+crm.title.export.report.security.error === {0} CRM - Permission Denied: Report Export
+crm.title.export.wizard.security.error = {1} CRM - Security Error: Export {0}
+crm.title.feedback.subject === {0} CRM Feedback
+crm.title.general = {1} CRM - {0}
+crm.title.gsearch.error === {0} CRM - Error: GSearch
+crm.title.gsearch.results = {0} CRM - Gsearch Results
+crm.title.html === #BRANDLABEL CRM - Purchase / Subscription details
+crm.title.import.history.security.error = {0} CRM - Security Error: Import History
+crm.title.import.wizard === {1} CRM - Import Wizard: Step {0}
+crm.title.import.wizard.security.error = {1} CRM - Security Error: Import {0}
+crm.title.invitees.name.lookup === {0} CRM-Invitees Lookup
+crm.title.lar.security.error = {1} CRM - Security Error - {0} Assignment Rule
+crm.title.lead.assign.rule === {1} CRM - {0} Assignment Rule
+crm.title.lead.convert = {1} CRM - {0} Conversion
+crm.title.lead.convert.error === {1} CRM - Error: {0} Conversion
+crm.title.lead.convert.security.error = {1} CRM - Security Error: {0} Conversion
+crm.title.license.error === {0} CRM - License Error
+crm.title.license.orderhis = {0} CRM - License Order History
+crm.title.license.orderhis.view === {0} CRM - License Order History View
+crm.title.license.reqconfirm = {0} CRM -License Order Confirmation
+crm.title.license.reqpage === {0} CRM - Manage Subscriptions
+crm.title.license.updconfirm = {0} CRM - License File Upgrade Confirmation
+crm.title.license.users === {0} CRM - License Users
+crm.title.license.usersedit = {0} CRM - License Users Edit
+crm.title.login.history === {0} CRM - Login History
+crm.title.login.history.error = {0} CRM - Error: Login History
+crm.title.login.history.security.error === {0} CRM - Security Error: Login History
+crm.title.mass.action.security.error = {1} CRM - Security Error: Mass Action {0}
+crm.title.mass\_addRecords === {0} CRM - Add existing {0}
+crm.title.mass\_updateMemberStatus = {0} CRM - Mass Update {0} Member Status
+crm.title.new.attachment.error === {0} CRM - Error: File Attachment
+crm.title.new.custom.field = {0} CRM - Create Custom Field
+crm.title.new.template.step2 === {0} CRM - New Email template
+crm.title.outlook.edition = {0} CRM - {0} CRM Plug-in for Microsoft Outlook
+crm.title.page.layout === {1} CRM - Customize Page Layout: {0}
+crm.title.page.layout.error = {1} CRM - Error: Customize Page Layout: {0}
+crm.title.page.layout.security.error === {1} CRM - Security Error: Customize Page Layout: {0}
+crm.title.personalize.my.tabs = {0} CRM - Personalize My Tabs
+crm.title.print.notes === {0} CRM - Note Details
+crm.title.quick.create = {1} CRM - Quick Create: {0}
+crm.title.report.save === {0} CRM - Save Report
+crm.title.report.schedule.security.error = {0} CRM - Security Error: Report Scheduler
+crm.title.report.wizard.addChart === {1} CRM - Select Chart Type
+crm.title.report.wizard.run = {0} CRM - {0}
+crm.title.report.wizard.security.error === {1} CRM - Security Error - {0}
+crm.title.report.wizard.show = {1} CRM - {0} Wizard
+crm.title.security.AccountConfirmation === {0} CRM - Account Confirmation
+crm.title.security.CreateNewUserForm = {0} CRM - New User
+crm.title.security.SecurityError === {0} CRM - Security Error
+crm.title.security.SignUp = {0} CRM - User Registration
+crm.title.security.ViewAllRoles === {0} CRM - Roles List
+crm.title.security.ViewRole = {0} CRM - Role Details
+crm.title.security.ViewUser === {0} CRM - User Details
+crm.title.security.changePassword = {0} CRM - Change Password
+crm.title.security.cloneRole === {0} CRM - Clone Role
+crm.title.security.customSearch = {0} CRM - Search Layout
+crm.title.security.editOrg === {0} CRM - Edit Company Details
+crm.title.security.editRole = {0} CRM - Edit Role
+crm.title.security.editUser === {0} CRM - Edit User
+crm.title.security.finish = {0} CRM - Setup Page
+crm.title.security.groups === {0} CRM - Groups
+crm.title.security.newRole = {0} CRM - New Role
+crm.title.security.newUser === {0} CRM - Create User
+crm.title.security.profiles = {0} CRM - Profiles
+crm.title.security.resetPassword === {0} CRM - Reset Passwords
+crm.title.security.roles = {0} CRM - Roles
+crm.title.security.sharingrules === {0} CRM - Data Sharing Settings
+crm.title.security.updatePassword = {0} CRM - Change Password
+crm.title.security.upgradeUser === {0} CRM -  User Account Upgrade
+crm.title.security.viewAllUsers = {0} CRM - Users List
+crm.title.security.viewOrg === {0} CRM - Company Details
+crm.title.security.viewUser = {0} CRM - User Details
+crm.title.setup.home === {0} CRM - Setup Page
+crm.title.show.converted.lead = {1} CRM - {0} Already Converted
+crm.title.show.dashboards === {1} CRM - Showing {0}
+crm.title.show.entity = {1} CRM - {0} Details
+crm.title.show.entity.error === {1} CRM - Error: {0} Details
+crm.title.show.entity.list = {1} CRM - Showing {0} List
+crm.title.show.entity.security.error === {1} CRM - Security Error: {0} Details
+crm.title.show.home = {0} CRM - Home Page
+crm.title.show.home.error === {0} CRM - Error: Home Page
+crm.title.show.recyclebin.list = {0} CRM - Showing Recycle Bin
+crm.title.stage.add.security.error === {0} CRM - Security Error: Stage Probability Mapping
+crm.title.tab.list.view = {0} CRM - Rename Tabs
+crm.title.tab.list.view.error === {0} CRM - Error : List of Tabs
+crm.title.tab.list.view.security.error = {0} CRM - Security Error: Tab List
+crm.title.tabname.edit === {0} CRM - Edit Tab Name
+crm.title.tabname.edit.error = {0} CRM - Error: Edit Tab Name
+crm.title.template.security === {0} CRM - Security Error: Template List
+crm.title.update.picklist.error = {0} CRM - Error: Update Pick list
+crm.title.view.attachment.error === {0} CRM - Error: View Attachment
+crm.title.view.competitor = {0} CRM - Competitor Details
+crm.title.view.competitor.error === {0} CRM - Error: Competitor Details
+crm.title.web.lead.approval.error = {1} CRM Error - Web {0} Approval
+crm.title.web.lead.approval.security.error === {1} CRM - Security Error: Web {0} Approval
+crm.title.workflow.alert.security = {0} CRM - Security Error: Workflow Alerts
+crm.title.workflow.all.alert === {0} CRM - Workflow Alerts
+crm.title.workflow.all.rule = {0} CRM - Workflow Rules
+crm.title.workflow.all.task === {0} CRM - Workflow Tasks
+crm.title.workflow.all.wfDeluge = {0} CRM - Custom Functions
+crm.title.workflow.edit.alert === {0} CRM - Edit Workflow Alert
+crm.title.workflow.edit.fieldupdate = {0}CRM - Edit Workflow Field Update
+crm.title.workflow.edit.rule === {0} CRM - Edit Workflow Rule
+crm.title.workflow.edit.task = {0} CRM - Edit Workflow Task
+crm.title.workflow.new.alert === {0} CRM - New Workflow Alert
+crm.title.workflow.new.fieldupdate = {0}CRM - New Workflow Field Update
+crm.title.workflow.new.rule.step1 === {0} CRM - Select Record Type for the Workflow rule
+crm.title.workflow.new.rule.step2 = {0} CRM - New Workflow Rule
+crm.title.workflow.new.task === {0} CRM - New Workflow Task
+crm.title.workflow.rule.security = {0} CRM - Security Error: Workflow Rules
+crm.title.workflow.show.alert === {0} CRM - View Workflow Alert
+crm.title.workflow.show.rule = {0} CRM - View Workflow Rule
+crm.title.workflow.show.task === {0} CRM - View Workflow Task Details
+crm.title.workflow.show.wfDeluge = {0} CRM - View Custom Functions
+crm.title.workflow.task.security === {0} CRM - Security Error: Workflow Tasks
+crm.title.zohocrm = {0} CRM
+crm.title.zohocrm.team === {0} CRM Team
+crm.tollfree = Toll Free:                        {0}
+crm.topmenu.zoho === {0} Suite
+crm.trial.expiry.notify.info.standard.user = Your {0} CRM Administrator(s) who can purchase
+crm.unauthorized.access.message === UnAuthorized Access to {0} CRM
+crm.user.activation = This is to notify you that your user account with #BRANDLABEL CRM has been activated by your #BRANDLABEL CRM Administrator.<br><br>You can resume accessing #BRANDLABEL CRM.
+crm.user.addition.error === Error occured while adding the user. Please contact {0} for further clarification.
+crm.user.already.taken.other.company = You have already got into other {0} CRM account. So your invitation is no more valid.
+crm.user.deactivatemail.subject === {0} CRM - User Account Deactivated
+crm.user.deactivation = You can contact your Administrator( #ADMINEMAILID)  to activate your account. Until then, you cannot access #BRANDLABEL CRM.
+crm.user.reactivatemail.subject === {0} CRM - User Account Reactivated
+crm.userexists.Reasons = You might be unable to access this {0} CRM account for ONE of the following reasons
+crm.userexists.Reasons.second === You already have a CRM account with the same email address. So please contact us at <a href="mailto:{0}" class="link">{0}</a> for assistance.
+crm.view.attachment.sheet = View In {0} Sheet
+crm.view.attachment.show === View In {0} Show
+crm.view.attachment.viewer = View In {0} Viewer
+crm.view.attachment.writer === View In {0} Writer
+crm.web.alert1 = feature is disabled for your account.<br> {0} CRM will not be able to create
+crm.web.to.form.message === Capture your site visitors as {0} into {1} CRM.
+crm.webentity.message.new = Capture {0} online with the help of customized web forms, send auto-response emails and assign the incoming records to specific users, manually or based on assignment rules. You can also validate the generated {0} and manually approve them before adding them to {1} CRM account.
+crm.webentity.returnurl.message === Please enter the proper URL value for redirecting the page after creating the {0} in {1} CRM.
+crm.webform.iframe.tooltip = {0} CRM will not validate the domain name for records submitted via web forms that use the iframe code.
+crm.webtab.titlemsg === Web tabs help you to open web pages like intranet pages, company-wide announcements, web applications, etc. inside {0} CRM. These tabs can be viewed by {0} CRM users across the organization. You can also create your own applications using {0} Creator and access them inside {0} CRM.
+crm.webtocase.contact.enable.instruction = {0} will be created while submitting the {1} and will be related to the respective {1}. {0} will be created only if it does not exist in {2} CRM.
+crm.welcome.to.zohocrm.title === Welcome to {0} CRM
+crm.wfDeluge.errorMessage.dueToUnComfirmedEmail.Description = Sorry, the custom function cannot be created.<br>Please verify your email address to confirm your account registration with {0} CRM.
+crm.wfDeluge.limit.nofity.Message === Dear {0},<br><br>This is to notify that the workflow deluge call limit has exceeded for the day. All the remaining deluge calls scheduled today will not be executed.<br><br>Please note that only a maximum of {1} deluge calls can be executed using Workflow.<br>For any clarification, please contact us at {2}<br><br>Regards,<br>Team {3} CRM.
+crm.wfDeluge.limit.nofity.Message.forTrialUser = Dear {0},<br><br>This is to notify that the workflow custom functions call limit has exceeded for the day. All the remaining custom funtions calls scheduled today will not be executed.<br><br>Please note that only a maximum of {1} deluge calls can be executed using Workflow during your Trial Period.<br>For any clarification, please contact us at {2}<br><br>Regards,<br>Team {3} CRM.
+crm.workflow.alert.limit.nofity.Message === Dear {0},<br><br>This is to notify that the workflow alert limit has exceeded for the day. All the remaining alerts scheduled today for the customers will not be sent.<br><br>Please note that only a maximum of {1} emails/day can be sent to the customers using Workflow Alerts.<br>For any clarification, please contact us at {2}<br><br>Regards,<br>Team {3} CRM.
+crm.workflow.alert.limit.nofity.Message.forTrialUser = Dear {0},<br><br>This is to notify that the workflow alert limit has exceeded for the day. All the remaining alerts scheduled today for the customers will not be sent.<br><br>Please note that only a maximum of {1} emails/day can be sent to the customers using Workflow Alerts during your Trial Period. On upgrading to the Enterprise Edition, you will be able to send maximum {2} emails/day to the customers. For any clarification, please contact us at {3}<br><br>Regards,<br>Team {4} CRM.
+crm.workflow.deluge.showAllList.description === Custom functions are written using deluge scripts to effectively manipulate data, communicate with third party applications and update response in {0} CRM.
+crm.workflow.rule.label.ActionsToDo.FollowUp.timeZoneDescription = For time based actions, the Execution Time will be calculated based on your {2} CRM {0}Organization Time Zone{1}. If the Organization Time Zone is not specified, the time zone of the Primary Contact will be used to calculate the execution time.
+crm.workflow.timebased.limit.notify.Message === Dear {2},<br><br>This is to notify that the workflow time based action limit has exceeded for the day. All the remaining time based actions scheduled today will not be executed.<br><br>Please note that only a maximum of {3} time based actions can be executed using Workflow.<br>For any clarification, please contact us at {1}<br><br>Regards,<br>Team {0} CRM.
+crm.workflow.timebased.limit.notify.Message.forTrialUser = Dear {2},<br><br>This is to notify that the workflow time based action limit has exceeded for the day. All the remaining time based actions scheduled today will not be executed.<br><br>Please note that only a maximum of {3} time based actions can be executed using Workflow during your Trial Period.<br>For any clarification, please contact us at {1}<br><br>Regards,<br>Team {0} CRM.
+crm.workflow.webhook.limit.nofity.Message === Dear {0},<br><br>This is to notify that the workflow webhook limit has exceeded for the day. All the remaining webhooks scheduled today will not be executed.<br><br>Please note that only a maximum of {1} webhooks can be executed using Workflow.<br>For any clarification, please contact us at {2}<br><br>Regards,<br>Team {3} CRM.
+crm.workflow.webhook.limit.nofity.Message.forTrialUser = Dear {0},<br><br>This is to notify that the workflow webhook limit has exceeded for the day. All the remaining webhooks scheduled today will not be executed.<br><br>Please note that only a maximum of {1} webhooks can be executed using Workflow during your Trial Period.<br>For any clarification, please contact us at {2}<br><br>Regards,<br>Team {3} CRM.
+crm.writer.chooseplugin.note3 === {0} CRM Plug-in for
+crm.writer.create.template = Create Template in {0} Writer
+crm.writer.intro === {0} Writer is an online word processor that is integrated with {0} CRM to create mail merge templates and merge documents online using Leads, Accounts, Contacts and Potentials details.
+crm.writer.intro.note1 = What is {0} Writer Add-on
+crm.writer.intro.note2 === {0} Writer is an online word processor that is integrated with {0} CRM to create mail merge templates and merge documents online using Leads, Accounts, Contacts and Potentials details. You can use this function without downloading and installing any software.
+crm.writer.intro.note3 = Create mail merge templates in {0} Writer
+crm.writer.intro.note4 === Select leads, accounts, contacts or potentials from {0} CRM
+crm.writer.intro.note5 = Create mail merge documents by merging CRM data with {0} Writer template
+crm.writer.intro.note6 === {0} Writer Add-on is available only in the <span class="greenColor"><strong>Professional</strong></span> and <span class="greenColor"><strong>Enterprise</strong></span> Edition.
+crm.writer.mailmerge.setting.note1 = Create templates using {0} Writer or import Microsoft Word templates and organize them in different folders.
+crm.writer.save.alert === Template successfully saved in {0} CRM
+crm.writer.template.createfrom.intro = Specify the following details to create mail merge template in {0} Writer.
+crm.writer.template.notes === <li>The merge fields in the template will be available based on the module that you select here.</li><li>You cannot merge data while creating the template.</li><li>After creating the template, you need to select the records in {0} CRM for your mail merge. </li>
+crm.xls.view = {0} Sheet View
+crm.zInvoice.alert.workflow.chooseTrigger === Choose a trigger action to be performed on {0} Invoice/Books
+crm.zInvoice.errorMsg.duplicateMapping.zohoBooks = This {0} Books organization is already integrated with another {0} CRM account. For details, contact {0} Books organization admin.
+crm.zInvoice.errorMsg.duplicateMapping.zohoInvoice === This {0} Invoice organization is already integrated with another {0} CRM account. For details, contact {0} Invoice organization admin.
+crm.zInvoice.link.deactivate = Deactivate {0} Invoice from {0} CRM
+crm.zcampaign.fieldupdate.error.message === An error occurred while updating the "{0}" field of the {1} in "{2}". Report it to <a class="link" href="mailto:{3}">Support</a>
+crm.zinvoice.deActivateMessage = You have chosen to Deactivate {0} from {1} CRM. All the invoices of the associated organization will not be displayed after deactivating integration in {1} CRM.
+crm.zinvoice.invoiceIntegrationHome.importantNote === Invoices can be fetched and displayed only if the accounts and contacts are imported from {1} CRM to {0}.
+crm.zinvoice.invoiceIntegrationHomeText = The {0} integration allows you to view and monitor invoices related to customers within your {1} CRM account. You can also view the payment status of the invoice under the Account and Contact details.
+crm.zinvoice.invoiceIntegrationHomeText.caption1 === Invoices from {0} Invoice can be viewed under Accounts and Contacts
+crm.zinvoice.invoiceIntegrationHomeText.caption2 = Manage all customer invoices inside {0} Invoice
+crm.zinvoice.setup.exception.processing === Error Due to Internal Processing Try later or contact {0}CRM Support
+crm.zmail.accountnotactive = Sorry, Emails cannot be displayed as the selected user is deactivated by your {0} CRM Administrator.
+crm.zmail.activate.user.admin === Click on the &quot;Activate Now&quot; button to enable {0} Mail add-on user status.
+crm.zmail.activate.user.nonadmin = {0} Mail Add-on is not activated for your Account. Please ask your CRM Administrator to activate {0} Mail Add-on license for your account.
+crm.zmail.activate.user.nonadmin.info === After license activation, you can view the "Configure Now" option to complete the {0} Mail Add-on configuration.
+crm.zmail.activate.user.nonadmin.info1 = After the activation, you can view the "Configure Now" option to complete the {0} Mail Add-on configuration.
+crm.zmail.addon.disabled === Click on the "Configure Now" button to set up {0} Mail Add-on
+crm.zmail.addon.users = {0} Mail Add-on Users
+crm.zmail.admin.steps1 === 1. Subscribe to {0} Mail Add-on
+crm.zmail.backup.active.locked = Your {0} Mail Configuration is active but locked by your administrator. Please contact your administrator if you want to change the configuration.
+crm.zmail.backup.not.active === Your {0} Mail Add-on Configuration is not active. Click \"Configure\" to view your previous configuration and update it. Click \"Cancel\" if you do not want to configure.
+crm.zmail.backup.not.active.blocked = Your {0} Mail Configuration is not Active. Since your configuration is blocked, please contact your administrator if you want to activate it. Once the administrator unlocks the {0} Mail Configuration you can activate {0} Mail Configuration from this page.
+crm.zmail.backup.note.title === This page helps the Admin users to do the following configuration over {0} Mail Add-on users
+crm.zmail.buynow.adminalt = Click on the &quot;Buy Now&quot; button to configure {0} Mail add-on
+crm.zmail.buynow.nonadminnote === At present, your company has not subscribed to the {0} Mail Add-on. Please ask your CRM Administrator to subscribe {0} Mail Add-on user licenses.
+crm.zmail.complete.sharing.backup.alert = You have selected the Complete Sharing option. Please note that the administrator will be able to take a backup of your emails when your {0} CRM account is deactivated.
+crm.zmail.config.is === {0} Mail Configuration is
+crm.zmail.config.warning1 = <h2 class==="red">WARNING - Permanent & Irrecoverable {0} Mail Add-on Configuration loss ahead!</h2><br/>Deleting this configuration will disassociate customer-specific emails with the Leads/Contacts. However, you can access email messages from your {0} Mail.
+crm.zmail.confirm.acc = Confirm your {0} Account
+crm.zmail.deactive.mailaddon === Deactivate {0} Mail Add-on
+crm.zmail.enter.zpassword = Enter your existing {0} Password
+crm.zmail.error.whileprocessing === Sorry, we are unable to process your request. Please try after some time. For any assistance, contact us at <a href="mailto:{0}" class="link">{0}</a>.
+crm.zmail.globalsharing.alert = You have chosen to share emails of all your leads and contacts with other users. Everyone within this {0} CRM account can view all communication with your contacts.
+crm.zmail.intro === The {0} Mail add-on integrates your Email-service with {0} CRM through {0} Mail.
+crm.zmail.iscticket.success = Your {0} Mail Add-on configuration is successfully updated...
+crm.zmail.labelorfolder.note === Consolidate all my customers emails in a single place inside {0} mail
+crm.zmail.list.of.users = List of {0} Mail Add-on Users
+crm.zmail.mailaddon.users === {0} Mail Add-on Users:
+crm.zmail.mailaddon.users.steps1 = 1. Add Mail Account (POP) in {0} Mail
+crm.zmail.mailaddon.users.steps2 === 2. Configure {0} Mail Add-on Settings
+crm.zmail.mailbox = {0} Mailbox
+crm.zmail.mailbox.unavailable === Access {0} Mail before setting up {0} Mail Add-on
+crm.zmail.other.zdetails = Enter your Another {0} Details
+crm.zmail.other.zpass.note === Enter the password for your other {0} account
+crm.zmail.other.zusername.note = Enter the username for your other {0} account
+crm.zmail.otheruser.mailboxunavil.note === Unable to fetch emails from {0}s mailbox. Please inform {1} to update his/her {2} Mail Add-on configuration.
+crm.zmail.otheruser.pwdchange.note = Unable to display {0}s emails. Please ask {1} to update his/her {2} Mail Add-on configuration.
+crm.zmail.own.lock.message === You cannot lock your own {0} Mail Add-on Configuration, if more than one user with administrator profile is active in your account.
+crm.zmail.partial.sharing.backup.alert = You have selected the Record-level Sharing option. Please note that the administrator will be able to take a backup of your emails when your {0} CRM account is deactivated.
+crm.zmail.passwordchange.alt === Unable to send/receive emails. Please update your password in {0} Mail Add-on configuration page.
+crm.zmail.passwordchange.note = Unable to send/receive emails. Please update your password in <a href==="https://crm.zoho.com/crm/ZMailConfig.do?action=checkConfiguration" target="_blank">{0} Mail Add-on configuration</a> page.
+crm.zmail.popup.settings = {0} Mail POP3 Settings
+crm.zmail.public.users === {0} Mail Shared Users
+crm.zmail.same.account = Since you are using the same user name, please select the 'Your Account with Email sharing' option. If you still want to use the Other {0} Account with Email sharing option, you are strongly recommended to enter a different user name.
+crm.zmail.selected.mailbox.unavailable1 === The mailbox <b>{0}</b> which you have configured for {1} Mail Add-on is inaccessible as you might have already changed or deleted it. Please <a  href="/crm/setupInner.do?page=ZMailConfig.do?action=checkConfiguration&tab=addons&in=zohoApps">configure some other mailbox </a>
+crm.zmail.setup.pop3 = Set up POP3 in {0} Mail
+crm.zmail.stepsto.setup === Steps to setup {0} Mail Add-on:
+crm.zmail.subscribe = Subscribe & Activate {0} Mail Add-on
+crm.zmail.unableto.makepublic === Please share your mail box with colleagues from '{0} Mail Add-on' > 'Your Account with Email sharing' and then enable "Share Email" option.
+crm.zmail.unavailable.note = Sorry, {0} Mail is unavailable. Please try after some time
+crm.zmail.unconfirmeduser.note === Your {0} Account is not yet confirmed. Please confirm your account from {0} Accounts > Email Addresses and then access {0} Mail before setting up {0} Mail add-on.
+crm.zmail.update.iscticket = Sorry we're unable to process your request. To send or receive emails, please update your {0} Mail Add-on configuration
+crm.zmail.users.intro.message === Get a complete list of {0} Mail Add-on users along with their mail box and account type details. You can also lock or unlock the Mail Add-on configuration of the users and take a backup of the deactivated users' mail accounts.
+crm.zmail.whatis = What is {0} Mail Add-on?
+crm.zmail.whatis.note1 === {0} Mail add-on integrates your Email-service (POP3 account) with {0} CRM through {0} Mail. With {0} Mail add-on you can:
+crm.zmail.whatis.note3 = Send and receive emails into {0} CRM
+crm.zmail.whatis.note4 === Access {0} Mail from {0} CRM - "Email as a separate tab"
+crm.zmail.zpassword.note = Enter your Password to authenticate {0} CRM to fetch your emails from {0} Mail
+crm.zoho.service.communication.key === {0} Service Communication (ZSC) Key
+crm.zoho.sso.transition = {0} SSO Transition
+crm.zohoBooks === {0} Books
+crm.zohoSupport = {0} Support
+crm.zohoapps.crm === {0} Apps for CRM
+crm.zohoinvoice = {0} Invoice
+crm.zohoinvoice.books.caption === Invoice created under {0} Books will be listed in {0} CRM
+crm.zohoinvoice.caption = Invoice created in {0} Invoice will be listed in {0} CRM
+crm.zreports.database.name === {0} CRM Reports
+crm.zsc.note = This key is used to access {0} CRM modules from other {0} services. The generated key and email address mentioned below should be provided to other {0} services.
+crm.zsc.regeneration.warning === Regeneration of the ZSC key will delete and generate a new key. Henceforth, the existing key which is used in any of the {0} services will not work anymore. So we highly recommend you to ensure that you replace the existing key with the newly generated one after regeneration.
+crm.zsc.select.service = {0} Service
+crm.zsc.service.name === {0} Service Name
+crm.zsupport.changeMessage = Are you sure you want to change the configured portal. All support requests under the associated support portal will be deleted in {0} CRM
+crm.zsupport.configureSupport === Configure {0} Support
+crm.zsupport.deActivateMessage = You have chosen to Deactivate {0} Support from {0} CRM. All support requests under the associated support portal will be deleted in {0} CRM.
+crm.zsupport.editConfig.portalError === You cannot access the {0} Support Integration. The ZSC key has been changed in {0} Support. Please reconfigure {0} Support Integration
+crm.zsupport.error.connectionProblem = Sorry for the inconvenience caused. We are not able to connect to {0} Support. Please try after some time.
+crm.zsupport.error.enterzsckey === Enter a valid ZSC Key from {0} Support
+crm.zsupport.error.saveOption = The selected portal is already used to integrate {0} Support with another {0} CRM account. Please use another portal.
+crm.zsupport.error.supportData2 === The ZSC Key is regenerated in {0} Support. Specify the latest ZSC Key.
+crm.zsupport.error.supportData3 = Sorry for the inconvenience caused. We are not able to fetch data from {0} Support. Please write to {1}
+crm.zsupport.genralError === Error in {0} support so please try after some time
+crm.zsupport.introduction = The {0} Support integration allows your sales, marketing, and top executives to view and monitor customer support tickets right from within your {0} CRM account.
+crm.zsupport.manageusers.caption === The {1} Support Integration is activated for {0} support portal and associated to your {1} CRM account. Now, activated users can view customer tickets from the Accounts, Contacts, and Potentials modules.
+crm.zsupport.manageusers.caption2 = You have successfully configured {0} Support Integration. You can now view your support requests under Leads, Contacts and Accounts.
+crm.zsupport.relatedList.error === Sorry for the inconvenience caused. We are not able to connect to {0} Support. Please try after some time
+crm.zsupport.successMessage = {0} Support integrated successfully.
+crm.zsupport.supportIntegration === {0} Support Integration
+crm.zsupport.supportIntegrationHome.existingUser.caption2 = Get the generated ZSC key in {0} Support. OR
+crm.zsupport.supportIntegrationHome.newto.caption1 === Create your {0} Support account
+crm.zsupport.supportIntegrationHome.newto.caption2 = Get the generated ZSC key in {0} Support.
+crm.zsupport.supportIntegrationHomeText === The {0} Support integration allows your sales, marketing, and top executives to view and monitor customer support tickets right from within your {0} CRM account. {0} Support integration with CRM helps you to:
+crm.zsupport.supportIntegrationHomeText.caption1 = View status of the customer support tickets inside {0} CRM
+crm.zsupport.supportIntegrationHomeText.caption2 === Manage all customer support tickets inside {0} Support
+crm.zsupport.supportIntegrationHomeText.note = The {0} Support integration is available in all Editions at <b> USD 3 / user / month </b>
+crm.zti.active.enabletext === Enabling the {0} PhoneBridge for each users depends on the number of {0} PhoneBridge users subscriptions.
+crm.zti.active.isactive = {0} PhoneBridge is Active
+crm.zti.active.subcriptiontext === Currently you have 5 {0} PhoneBridge User subscriptions.
+crm.zti.active.suggestctigroup = We suggest you to create a {0} PhoneBridge group now.
+crm.zti.admin.label.licensecnt === {0} PhoneBridge License Count
+crm.zti.admin.note1 = This page helps you to enable the {0} PhoneBridge, through Admin email or Login name
+crm.zti.admin.note2 === Using this page, you can also update the number of {0} PhoneBridge licenses for the given account
+crm.zti.answer.whatzti = {0} PhoneBridge - {0} PhoneBridge is a mashup between your telephony system and {0} CRM. This enhances interaction between the users and customers from {0} CRM UI itself. The customer information will be tracked inside {0} CRM itself when the call lands at your desk. Effective call tracking and calling the customers from {0} CRM UI can be done with ease.
+crm.zti.authtoken.warning === Regeneration of the {0} PhoneBridge Auth token will delete and generate a new token. Henceforth, the existing token which is used in any of the zoho services will not work anymore. So we highly recommend you to ensure that you replace the existing token with the newly generated one after regeneration.
+crm.zti.breadzti = {0} PhoneBridge
+crm.zti.breadztidetail === {0} PhoneBridge Detail
+crm.zti.breadztilist = {0} PhoneBridge List
+crm.zti.buynow.activezohopbx === Activate {0} CRM PBX Caller
+crm.zti.buynow.activezohopbxfeature = To activate {0} CRM PBX Caller feature, you need to buy {0} PhoneBridge Caller <br />Subscriptions.
+crm.zti.buynow.addontext === {0} CRM {0} PhoneBridge add-on connects your {0} CRM to your Asterisk based PBX. Once connected, you call make and receive calls using {0} CRM.
+crm.zti.buynow.dialcode = Dial and Receive calls directly using {0} CRM
+crm.zti.clickpurchasebutton === Click on the "Buy Now" button to subscribe for {0} PhoneBridge add-on.
+crm.zti.createfirstztigroup = Create your first {0} PhoneBridge group
+crm.zti.creategroup === Set up {0} PhoneBridge Groups
+crm.zti.createztigroup = {0} PhoneBridge
+crm.zti.delete.desc1 === Deleting a {0} PhoneBridge group will erase your PBX configuration and extension details stored in {0} CRM.
+crm.zti.delete.suggestion = {0} CRM Suggestion:
+crm.zti.delete.suggestiondesc === Instead of deleting a {0} PhoneBridge group, the unwanted user extension mappings can be deleted
+crm.zti.description.pbxtypedescription = {0} PhoneBridge group is a collection of users who can be associated to a PBX telephony system. Mapping of the extensions numbers in your PBX system and {0} CRM users can be done using this group.
+crm.zti.description.whatztifirst === {0} PhoneBridge - {0} PhoneBridge is a mashup between your telephony system and {0} CRM. This enhances interaction between the users and customers from {0} CRM UI itself. Effective call tracking and calling the customers from {0} CRM UI can be done with ease.
+crm.zti.description.whatztili3 = Outbound calls can be made from {0} CRM UI.
+crm.zti.detailview === {0} PhoneBridge Group Detail
+crm.zti.editgroup = Edit {0} PhoneBridge Group
+crm.zti.error.adminrolechangedaddnewadmin === User's role for this {0} PhoneBridge group has been changed. Do you want to create the {0} PhoneBridge group with the selected user?
+crm.zti.error.deletefirstuser = Atleast one user must be present in a {0} PhoneBridge group
+crm.zti.error.donthaveanymoreuser === There are no more users with {0} PhoneBridge enabled in your account. Please add more users to create another {0} PhoneBridge group
+crm.zti.error.nomoreadminavailable = You have already created {0} PhoneBridge group(s) for users with CEO Role. Please add one more user with CEO role/update any of the existing user to CEO role to create a {0} PhoneBridge group
+crm.zti.error.nomoreusergroup === There are no more users with {0} PhoneBridge enabled in the group selected.
+crm.zti.error.nouserinselectedcrmgroup = There are no users with {0} PhoneBridge enabled in the group selected. Please choose another CRM Group or click <b>Add PhoneBridge Enabled User to Selected Group</b> to add a user to this CRM Group.
+crm.zti.error.noztilicenseenableduser === You should have atleast one user enabled with {0} PhoneBridge license. Do you want to enable?
+crm.zti.error.sameuserexist = You cannot choose the same user more than once in a {0} PhoneBridge group. Please choose a different user
+crm.zti.expiry.subject === {0} CRM - {0} PhoneBridge 15 days trial Expired
+crm.zti.field.help.crmgroup = Choose an existing CRM Group to include all its members in this {0} PhoneBridge Group.CRM Groups are available only in the Enterprise Edition. For the Professional and the Free Editions, the value for this field will be shown as <strong>None<strong>.
+crm.zti.field.help.identitymember === Choose a user from the list. This user has to generate the CRM Auth Key and send it to the PBX administrator. Once the PBX administrator configures the PhoneBridge Adapter, a secure connection will be established between your PBX server and {0} CRM Account.
+crm.zti.field.help.pbxtype = Choose a PBX type for the {0} PhoneBridge Group.
+crm.zti.field.help.referencename === Choose a name for the {0} PhoneBridge Group being created.
+crm.zti.groupcreated = {0} PhoneBridge Group created!
+crm.zti.label.createagroup === Create {0} PhoneBridge Group
+crm.zti.label.ctienableuser = {0} PhoneBridge enabled users
+crm.zti.label.ctigroup === {0} PhoneBridge Group
+crm.zti.label.establish = Establish {0} PhoneBridge Groups
+crm.zti.label.extnuserfollowtext === Specify the extension numbers for users of the {0} PhoneBridge group.
+crm.zti.label.gotozti = Go to {0} PhoneBridge List
+crm.zti.label.manageuser === Manage users for {0} PhoneBridge
+crm.zti.label.subscribe = Subscribe and activate {0} PhoneBridge for users
+crm.zti.label.ztigroupname === {0} PhoneBridge Group Name
+crm.zti.license.deactereflect = If you deactivate the user(s), the members of the PBX Group will not be able to use {0} PhoneBridge functionality.
+crm.zti.license.deactivereferenseuser === This User is reference user for {0} PhoneBridge.If you deactivate this User, you can't get the call alert through CRM, who have under this reference user.
+crm.zti.license.deactivereferenseuserlist = Following User is reference user for {0} PhoneBridge.If you deactivate this User, you can't get the call alert through CRM, who have under this reference user.
+crm.zti.licenseuser.heading === {0} PhoneBridge
+crm.zti.link = {0} PhoneBridge
+crm.zti.phonebridge.intro === {0} PhoneBridge helps you to connect multiple PBX systems with your {0} CRM account and execute inbound and outbound calls inside CRM.
+crm.zti.pleaseremember = Please complete the <a class==="font11" href="javascript:ztistepsinvolved('othertwostepinvolved')">remaining 2 steps</a> to start using {0} PhoneBridge.
+crm.zti.question = What is {0} PhoneBridge?
+crm.zti.question.howsetupzti === How to setup {0} PhoneBridge?
+crm.zti.stepthreeanswer = - Download the {0} PhoneBridge Adapter for your PBX system
+crm.zti.stepthreetitle === Install {0} PhoneBridge Adapter
+crm.zti.title = {0} PhoneBridge
+crm.zti.trial.availableperiod === Try {0} PhoneBridge free for 15 days.
+crm.zti.trialexpired = Your {0} PhoneBridge Trial Period has expired.
+crm.zti.userextninfo === {0} PhoneBridge User Extension Information
+crm.zti.what\_is\_phonebridge\_ans = {0} PhoneBridge helps you to connect multiple PBX systems with your {0} CRM account and execute inbound and outbound calls inside CRM. Additionally, you can log the phone calls and associate with the leads or contacts.
+crm.zti.what\_is\_phonebridge\_qsn === What is {0} PhoneBridge?
+crmtogoogle = Sync only {0} CRM Calendar with your Google Calendar
+customfield.reservedlabel.msg === This is a {0} CRM reserved keyword. Please use a different field name.
+emailSource.sendmail.option.api = {0} Mail
+googletocrm === Sync only your Google Calendar with {0} CRM Calendar
+iphone.release.banner.message = {0} CRM App for iPhone released.
+iphone.release.banner.message.new === {0} CRM App for iPhone updated.
+listview\_1 = Sync only your Google Calendar events with your {0} CRM Calendar
+listview\_2 === Syncs only your {0} Crm events with your Google Calendar
+listview\_3 = Syncs both your {0} CRM Calendar & Google Calendar events with each other
+nlogin.benefits.subtitle6 === {0} CRM for Google Apps
+nlogin.benefits.title = Attract, Retain and Delight More Customers. Grow Your Business Now With {0} CRM.
+nlogin.part1.topmenu.moreapps === More Apps from {0}
+nlogin.rblog1 = Introducing Business Card Scanner App for {0} CRM
+nlogin.rblog3 === MailMagnet for Mobile, BCC Dropbox and {0} LiveDesk Integration
+planslist.title = Customer Relationship Management, On-Demand CRM - {0} CRM -Pricing Plan
+project === Back To {0} Projects
+replaceZCRMUser = Replace {0} CRM ID
+social.fb.revoked === {0} CRM no longer has permission to access the Facebook account. Please Reauthorize account
+social.tw.revoked = {0} CRM no longer has permission to access the Twitter account. Please Reauthorize account
+syncdirection\_1 === 1-Way: Google Calendar to {0} CRM Calendar
+syncdirection\_2 = 1-Way: {0} CRM Calendar to Google Calendar
+template.Msgeditor.Info === Type your message below. You can insert {0} CRM fields to customize the message contents.
+two\-way = Sync both your {0} CRM Calendar & Google Calendar events with each other
+user.reInvite.viaLink === An invitation email with the access link has been sent to the user.<br>The user has to click on the access link to sign up for {0} CRM account.<br>Please ask the user to check the spam folder, incase the invitation mail got delivered there instead of the inbox.
+webform.approval.tooltip = Request for approval will help you to validate the generated {1} manually and then add them to {2} CRM.
+webform.case.create.contact === When you check this option, contacts are created in CRM as and when cases are submitted through the web form.The case record will automatically be associated to the respective contact. This is only when a similar contact does not already exist in {0} CRM.
+webform.embed.zohosite = {0} Sites
+workflow.label.wfDeluge.NoParamsForTheFunction === As there are no arguments available in the function, it is not possible to map {0} CRM fields for the mapping. To enable mapping, provide arguments to the function.
+workflow.webHook.showAllList.description = Webhooks let you communicate with third party applications by sending instant web notifications every time an event occurs.<br>With {0} CRM webhooks, you can configure HTTP URLs and associate these webhooks in workflow rules to automate the notification process.<br>Last 30 days failures can be tracked in the event of any problem in the notification process.
+zb.invoice.ZohoProjects === New Invoice for {{0}_projects}
+zcrmadmin.enter.valid.id = Please provide valid {0} CRM ID .
+zoho.crm.report.spam === This e-mail is generated from #BRANDLABEL CRM. If you think this is SPAM, please report to <a href="mailto:#ABUSEMAILID">#ABUSEMAILID</a> for immediate action.
+zsupport = Back to {0} Support Configuration
+zti = Back to {0} PhoneBridge Create Group
