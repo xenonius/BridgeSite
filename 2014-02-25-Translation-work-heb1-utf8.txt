@@ -26,41 +26,42 @@ crm.userinvite.con3=ברגע שאתה מחובר לחשבון ה-CRM שלך, א�
 crm.userinvite.con4=פעילות מכירות <b> מסלול </b> עםנראות של מחזור המכירות שלך מלאה.
 crm.userinvite.con5=<b> קשר עם לקוחות </b> דרך הפרופילים החברתיים שלהם ולתקשר איתם מתוך <b> חשבון ה-CRM שלכם ( רק ללקוחות משפט העסק / ארגון) </b>
 crm.userinvite.con6=<b> אוטומציה היום ליום </b> פעילויות ולהישאר ממוקדים בעסק ולא שמירה על הנתונים
-crm.userinvite.con7=<b> Go Mobile </b>ולהישאר עד עדכני עם גישה לנתוני לקוחות על הנייד שלך
-crm.userinvite.con8=אתם מוזמנים לקרוא וללמוד עוד על &lrm;#BRANDLABEL CRM&lrm; ,משלנו
+crm.userinvite.con7=<b>השתמש ב  Go Mobile </b>והישאר עדכני עם גישה לנתוני לקוחות על הנייד שלך
+crm.userinvite.con8=אתם מוזמנים לקרוא וללמוד עוד על &lrm;#BRANDLABEL CRM&lrm; ,מתוך
 crm.userinvite.joinnow=הצטרף עכשיו
 crm.zti.buynow.what  &lrm;{0}&lrm;  crm=מה הוא   &lrm;{0}&lrm;   CRM   &lrm;{0}&lrm;   PhoneBridge Add-on ?
-=
-=
+
+
 MODIFIED Keys=
-=
-=
-Mobile\ AddOn =   &lrm;{0}&lrm;   CRM מהדורה ניידת
-Office\ plugin =   &lrm;{0}&lrm;   CRM Plug-in עבור Microsoft Office
-Outlook\ Plugin =   &lrm;{0}&lrm;   CRM תוסף עבור Microsoft Outlook
-Outlook\ plugin =   &lrm;{0}&lrm;   CRM Plug-in עבור Microsoft Outlook
-ZohoWins =   &lrm;{0}&lrm;   CRM נצחונות
-Zoho\ Books =  &lrm;{0}&lrm;  ספרים
-Zoho\ Home = בית   &lrm;{0}&lrm;  
-Zoho\ Invoice = חשבונית   &lrm;{0}&lrm;  
-Zoho\ Invoice\/Zoho\ Books =   &lrm;{0}&lrm;   חשבונית / ספרי   &lrm;{0}&lrm;  
-Zoho\ PhoneBridge =   &lrm;{0}&lrm;   PhoneBridge
+
+
+Mobile\AddOn= {0} CRM Mobile Edition
+Office\plugin = {0} CRM Plug-in for Microsoft Office
+Outlook\Plugin = {0} CRM Plugin for Microsoft Outlook
+Outlook\plugin = {0} CRM Plug-in for Microsoft Outlook
+ZohoWins = {0} CRM Wins
+Zoho\ Books = {0} Books
+Zoho\ Home = {0} Home
+Zoho\ Invoice = {0} Invoice
+Zoho\ Invoice\/Zoho\ Books =&rlm; חשבונית &lrm;{0}&lrm;  / ספרים &lrm;{0}&lrm;
+Zoho\ PhoneBridge =&rlm;   &lrm;{0}&lrm;   PhoneBridge
 Zoho\ Project = פרויקט   &lrm;{0}&lrm;  
-Zoho\ Projects =   &lrm;{0}&lrm;   פרויקטים
-Zoho\ Recruit =   &lrm;{0}&lrm;   Recruit
-Zoho\ Support = תמיכת   &lrm;{0}&lrm;  
-Zoho\ mail =  &lrm;{0}&lrm;  דואר על בתוספת
-bccdropbox.deactivation.notifymail.body = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'> <p> שלום   &lrm;{0}&lrm;   , </p>  &lrm;{1}  , אחד מהמנהלים של ה-CRM , חשוד כי BCC Dropbox שלך נפרץומייצר זבל. כדי לעצור אותו מליצור בעיות נוספות , הוא ( {2} ) השעתה כרגע בתכונה זו בחשבון ה-CRM שלך. </p> כדי להפעיל מחדש באמצעות BCC Dropbox, להתחדש כתובת עכשיו . </p> בברכה, <br/>   &lrm;{0}&lrm;   CRM קבוצות . </p> </div>
-bccdropbox.desc = עכשיו יש לנו עשינו את זה אפשרי עבורךכדי לשייך את האימיילים שלכםל  &lrm;{0}&lrm;   CRM מכל אחד מלקוחות הדוא"ל שלך כמו Gmail, Outlook, Thunderbird , ועוד ! נסהBCC Dropbox החדש !
-bccdropbox.desc1 = כל מה שאתה צריך לעשות זהלעותק מוסתרכתובת הדוא"ל של BCC Dropboxשאנחנו נותנים לכם ( BCC ) , בעת שליחת מיילים ללקוחות. בהתבסס עלתבנית החיפוש ,   &lrm;{0}&lrm;   CRM באופן אוטומטי למקםעותק שלהדוא"ל שברצונך לשייך ,בשיאו של הלקוח בהתאמה. כן, זה כל כך קל !
-bccdropbox.insufficient.storage.body.100N105 = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'><p>{0}&lrm; שלום,</p>	הגעת לשטח אחסון של  100% שהוקצה לחשבון ה-CRM  {0}&lrm; שלך. האחסון שלך מלא , ואתה לא תוכל להעלות קבצים מצורפים מממשק ה-CRM  {0}&lrm; ולא לשלוח קבצים מצורפים ל CRM באמצעות תכונת BCC Dropbox .</p>כדי להבטיח כי  &lrm;{0}&lrm;  חשבון ה-CRM שלך ממשיך לעבוד ללא הפרעה , אתה יכול לפנות שטח או לרכוש שטח אחסון נוסף על ידי ביצוע השלבים הבאים :</p><p><strong>כדי לפנות אחסון בחשבונך:</strong></p><p><strong>שלב 1: .</strong>	התחבר כדי { ​​0} חשבון ה-CRM שלך</p> <strong>שלב 2:</strong>נווט דרך הרשומות ולמחוק את הקבצים המצורפים שאינו דורשים</p> <strong>כדי לרכוש שטח אחסון נוסף : .</strong> </p> <strong>שלב 1:</strong>לחץ שדרוג > ניהול התכנית שלך</p> <strong>שלב 2:</strong>בדף מנוי ניהול , תחת הוספת מנויים , בחר את שטח אחסון נוסף מהרשימה הנפתחת.</p> <strong>שלב 3: .</strong>'לחץ על 'יציאה</p><p>לקבלת מידע נוסף על ניהול אחסון הקבצים שלך, אנא קרא את זה‏‎‏<a href="https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage">מאמר</a></p><p>Regards,<br/>&lrm;{0}&lrm;   CRM קבוצות .</p> </div>
-bccdropbox.insufficient.storage.body.110N115N120 = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'> <p> שלום   &lrm;{0}&lrm;   , </p> זה תזכורת חוזרתשחרגתם ממכסת האחסון המרבית המוקצבותל {0}&lrm;  חשבון ה-CRM שלך. עד שלא לשדרג את האחסון, לא יהיה לך </p> תוכל להעלות קבצים מצורפיםמ {0}&lrm;  ממשק ה-CRM ולא לשלוח קבצים מצורפיםלCRM באמצעות תכונת BCC Dropbox . </p> כדי להבטיח כי  {0}&lrm;  חשבון ה-CRM שלך ממשיך לעבוד ללא הפרעה , אתה יכול לפנות שטח או לרכוש שטח אחסון נוסף על ידי ביצוע השלבים הבאים : </p> <strong> כדי לפנות אחסון בחשבונך: </strong> </p> <strong> שלב 1: . </strong> התחבר כדי { ​​0} חשבון ה-CRM שלך </p> <strong> שלב 2: </strong> נווט דרך הרשומות ולמחוק את הקבצים המצורפים שאינו דורשים </p> <strong> כדי לרכוש שטח אחסון נוסף : . </strong> </p> <strong> שלב 1: </strong> לחץ שדרוג > ניהול התכנית שלך </p> <strong> שלב 2: </strong>בדף מנוי ניהול , תחת הוספת מנויים , בחר את שטח אחסון נוסף מהרשימה הנפתחת. </p> <strong> שלב 3: . </strong> לחץ עזיבה </p> לקבלת מידע נוסף על ניהול אחסון הקבצים שלך, אנא קרא את זה < href=https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage">article</a>.</p><p>Regards,<br/>  {0}&lrm;   CRM קבוצות . </p> </div>
-bccdropbox.insufficient.storage.body.90N95 = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'> <p> שלום   &lrm;{0}&lrm;   , </p> אתה הגעת קרוב ל &lrm;{1}  מהמכסה האחסון הכוללת שהוקצתה ל &lrm;{0}&lrm;  חשבון ה-CRM שלך. כאשר האחסון שלך מלא , אתה לא יהיה </p> תוכל להעלות קבצים מצורפים מממשק ה-CRM   &lrm;{0}&lrm;   ולא לשלוח קבצים מצורפיםלCRM באמצעות תכונת BCC Dropbox . </p> כדי להבטיח כי שלך  &lrm;{0}&lrm;  חשבון ה-CRM ממשיך לעבוד ללא הפרעה , אתה יכול לפנות שטח או לרכוש שטח אחסון נוסף על ידי ביצוע השלבים הבאים : </p> <strong> כדי לפנות שטח אחסון בחשבונך: </strong> </p><p> <strong> שלב 1: . > </strong> התחבר כדי { ​​0} חשבון ה-CRM שלך </p> <p> <strong> שלב 2: </strong> נווט דרך הרשומות ולמחוקהקבצים המצורפים כי אתה לא דורש </p><p> <strong> כדי לרכוש שטח אחסון נוסף : . </strong> </p><p> <strong> שלב 1: </strong> לחץ שדרוג > ניהול התכנית שלך </p><p> <strong> שלב 2: </strong>בדף מנוי ניהול , תחת הוספת מנויים , לבחור את שטח אחסון נוסף מהרשימה הנפתחת. </p><p> <strong> שלב 3: . </strong> לחץ עזיבה </p><p> לקבלת מידע נוסף על ניהול אחסון הקבצים שלך, אנא קרא את זה :<a href="https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage">מאמר</a>.</p><p>Regards,<br/>  &lrm;{0}&lrm;   CRM קבוצות . </p> </div>
+Zoho\ Projects =&rlm;   &lrm;{0}&lrm;   פרויקטים
+Zoho\ Recruit =&rlm;   &lrm;{0}&lrm;   Recruit
+Zoho\ Support =&rlm; תמיכת   &lrm;{0}&lrm;  
+Zoho\ mail =&rlm;  &lrm;{0}&lrm;  דואר על בתוספת
+bccdropbox.deactivation.notifymail.body = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'> <p> שלום   &lrm;{0}&lrm;   , </p>  &lrm;{1}&lrm;  , אחד מהמנהלים של ה-CRM , חושד כי BCC Dropbox שלך נפרץ ומייצר זבל. כדי לעצור אותו מליצור בעיות נוספות , הוא ( {2} ) השעה כרגע תכונה זו בחשבון ה-CRM שלך. </p> כדי להפעיל מחדש באמצעות BCC Dropbox, צור מחדש את הכתובת עכשיו . </p> בברכה, <br/>צוות &lrm;{0} CRM&lrm;</p> </div>
+bccdropbox.desc = עכשיו זה אפשרי עבורך  לשייך את האימיילים שלכם ל  &lrm;{0}&lrm;   CRM מכל אחד מלקוחות הדוא"ל שלך כמו Gmail, Outlook, Thunderbird , ועוד ! נסה את BCC Dropbox החדש !
+bccdropbox.desc1 = כל מה שאתה צריך לעשות זה לשלוח עותק מוסתר אל כתובת הדוא"ל של  BCC Dropboxשאנחנו נותנים לכם ( BCC ) , בעת שליחת מיילים ללקוחות. בהתבסס על תבנית  החיפוש ,   &lrm;{0}&lrm;   CRM באופן אוטומטי  ימקם עותק של הדוא"ל שברצונך לשייך , ברשומת הלקוח המתאימה כן, זה כל כך קל !
+bccdropbox.insufficient.storage.body.100N105 = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'><p>{0}&lrm; שלום,</p>	הגעת לשטח אחסון של  100% שהוקצה לחשבון ה-CRM  {0}&lrm; שלך. האחסון שלך מלא , ואתה לא תוכל להעלות קבצים מצורפים מממשק ה-CRM  {0}&lrm; ולא לשלוח קבצים מצורפים ל CRM באמצעות תכונת BCC Dropbox .</p>כדי להבטיח כי  &lrm;{0}&lrm;  חשבון ה-CRM שלך שלך ממשיך  לעבוד ללא הפרעה , אתה יכול לפנות שטח או לרכוש שטח אחסון נוסף על ידי ביצוע השלבים הבאים :</p><p><strong>כדי לפנות אחסון בחשבונך:</strong></p><p><strong>שלב 1: .</strong>	התחבר כדי { ​​0} חשבון ה-CRM שלך</p> <strong>שלב 2:</strong>נווט דרך הרשומות ומחק את הקבצים המצורפים שאינו דורשים</p> <strong>כדי לרכוש שטח אחסון נוסף : .</strong> </p> <strong>שלב 1:</strong>לחץ שדרוג > ניהול התכנית שלך</p> <strong>שלב 2:</strong>בדף מנוי ניהול , תחת הוספת מנויים , בחר את שטח אחסון נוסף מהרשימה הנפתחת.</p> <strong>שלב 3: .</strong>'לחץ על 'יציאה</p><p>לקבלת מידע נוסף על ניהול אחסון הקבצים שלך, אנא קרא את זה: ‏‎‏<a href="https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage">מאמר</a></p><p>Regards,<br/>צוות &lrm;{0} CRM&lrm;  .</p> </div>
+bccdropbox.insufficient.storage.body.110N115N120 = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'> <p> שלום   &lrm;{0}&lrm;   , </p> זו תזכורת חוזרת שחרגתם ממכסת האחסון המרבית המוקצבות ל {0}&lrm;  חשבון ה-CRM שלך. עד שלא תשדרג את האחסון,  לא </p> תוכל להעלות קבצים מצורפים מ {0}&lrm;  ממשק ה-CRM ולא לשלוח קבצים מצורפים לCRM באמצעות תכונת BCC Dropbox . </p> כדי להבטיח כי  {0}&lrm;  חשבון ה-CRM שלך ממשיך לעבוד ללא הפרעה , אתה יכול לפנות שטח או לרכוש שטח אחסון נוסף על ידי ביצוע השלבים הבאים : </p> <strong> כדי לפנות אחסון בחשבונך: </strong> </p> <strong> שלב 1: . </strong> התחבר אל { ​​0} חשבון ה-CRM שלך </p> <strong> שלב 2: </strong> נווט דרך הרשומות ומחק את הקבצים המצורפים שאינו דורשים </p> <strong> כדי לרכוש שטח אחסון נוסף : . </strong> </p> <strong> שלב 1: </strong> לחץ שדרוג > ניהול התכנית שלך </p> <strong> שלב 2: </strong>בדף מנוי ניהול , תחת הוספת מנויים , בחר את שטח אחסון נוסף מהרשימה הנפתחת. </p> <strong> שלב 3: . </strong> לחץ עזיבה </p> לקבלת מידע נוסף על ניהול אחסון הקבצים שלך, אנא קרא את זה: <a href="https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage">מאמר</a>.</p><p>Regards,<br/>צוות &lrm;{0} CRM&lrm;     . </p> </div>
+
+bccdropbox.insufficient.storage.body.90N95 = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'> <p> שלום   &lrm;{0}&lrm;   , </p> אתה הגעת קרוב ל &lrm;{1}&lrm;  ממכסת האחסון הכוללת שהוקצתה ל &lrm;{0}&lrm;  חשבון ה-CRM שלך. כאשר האחסון שלך מלא , אתה לא  </p> תוכל להעלות קבצים מצורפים מממשק ה-CRM   &lrm;{0}&lrm;   ולא לשלוח קבצים מצורפים לCRM באמצעות תכונת BCC Dropbox . </p> כדי להבטיח כי   &lrm;{0}&lrm;  חשבון ה-CRM ממשיך לעבוד ללא הפרעה , אתה יכול לפנות שטח או לרכוש שטח אחסון נוסף על ידי ביצוע השלבים הבאים : </p> <strong> כדי לפנות שטח אחסון בחשבונך: </strong> </p><p> <strong> שלב 1: . > </strong> התחבר כדי { ​​0} חשבון ה-CRM שלך </p> <p> <strong> שלב 2: </strong> נווט דרך הרשומות ומחק קבצים מצורפים שאינם דרושים לך </p><p> <strong> כדי לרכוש שטח אחסון נוסף : . </strong> </p><p> <strong> שלב 1: </strong> לחץ שדרוג > ניהול התכנית שלך </p><p> <strong> שלב 2: </strong>בדף ניהול מנויים , תחת הוספת מנויים , לבחור את שטח אחסון נוסף מהרשימה הנפתחת. </p><p> <strong> שלב 3: . </strong> לחץ עזיבה </p><p> לקבלת מידע נוסף על ניהול אחסון הקבצים שלך, אנא קרא את זה:  :<a href="https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage">מאמר</a>.</p><p>Regards,<br/>צוות  &lrm;{0} CRM&lrm;</p> </div>
 bccdropbox.insufficient.storage.body.above.120 = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'> <p> שלום   &lrm;{0}&lrm;   , </p> בשל מספיק שטח אחסון בחשבון CRM  &lrm;{1}  שלך, לא הצליחו לשייך את הדוא"ל / הקובץ המצורף שנשלח באמצעות BCC Dropboxל &lrm;{1}  CRM </p> מקבלי מיילים כתובת: . {2} </p> אנא צור קשר עם מנהל CRM שלך לקבלת סיוע נוסף . </p> בברכה, <br/>  &lrm;{1}  CRM קבוצות . </p> </div>
 bccdropbox.insufficient.storage.sub.100N105 = שלך  &lrm;{0}&lrm;  אחסון CRM מלא
 bccdropbox.insufficient.storage.sub.110N115N120 =   &lrm;{0}&lrm;   מכסת אחסון ה-CRM שלך חרגה - אובדן נתונים אפשרי .
 bccdropbox.insufficient.storage.sub.90N95 = מרחב   &lrm;{0}&lrm;   CRM האחסון שלך  כמעט מלא
-bccdropbox.searchPattern.change.body = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'> <p> שלום   &lrm;{0}&lrm;   , </p>  &lrm;{1}  , אחד מהמנהלים של ה-CRM , השתנה &lrm;{0}&lrm;  הגדרות הרשאת הפרופיל של חשבון ה-CRM . </p> אולי אתה רוצה לעשות לעצמך את תבנית החיפוש שמשתנה עם הגדרות הרשאת פרופיל. </ p > < p> תבנית החיפוש שלך כעת נראית כך: . </p> {2} </p> בברכה, <br/>   &lrm;{0}&lrm;   CRM קבוצות </p> </div>
+bccdropbox.searchPattern.change.body = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13; line-height: 18px'> <p> שלום   &lrm;{0}&lrm;   , </p>  &lrm;{1}&lrm;  , אחד מהמנהלים של ה-CRM , שינה את    הגדרות הרשאת הפרופיל של חשבון ה-&lrm;{0}&lrm; CRM . </p> אולי אתה רוצה לרשום לעצמך את תבנית החיפוש שמשתנה עם הגדרות הרשאת פרופיל. </p> <p> תבנית החיפוש שלך כעת נראית כך: . </p> {2} </p> בברכה, <br/>   &lrm;{0}&lrm;   CRM קבוצות </p> </div>
 com.project.existtoproj = קיימים   &lrm;{0}&lrm;   פרויקטים משתמש
 com.project.newtoproj = חדש   &lrm;{0}&lrm;   פרויקטים
 com.project.notenabled =   &lrm;{0}&lrm;   הפרויקטים אינטגרציה לא מופעל בחשבון שלך.
@@ -68,7 +69,7 @@ com.project.trialexpired = 15 ימיךגרסת ניסיון שלהמהדורה 
 crm.InvalidTicket.Reasons.third = צור קשר עם תמיכת {0}&lrm; CRM ב<a href="mailto: {1}&lrm;" class="link">  {1}&lrm;  </a>. או <strong> התקשר שיחה חינם : </strong><strong> {2} </strong>
 crm.about.auth.mgs =&rlm; {0}&lrm; API CRM&lrm; מקל על המתכנתים לשלב את  {0}&lrm; CRM&lrm; עם יישומים אחרים של צד שלישי .  ניתן לגשת אל הנתונים של ה-CRM {0}&lrm; באמצעות ממשקי API אלה ב-XML או אובייקט JSON . להתחיל להשתמש API שלנו , הנה כמה נקודות ההתחלה .
 crm.about.auth.title = על &lrm;{0}&lrm;  API CRM
-crm.account.closed.error.message = <h2> מצטער. אין נתונים זמינים. </h2> <p>  פג תקף קובץ הנתונים שלך   . <br/> או <br/>אתה משתמש לא פעיל ב  &lrm;{0}&lrm; CRM .</p>
+crm.account.closed.error.message = <h2> מצטערים. אין נתונים זמינים. </h2> <p>  פג תקף קובץ הנתונים שלך   . <br/> או <br/>אתה משתמש לא פעיל ב  &lrm;{0}&lrm; CRM .</p>
 crm.account.closed.heading = הורד את נתוני &lrm;{0}&lrm; CRM&lrm; שלך 
 crm.account.closing.heading = החשבון &lrm;#BRANDLABEL CRM&lrm; שלך כבר סגור
 crm.account.closing.information1 = חשבון ה-&lrm;CRM #BRANDLABEL&lrm; שלך כבר סגור <b> עקב חוסר פעילות במשך יותר מ 120 ימים </b> . כצעד הבא , אתה יכול להוריד את נתוני חשבון &lrm;CRM #BRANDLABEL&lrm; מכתובת האתר המאובטח כדלקמן.
@@ -77,14 +78,14 @@ crm.account.creation.title = &rlm;{0}&lrm; CRM&lrm; - יצירת חשבון
 crm.account.details =   &rlm;{0}&lrm; CRM&lrm; - פרטי חשבון 
 crm.account.warning.answer2 = פשוט, היכנס לחשבון ה-CRM #BRANDLABEL פעם אחת.
 crm.account.warning.heading = החשבון &lrm;#BRANDLABEL CRM&lrm; שלך  פעיל במשך יותר מ -120 ימים
-crm.account.warning.information1 = מצאנו כי <b>חשבון &lrm;#BRANDLABEL CRM&lrm; לא היה בשימוש ב 120 הימים האחרונים </b> . אנו ממליצים לך להמשיך להשתמש ב &lrm;#BRANDLABEL CRM&lrm; כדי להגביר את הפרודוקטיביות של צוות מכירות שלך . נא להתחבר כדי <a href="https://#CRMURL"> https://#CRMURL/</a> כדי לשמור על החשבון שלך פעיל.
+crm.account.warning.information1 = מצאנו כי <b>חשבון &lrm;#BRANDLABEL CRM&lrm; לא היה בשימוש ב 120 הימים האחרונים </b> . אנו ממליצים לך להמשיך להשתמש ב &lrm;#BRANDLABEL CRM&lrm; כדי להגביר את הפרודוקטיביות של צוות מכירות שלך . נא להתחבר אל  <a href="https://#CRMURL"> https://#CRMURL/</a> כדי לשמור על החשבון שלך פעיל.
 crm.account.warning.information2 = אם אתה לא רוצה להשתמש ב &lrm;#BRANDLABEL CRM&lrm; יותר, התעלם  מזה בדואר אלקטרוני וחשבונך ייסגר באופן אוטומטי  כעבור 15 ימים.
 crm.addons.nonadmin.activate.message =&rlm; מצב &rlm;{0}&lrm;    אינו מופעל על הפרופיל שלך. אנא צור קשר עם מנהל &lrm;{1} CRM&lrm; שלך.
 crm.addons.status = לעשות שימוש של   &lrm;{0}&lrm; CRM&lrm; עבור  &lrm;{1}&lrm;  ,
 
-crm.adduser.information.existingzohouser = הזמנה בדוא"ל עםlink הגישה כבר נשלח למשתמש user.The יש ללחוץ על link הגישה לכניסה ל &lrm;{0}&lrm;  חשבון ה-CRM .
+crm.adduser.information.existingzohouser = הזמנה בדוא"ל עם קישור  הגישה כבר נשלח למשתמש user.The יש ללחוץ על link הגישה לכניסה ל &lrm;{0}&lrm;  חשבון ה-CRM .
 
-crm.adduser.information.newzohouser = הזמנה בדוא"ל עםlink הגישה כבר נשלח למשתמש . <br>המשתמש יש ללחוץ על link הגישה להירשם ל &lrm;{0}&lrm;  חשבון ה-CRM .
+crm.adduser.information.newzohouser = הזמנה בדוא"ל עם קישור  הגישה כבר נשלח למשתמש . <br>המשתמש יש ללחוץ על link הגישה להירשם ל &lrm;{0}&lrm;  חשבון ה-CRM .
 crm.admin.replaceID.note1 = link לדף זה עוזר לך להחליף את  &lrm;{0}&lrm;  CRM זיהוי של המשתמש.
 crm.admin.replaceZCRMID.sameId = מזהה אותו . אנא ספק  &lrm;{0}&lrm;  זיהוי ה-CRM שונה.
 crm.admin.replaceZCRMID.success = החליף את  &lrm;{0}&lrm;  CRM זיהוי של המשתמש בהצלחה.
@@ -120,9 +121,9 @@ crm.api.help.title = עזרה API &lrm;#BRANDLABEL CRM&lrm;
 crm.api.key.request.note = דף זה מסייע לך לבקש מפתח API עבור   &lrm;{0}&lrm;   CRM החשבון שלך.
 crm.api.key.title =   &lrm;{0}&lrm;   CRM - מפתח API
 crm.api.limit.exceeds.content1 = זאת על מנת להודיע ​​לך שיש לך חרגה מבקשות API המרביות עומדות לרשותך עליך &lrm;#BRANDLABEL CRM&lrm; מהדורהלהיום .
-crm.api.limit.exceeds.content3 = אם ברצונכם כל הבהרה או עזרה, דואר אלקטרוני אלינו ב # SUPPORTMAILID
-crm.api.must.know.thing.2 = 2 . אסימון תקף אימותלגישה CRM  &lrm;{0}&lrm;  מיישומים אחרים.
-crm.api.request.thanks.note = תודה על שבקשת   &lrm;{0}&lrm;   CRM -API מפתח . אנו נחזור אליך תוךיום עסקים. לכל הבהרה , אנא צור איתנו קשר <a href="mailto: &lrm;{1} " class="link">  &lrm;{1}  </a></b>
+crm.api.limit.exceeds.content3 = אם ברצונכם כל הבהרה או עזרה, דואר אלקטרוני אלינו ב &lrm;#SUPPORTMAILID
+crm.api.must.know.thing.2 =&rlm;2. אסימון אימות בר-תוקף לגישה אל &lrm;‎{0} CRM &lrm;‎ מיישומים אחרים
+crm.api.request.thanks.note = תודה על שבקשת מפתח  &lrm;{0}&lrm;   CRM -API. אנו נחזור אליך תוך יום עסקים. לכל הבהרה , אנא צור איתנו קשר <a href="mailto: &lrm;{1} " class="link">  &lrm;{1}  </a></b>
 או התקשר אלינו: &lrm;{2}&lrm;  
 crm.api.security.note = אנא שמור את האימייל הזה לשימוש עתידי כפי שהוא מכיל מידע סודי על הגישה לנתונים שלך באמצעות   &lrm;{0}&lrm;   מפתח API ה-CRM. אם אתם נתקלים בבעיות בעת שימוש בממשקי API , אנא פנה אלינו .
 crm.api.usage.note = תודה לך על התעניינותך בAPI &lrm;#BRANDLABEL CRM&lrm; . עם ה-API &lrm;#BRANDLABEL CRM&lrm; באפשרותך לסנכרן נתונים בין &lrm;#BRANDLABEL CRM&lrm;ויישומים עסקיים אחרים .
@@ -163,7 +164,7 @@ crm.connectiontimedout.creator.error = אין אפשרות להתחבר עם ק
 crm.contactus.category.office.plugin =   &lrm;{0}&lrm;   CRM Office Plug-in
 crm.contactus.category.outlook.plugin =   &lrm;{0}&lrm;   CRM תוסף עבור Microsoft Outlook
 crm.contactus.faq.q6a = אנו מציעים מספר רמות של אבטחה, לרבות הפיסית , התוכנה ורמות אנשים / תהליך על מנת להבטיח כי הנתונים שלך מאובטח. לכן, אבטחת הנתונים שלך ב  &lrm;{0}&lrm;   CRM מובטח. לפרטים נוספים, target="_blank"> href="http://www.zoho.com/zoho_faq.html#6" <a לחץ כאן </a> .
-crm.contactus.faq1.q4a = לא   &lrm;{0}&lrm;   CRM מציע לך 3 משתמשים בחינם רקבמהדורה חינם . בProfessional או Enterprise Edition, יש לך לשלםמהמשתמש הראשון .
+crm.contactus.faq1.q4a = לא   &lrm;{0}&lrm;   CRM מציע לך 3 משתמשים בחינם רקבמהדורה חינם . בProfessional או Enterprise Edition, יש לך לשלם מהמשתמש הראשון .
 crm.contactus.line1 =  &lrm;{0}&lrm;  התמיכה היא 24hrs זמין ביום ו -5 ימים בשבוע , לא כולל חגים. אנא מלא את הטופס הבא ואנו נגיב לך מהר ככל האפשר .
 crm.contactus.usa.tollfree.2numbers = <div class="tollh3">   &lrm;{0}&lrm;   < / div >
 crm.copy.config.different.License.type = משתמשבשונה  &lrm;{0}&lrm;  מהדורת ה-CRM
@@ -203,7 +204,7 @@ crm.creator.error.xmlError = הייתהשגיאהב  &lrm;{0}&lrm;   קריאי
 crm.creator.form = בחר  &lrm;{0}&lrm;   טופס קריאיטור
 crm.creator.integration =   &lrm;{0}&lrm;   אינטגרציה קריאיטור
 crm.creator.label.afteractivation.hint.step2 = כיצד לכלול   &lrm;{0}&lrm;   מודולים CRMלאפליקציה המותאם אישית שלך ?
-crm.creator.label.beforeactivation.hint.step1 = אתה צריךמהדורת Enterprise של   &lrm;{0}&lrm;   CRM ( גם זמיןלמשתמשים ארגוניים משפט ... )
+crm.creator.label.beforeactivation.hint.step1 = אתה צריך מהדורת Enterprise של   &lrm;{0}&lrm;   CRM ( גם זמיןלמשתמשים ארגוניים משפט ... )
 crm.creator.label.beforeactivation.hint.step2 = אתה צריך להיותמנהל של  &lrm;{0}&lrm;  חשבון ה-CRM שלך.
 crm.creator.label.beforeactivation.hint.step3 = צריך להיות לך &lrm;{0}&lrm;  חשבון קריאיטור.
 crm.creator.mail.notify.footer = חברת Zoho </b> . 4141 אסיינדה דרייב, Pleasanton, קליפורניה 94588 , ארה"ב <br/> טלפון: פקס # CALLPHONE : # CALLFAX
@@ -227,7 +228,7 @@ crm.deactivate.alert.message = אתה עומד לבטל את המשתמש (ים
 crm.deactivate.crm.zoho.project.users.heading = המשתמשים הבאים גם לאחר שחרור משרותב  &lrm;{0}&lrm;   CRM , יכולים עדיין להמשיך לעבוד על   &lrm;{0}&lrm;   פרויקטים .
 crm.deactivate.phone.bridge.user = משתמש   &lrm;{0}&lrm;   הוא משתמש קבוצת זיהוי . עם שחרור משרות ,חברי קבוצת PBX לא יכולים להשתמש  &lrm;{1}  Phonebridge .
 crm.deactivateuser.enableoutlook = אתה לא יכול לאפשר   &lrm;{0}&lrm;   CRM תוסף עבור הפעלה של Microsoft Outlook עבורמשתמשים בעלי מוגבלויות .
-crm.downgrade.line1 = פעולת ההורדה הושלמה בהצלחה . אנו מקווים שאתה מרוצה מהשירות שלנוולהוריד בדרגה זו היא בגלל סיבות אחרות. עם זאת, הוא עדיין יכול להיות שיש לנו בתנאי שאתה פחות משירות מאושר. אם זה יהיה כך, אז אין לנו אימייל ב # SUPPORTMAILID ואנו נבדוק את הנושא לכל המוקדם.
+crm.downgrade.line1 = פעולת ההורדה הושלמה בהצלחה . אנו מקווים שאתה מרוצה מהשירות שלנוולהוריד בדרגה זו היא בגלל סיבות אחרות. עם זאת, הוא עדיין יכול להיות שיש לנו בתנאי שאתה פחות משירות מאושר. אם זה יהיה כך, אז אין לנו אימייל ב &lrm;#SUPPORTMAILID ואנו נבדוק את הנושא לכל המוקדם.
 crm.downgrade.user.quickbook =  &lrm;{0}&lrm;  חשבון ה-CRM שלך תופח באופן אוטומטי למהדורה חינם . שים לב ששילוב QuickBooks יהיה גם הוריד כפי שהוא לא יהיה זמיןבמהדורה חינם .
 crm.dumprequest.note = לייצא  &lrm;{0}&lrm;  נתוני CRM כולו שלךלאמצעי הגיבוי שלך. תשלום של $ 10 יחויב עבור כל גיבוי.
 crm.dumprequest.note1 = אם זה העסקה הראשונה שלך ב  &lrm;{0}&lrm;   CRM , אנא ספק את פרטי כרטיס אשראי שלך.
@@ -242,15 +243,15 @@ crm.event.notification.subject1 =   &lrm;{0}&lrm;   CRM - הודעת תזכור
 crm.export.data.payment.not.processed =   &lrm;{0}&lrm;   CRM יצוא נתונים - תשלום לא עבר עיבוד
 crm.export.data.payment.processed =   &lrm;{0}&lrm;   CRM יצוא נתונים - רכישה
 crm.export.line1 = לבקשתכם, העלינו את הנתונים שלך שלמים CRM #BRANDLABELוקבצים מצורפים ל&lrm;#BRANDLABEL CRM&lrm; חשבון. כדי להוריד קבצים אלו, אנא היכנסו לחשבון ה-CRM #BRANDLABEL שלך ולחץ על הlinkים הבאים :
-crm.export.line4 = <br> <b> חשוב : </b> כאמצעי אבטחה , עליך להיכנס לחשבון של BRANDLABEL CRM # לפני הורדתהנתונים. כמו כן,<b> הקבצים יהיה זמין עבורךל48 השעות הקרובות. לאחר 48 שעות , הנתונים שלך יושמדו באופן אוטומטי </b>ואינו זמינים יותר. האם אתה רוצה להפוך את הנתונים זמינים שוב , תצטרך ליזום בקשה חדשה , נפרדת. <br/> <br/> אם אתם נתקלים בבעיה בעת הורדת הנתונים #BRANDLABEL -CRM שלך , אנא פנו אלינו . <Br / > <br/> בברכה, <br/> <b>&lrm;#BRANDLABEL CRM&lrm; קבוצות </b> <br/> <br/> <b> שיחה חינם : </b> # CALLPHONE <br/> <b > דואר אלקטרוני: </b> <a href="mailto:#SUPPORTMAILID"> # SUPPORTMAILID </a> <br/> <br>
-crm.export.purchas.fail = <br> מצטער, לא הצליח לעבד את עסקת תשלום עבור הזמנת service.In " גיבוי &lrm;#BRANDLABEL CRM&lrm; נתונים" כדי לתזמן גיבוי נתונים רגיל , עדכן את פרטי כרטיס אשראי שלך בהקדם האפשרי.
+crm.export.line4 = <br> <b> חשוב : </b> כאמצעי אבטחה , עליך להיכנס לחשבון של BRANDLABEL CRM # לפני הורדתהנתונים. כמו כן,<b> הקבצים יהיה זמין עבורךל48 השעות הקרובות. לאחר 48 שעות , הנתונים שלך יושמדו באופן אוטומטי </b>ואינו זמינים יותר. האם אתה רוצה להפוך את הנתונים זמינים שוב , תצטרך ליזום בקשה חדשה , נפרדת. <br/> <br/> אם אתם נתקלים בבעיה בעת הורדת הנתונים #BRANDLABEL -CRM שלך , אנא פנו אלינו . <Br / > <br/> בברכה, <br/> <b>&lrm;#BRANDLABEL CRM&lrm; קבוצות </b> <br/> <br/> <b> שיחה חינם : </b> # CALLPHONE <br/> <b > דואר אלקטרוני: </b> <a href="mailto:#SUPPORTMAILID"> #SUPPORTMAILID </a> <br/> <br>
+crm.export.purchas.fail = <br> מצטערים, לא הצליח לעבד את עסקת תשלום עבור הזמנת service.In " גיבוי &lrm;#BRANDLABEL CRM&lrm; נתונים" כדי לתזמן גיבוי נתונים רגיל , עדכן את פרטי כרטיס אשראי שלך בהקדם האפשרי.
 crm.fb.integ.instruction = שילוב פייסבוק דורש אימות פייסבוק . באפשרותך לנהל את אימות פייסבוק עבור   &lrm;{0}&lrm;   ה-CRM.
 crm.forecast.enable.mail.content = שלך   &lrm;{0}&lrm;   מנהל CRM - <b>  &lrm;{1}  </b> אפשר " ניו תחזית " עבור הארגון שלך .
 crm.forecast.enable.note = האם עבר ל <strong>&lrm;{0}&lrm; חדש מ &lrm;?{1}  CRM&lrm;</strong>
 crm.forecast.mail.param.change.note3 = אם יש לך שאלות נוספות , בבקשה לשלוח לנוב  &lrm;{0}&lrm;  
 crm.form.del.note = <strong> מחיקת webform : </strong> <br> <br> webform שלך יימחק לצמיתות. נתונים שנוצרו באמצעות טופס זה ומכאן שוב לא יופיעו ב  &lrm;{0}&lrm;   ה-CRM.
-crm.freeusers.renewal.warning.msg = במקרה שלא תקבלו את תשלום בתוך מספר ימים,  &lrm;{0}&lrm;  חשבון ה-CRM שלך יצומצם באופן אוטומטי למהדורה חינם . בעתיד , אם אתה משדרג ל-Professional או Enterprise Edition, שלא תוכל לקבל את ההצעה " 3 משתמשים חינם " . בהתאם למדיניות התמחור החדשה שלנו, אתה צריך לשלםמהמשתמש הראשון .
-crm.freeusrs.transaction.warning.msg = במקרה שלא תקבלו את התשלום לאחר 7 ימיםממועד פקיעה ,  &lrm;{0}&lrm;  חשבון ה-CRM שלך יצומצם באופן אוטומטי למהדורה חינם . מאוחר יותר, אם אתה מתכנן להירשםלProfessional או Enterprise Edition, שלא תוכל לקבל את ההצעה " 3 משתמשים חינם " (לפי התמחור החדש שלנו ) . אתה תצטרך לשלם עבור כל המשתמשים בחשבון שלך.
+crm.freeusers.renewal.warning.msg = במקרה שלא תקבלו את תשלום בתוך מספר ימים,  &lrm;{0}&lrm;  חשבון ה-CRM שלך יצומצם באופן אוטומטי למהדורה חינם . בעתיד , אם אתה משדרג ל-Professional או Enterprise Edition, שלא תוכל לקבל את ההצעה " 3 משתמשים חינם " . בהתאם למדיניות התמחור החדשה שלנו, אתה צריך לשלם מהמשתמש הראשון .
+crm.freeusrs.transaction.warning.msg = במקרה שלא תקבלו את התשלום לאחר 7 ימים ממועד פקיעה ,  &lrm;{0}&lrm;  חשבון ה-CRM שלך יצומצם באופן אוטומטי למהדורה חינם . מאוחר יותר, אם אתה מתכנן להירשם לProfessional או Enterprise Edition, שלא תוכל לקבל את ההצעה " 3 משתמשים חינם " (לפי התמחור החדש שלנו ) . אתה תצטרך לשלם עבור כל המשתמשים בחשבון שלך.
 crm.gadgets.crmTitle =   &lrm;{0}&lrm;   גאדג'טים CRM
 crm.gadgets.embedAccess = שבץ   &lrm;{0}&lrm;   הגאדג'טים CRM ל-Google Sites, גוגלוהדואר אלקטרוני ב-iGoogle .
 crm.gadgets.zcrmAccounts =  &lrm;{0}&lrm;  חשבונות CRM
@@ -263,7 +264,7 @@ crm.gapp.add.task.note = ניתן לייצא משימות מ  &lrm;{0}&lrm;   C
 crm.gapp.add.task.note3 = ניתן גם לייצא משימות מרובותמ  &lrm;{0}&lrm;   CRMלמשימות גוגלבלחיצה אחת.
 crm.gapp.admin.notify.addition = משתמש נוסף בהצלחה ל &lrm;{0}&lrm;  חשבון ה-CRM שלך
 crm.gapp.admin.notify.addition.note = משתמש צריך לקבל את ההזמנה להצטרף אל   &lrm;{0}&lrm;   חשבון ה-CRM שלך.
-crm.gapp.admin.notify.deactivation = מצטער, אתה לא יכול לגשת CRM   &lrm;{0}&lrm;  .
+crm.gapp.admin.notify.deactivation = מצטערים, אתה לא יכול לגשת CRM   &lrm;{0}&lrm;  .
 crm.gapp.admin.notify.deactivation.note = נכון לעכשיו,  &lrm;{0}&lrm;  גישת ה-CRM שלך הושבה. אנא פנה למנהל שלך.
 crm.gapp.admin.notify.duplication.note = משתמש זה כבר קיים ב &lrm;{0}&lrm;  חשבון ה-CRM שלך. לפיכך, לא ניתן להוסיף שוב.
 crm.gapp.admin.request.note = מנהל המערכת שלך תבחן את בקשתך ולאפשר  &lrm;{0}&lrm;  גישת ה-CRM .
@@ -273,7 +274,7 @@ crm.gapp.admins.exists.option1.info = המנהל יבדוק את הבקשה ש�
 crm.gapp.attach.docs.note = אתה יכול לצרף קבצים מ-Google Driveלמוביל, חשבונות , אנשי קשר, פוטנציאלים ו  &lrm;{0}&lrm;   מודולים CRM אחרים. תכונה זו זמינה <b>במהדורות Professional ו-Enterprise </b> .
 crm.gapp.backto.crm = עבור לCRM   &lrm;{0}&lrm;  
 crm.gapp.gmail.NoLicense = ניסיון ללא תשלום האינטגרציה דוא"ל Google פג. בבקשה לקנות &lrm;{0}&lrm;  דואר על בתוספת כדי להפעיל תכונה זו.
-crm.gapp.gmail.addon.not.activated =  &lrm;{0}&lrm;  הדואר על בתוספת אינה מופעלת עבור החשבון שלך. נא להפעיל את חשבונךמהתקנת <strong> </strong>> <strong> מנהל מנוי </strong>> <strong> הפעל משתמשים </strong>.
+crm.gapp.gmail.addon.not.activated =  &lrm;{0}&lrm;  הדואר על בתוספת אינה מופעלת עבור החשבון שלך. נא להפעיל את חשבונך מהתקנת <strong> </strong>> <strong> מנהל מנוי </strong>> <strong> הפעל משתמשים </strong>.
 crm.gapp.gmail.config.note = באפשרותך לסנכרן הודעות דוא"ל ספציפי ללקוח בין Google Appsו  &lrm;{0}&lrm;   CRM על ידי הגדרת POP3ב  &lrm;{0}&lrm;   ה-CRM. חשבון פופ של גוגל הדואר האלקטרוני יכול להיות מוגדר כאן ב  &lrm;{0}&lrm;   ה-CRM. אנא ספק פרטי הדואר האלקטרוני של Google .
 crm.gapp.gmail.config.note1 = תכונה זו זמינהלמשתמשים מנויים על  &lrm;{0}&lrm;  דואר Add-on.
 crm.gapp.gmail.config.note12 = 3 . בדף מנוי ניהול , בחר את מספר <strong> של  &lrm;{0}&lrm;  דואר הוסף על משתמשים </strong> (3 $ / משתמש / חודש).
@@ -285,7 +286,7 @@ crm.gapp.gmail.config.title = קביעת תצורה של דואר אלקטרו�
 crm.gapp.import.contacts.note = מגעים Google Apps המפורטים להלן. אתה יכול לייבא את אנשי הקשר האלה ל  &lrm;{0}&lrm;   ה-CRM. אנשי הקשר המיובאים יוקצו לך ומשותף עם  &lrm;{0}&lrm;  משתמשי ה-CRM לפי ההיררכיה הארגונית שלך. לפיכך, אנו ממליצים בחום <b> </b> לך לייבא אנשי קשר עסקיים בלבד.
 crm.gapp.import.contacts.step6 = אנשי הקשר שלך מיובאים ל  &lrm;{0}&lrm;   ה-CRM.
 crm.gapp.import.users.note = אתה יכול להוסיף משתמשים מ-Google Appsל  &lrm;{0}&lrm;   ה-CRM. כברירת מחדל, מערכת תקצה תפקיד מנכ"ל ולפרופיל משתמש רגיללמשתמשים. לפיכך, אנו ממליצים לך לסקור ולעדכן את התפקידים ופרופילים של משתמשים , כאשר אתה מוסיף אותם , כדי להתאים עם ההיררכיה הארגונית שלך.
-crm.gapp.import.users.note1 = אתם נמצאים ב<b>   &lrm;{0}&lrm;   </b> עם <b>  &lrm;{1}  </b> רישיונות למשתמשים . אתה יכול להוסיף <b> {2} </b> יותר משתמשים. אם תחרוג ממגבלה זו, משתמשים יהיו <b> המנוטרל </b> עד שאתה קונהרישיונות נוספים . לכן אנו מציעים לך <a href="/crm/Security.do?actionName=manageSubscription&fm=tp"> ניהול מנוי שלך </a> לפני הוספת משתמשיםל{3} ה-CRM.
+crm.gapp.import.users.note1 = אתם נמצאים ב<b>   &lrm;{0}&lrm;   </b> עם <b>  &lrm;{1}  </b> רישיונות למשתמשים . אתה יכול להוסיף <b> {2} </b> יותר משתמשים. אם תחרוג ממגבלה זו, משתמשים יהיו <b> המנוטרל </b> עד שאתה קונהרישיונות נוספים . לכן אנו מציעים לך <a href="/crm/Security.do?actionName=manageSubscription&fm=tp"> ניהול מנוי שלך </a> לפני הוספת משתמשים ל{3} ה-CRM.
 crm.gapp.user.admin.exists.option1 = כן, אני </b> רוצה להצטרף עכשיו. <br> בחר באפשרות זו כדי לשלוח אתה בקשה אוטומטית למנהל שלך. ברגעשהבקשה אושרה על ידי מנהל המערכת שלך , אתה יכול לגשת   &lrm;{0}&lrm;   ה-CRM.
 crm.gapp.user.admin.notexists = הארגון שלך אין לו  &lrm;{0}&lrm;  חשבון ה-CRM
 crm.gapp.user.admin.notexists.note = אנא שאל את אחד מהמנהלים ב-Google Apps שלך כדי ליצור  &lrm;{0}&lrm;  חשבון ה-CRM .
@@ -336,27 +337,27 @@ crm.google.zohocrm.uninstalled.note =   &lrm;{0}&lrm;   CRM הוסרמחשבו�
 crm.home.get.start.intro.title = תחילת עבודה עם CRM   &lrm;{0}&lrm;  
 crm.home.get.start.logo.intro =   &lrm;{0}&lrm;   CRM מאפשר לארגונים לשנות את לוגו ברירת המחדלללוגו של החברה שלך. הלוגו של החברה המותאמת אישית יופיע לכלהמשתמשים שבחשבון.
 crm.html.admin.name = # מנהל BRANDLABEL CRM :
-crm.html.associate.user.invite.expiry = הlink הזה הוא בתוקף עד שאתה לוחץ עליו. אם אתה חושב שיש לך הוזמנת ללא רשותך אנא צור קשר עם מנהל CRM שלך . אם יש לך בעיות התחברות קשורים כל בבקשה לשלוח ל # SUPPORTMAILID
+crm.html.associate.user.invite.expiry = הlink הזה הוא בתוקף עד שאתה לוחץ עליו. אם אתה חושב שיש לך הוזמנת ללא רשותך אנא צור קשר עם מנהל CRM שלך . אם יש לך בעיות התחברות קשורים כל בבקשה לשלוח ל #SUPPORTMAILID
 crm.html.associate.user.invite.instruction1 = לחיצה על link הגישה תכלול אותך בחשבון מנהל המערכת שלך וזה יהיההאישור מהצד שלך להיכנס ל&lrm;#BRANDLABEL CRM&lrm; .
-crm.html.clarifications = לכל הבהרות אנא צור איתנו קשר ב # SUPPORTMAILID
-crm.html.clarifications1 = אם אתה זקוק לסיוע כלשהו , נא שלח דואר אלקטרוני אלינו ב # SUPPORTMAILID
+crm.html.clarifications = לכל הבהרות אנא צור איתנו קשר ב #SUPPORTMAILID
+crm.html.clarifications1 = אם אתה זקוק לסיוע כלשהו , נא שלח דואר אלקטרוני אלינו ב #SUPPORTMAILID
 crm.html.contact = אנא צור קשר עם <a class="link" href="#SALESMAILID"> # SALESMAILID </a>לשדרוג רישיון.
 crm.html.deactivate.instruction = החשבון שלך ב&lrm;#BRANDLABEL CRM&lrm; נוטרל על ידי המנהל &lrm;#BRANDLABEL CRM&lrm; שלך .
 crm.html.deactivate.outlook.instruction = &lrm;#BRANDLABEL CRM&lrm; תוסף עבור חשבון Microsoft Outlook נוטרל על ידי המנהל &lrm;#BRANDLABEL CRM&lrm; שלך .
 crm.html.deactivatemail.instruction = חשבון המשתמש שלך עם &lrm;#BRANDLABEL CRM&lrm; נוטרל על ידי מנהל BRANDLABEL CRM # .
-crm.html.gappuser.limit.exceeds = עם זאת, הארגון שלך חרג ממגבלת הרישיון. לכן אנו מבקשים ממך לקנות רישיונות נוספיםמ&lrm;#BRANDLABEL CRM&lrm; ולאחר מכן להוסיף # שם משתמשל&lrm;#BRANDLABEL CRM&lrm; חשבון.
-crm.html.new.gappuser.request.instruction1 = לחץ href="#LINK"> <a כאן </a> כדי לאשר את בקשתו של# שם המשתמש . לאחר שיאושר, # שם המשתמש יקבל הודעת דוא"ל הזמנה מ&lrm;#BRANDLABEL CRM&lrm; . לחלופין, ניתן להוסיף משתמשיםמ&lrm;#BRANDLABEL CRM&lrm; .
+crm.html.gappuser.limit.exceeds = עם זאת, הארגון שלך חרג ממגבלת הרישיון. לכן אנו מבקשים ממך לקנות רישיונות נוספים מ&lrm;#BRANDLABEL CRM&lrm; ולאחר מכן להוסיף # שם משתמשל&lrm;#BRANDLABEL CRM&lrm; חשבון.
+crm.html.new.gappuser.request.instruction1 = לחץ href="#LINK"> <a כאן </a> כדי לאשר את בקשתו של# שם המשתמש . לאחר שיאושר, # שם המשתמש יקבל הודעת דוא"ל הזמנה מ&lrm;#BRANDLABEL CRM&lrm; . לחלופין, ניתן להוסיף משתמשים מ&lrm;#BRANDLABEL CRM&lrm; .
 crm.html.new.gappuser.request.subject = גישת ה-CRM  &lrm;{1}    &lrm;{0}&lrm;   המבוקש
 crm.html.new.gappuser.request.welcome = # שם משתמש רוצה להשתמש &lrm;#BRANDLABEL CRM&lrm; למטרות עסקיות.
 crm.html.new.user.addition = כדי להוסיף משתמש ב&lrm;#BRANDLABEL CRM&lrm; , בצע את הפעולות הבאות :
 crm.html.new.user.addition.step1 = התחברל&lrm;#BRANDLABEL CRM&lrm; .
 crm.html.newaccount.created = החשבון שלך ב&lrm;#BRANDLABEL CRM&lrm; כבר נוצר בהצלחה. &lrm;#BRANDLABEL CRM&lrm; נותן לך גמישות רבה כדי לארגן את העסק שלך, לתקשר ולשתף פעולה עם אנשי הקשר והחברים שלך.
-crm.html.newaccount.save.contact = אנא שמור את האימייל הזה לשימוש עתידי כפי שהוא מכיל כניסה חשובה instructions.If יש לך בעיות התחברות קשורים כל או אם אתה חושב שהחשבון שלך נוצר ללא רשותך , בחביבות לשלוח <a href=: יעד " mailto # SUPPORTMAILID "=" _blank " > # SUPPORTMAILID </a>
+crm.html.newaccount.save.contact = אנא שמור את האימייל הזה לשימוש עתידי כפי שהוא מכיל כניסה חשובה instructions.If יש לך בעיות התחברות קשורים כל או אם אתה חושב שהחשבון שלך נוצר ללא רשותך , בחביבות לשלוח <a href=: יעד " mailto #SUPPORTMAILID "=" _blank " > #SUPPORTMAILID </a>
 crm.html.newaccount.welcome = ברוכים הבאים ל&lrm;#BRANDLABEL CRM&lrm; !
 crm.html.newuser.access.url = # הגישה BRANDLABEL CRM מ
 crm.html.newuser.instruction1 = החשבון שלך ב&lrm;#BRANDLABEL CRM&lrm; נוצר על ידי מנהל ה-CRM שלך. &lrm;#BRANDLABEL CRM&lrm; נותן לך גמישות רבה כדי לארגן את העסק שלך, לתקשר ולשתף פעולה עם אנשי הקשר והחברים שלך.
-crm.html.newuser.invite.expiry = <b> הערה חשובה : יש להשתמש </b> כתובת דוא"ל הנ"ל לרישום שלך. אחר, חשבון  &lrm;{0}&lrm;  שלך לא יהיה קשורלחשבון מנהל המערכת שלך. הlink הזה הוא בתוקף עד שאתה לוחץומקבל רשום.
-crm.html.newuser.permission = אם אתה חושב שיש לך הוזמנת ללא רשותך אנא צור קשר עם מנהל CRM שלך . אם יש לך בעיות התחברות קשורים כל בבקשה לשלוח ל # SUPPORTMAILID
+crm.html.newuser.invite.expiry = <b> הערה חשובה : יש להשתמש </b> כתובת דוא"ל הנ"ל לרישום שלך. אחר, חשבון  &lrm;{0}&lrm;  שלך לא יהיה קשורלחשבון מנהל המערכת שלך. הlink הזה הוא בתוקף עד שאתה לוחץ ומקבל רשום.
+crm.html.newuser.permission = אם אתה חושב שיש לך הוזמנת ללא רשותך אנא צור קשר עם מנהל CRM שלך . אם יש לך בעיות התחברות קשורים כל בבקשה לשלוח ל #SUPPORTMAILID
 crm.html.newuserinvite.clickhere =  &lrm;{0}&lrm;  אתר ה-CRM
 crm.html.password.case.sensitive = <b> הערה: </b> &lrm;#BRANDLABEL CRM&lrm; זהות, סיסמאותשובה סודית כל המקרה רגיש.
 crm.html.phone.contact = אנא צור קשר עם <a class="link" href="mailto:  &lrm;{0}&lrm;  ">   &lrm;{0}&lrm;   </a> או להתקשר אלינו ב  &lrm;{1} לשדרוג רישיון.
@@ -378,7 +379,7 @@ crm.html.trial.deactivate.alert.before.threedays = מקווה שמשפטו של
 crm.html.trial.deactivate.enterprise.instruction = תודה לך על שיש להסתכלבמהדורה המקצועית / הארגונית של   &lrm;{0}&lrm;   CRM . <br/> תקופת הניסיון שלך פגהלמהדורה המקצועית / הארגוניתואתה כבר עברת למהדורה הקודמת שלך. <br/> אם אתה רוצה להשתמש Edition או Professional או Enterprise, <b> חביבות להירשם בתוך15 הימים הקרובים </b> <br/> <br/> כדי להירשם כמנויל  &lrm;{0}&lrm;   CRM - . Enterprise Edition, בצע את השלבים שהוזכרו בlink הבא : <br/> <class=" link" href="https://www.zoho.com/crm/help/manage-subscriptions.html">http://www.zoho.com/crm/help/manage-subscriptions.html</a><br/><br/><b>Note:</b>If אתה מנוי בתוך15 הימים הקרובים , אתה יכול לשמור את התצורה כפי שנקבע על ידך במהלך תקופת ההערכה שלEnterprise Edition. אחר, יהיה זכאי רקלתכונות זמינותבמהדורה בחרה בעבר שלך. זה חללמהדורה מקצועית גם כן.
 crm.html.trial.deactivate.instruction = שלום לך , <br/> <br/> תודה לך על שהקדשת זמן כדי לבדוק את  &lrm;{1}  CRM - מהדורת   &lrm;{0}&lrm;   במהלך תקופת ניסיון 15 יום <br/> <br/> <b> חשבון הניסיון שלך . פג ועכשיו יש לך גישה למהדורה חינם . </b> <br/> <br/> אם החליטש &lrm;{1}  CRM - Edition   &lrm;{0}&lrm;   הוא בדיוק מה שאתה צריך עבור העסק שלך, קדימהו< class=href " link"=" https://crm.zoho.com/crm/Security.do?actionName=manageSubscription&fm=tp " > רכישה עכשיו <br/> <br/> אם יש </a> בקשות או שאלות נוספות אנא אל תהססו ליצור קשר איתנו <br/> דוא"ל <br/> : <a class="link" href="mailto:{2}"> {2} </a> <br / > <br/> התקשר : {3} <br/> <br/> צ'אט :  &lrm;{1}  תמיכה בצ'אט בשידור חי <br/> <br/> אנו מצפים לשרת את הצרכים של העסק שלך !
 crm.html.trial.deactivate.mobileaddon.instruction = משפט 15 ימיךעבור   &lrm;{0}&lrm;   CRM Edition הנייד פג. כדי להמשיך להשתמש ב   &lrm;{0}&lrm;   CRM Edition הנייד , אנא לשדרג את החשבון שלך על ידי ביצוע השלבים כדלקמן. <p> </p> <li> התחבר כדי { ​​0 } CRM . </ Li> <li> לחץ על link השדרוג על העליונה. <li> </ li>בדף מנוי ניהול , לחץ על ניהוללמהדורה שלך. </ li> <li> תחת תוספותותוספות , בחר את מספר  &lrm;{0}&lrm;  משתמשי CRM Edition הנייד מהבית הרשימה הנפתחת . </ li> <li> לחץ על ' עזיבה ' </ li>
-crm.html.trial.deactivate.outlook.contact = לכל שאילתות נוספות, לשלוח לנו <a class="link" href="#SUPPORTMAILID"> # SUPPORTMAILID </a> או להתקשר השיחה שלנו לא חינם ( ארה"ב וקנדה ) : # CALLPHONE <b> </b> .
+crm.html.trial.deactivate.outlook.contact = לכל שאילתות נוספות, לשלוח לנו <a class="link" href="#SUPPORTMAILID"> #SUPPORTMAILID </a> או להתקשר השיחה שלנו לא חינם ( ארה"ב וקנדה ) : # CALLPHONE <b> </b> .
 crm.html.trial.deactivate.outlook.instruction = 15 ימי חשבון הניסיון שלךלPlug-in של &lrm;#BRANDLABEL CRM&lrm; עבור Microsoft Outlook פג. כדי להמשיך להשתמש, <p> </p> בצע את ההוראות מפורטות להלן . Plug-in <li> התחבר כדי &lrm;#BRANDLABEL CRM&lrm; . </ Li> <li> לחץ על link השדרוג על העליונה. </ Li> <li> לחץ על ניהול התכנית שלך. </ li> <li> בחר את מספר משתמשי Outlook להוסיף. </ li> <li> לחץ על הלחצן חשבון עדכון . </ li>
 crm.html.trial.deactivate.zti.instruction = משפט 15 ימיךעבור   &lrm;{0}&lrm;   PhoneBridge פג. כדי להמשיך להשתמש ב   &lrm;{0}&lrm;   PhoneBridge , אנא לשדרג את החשבון שלך על ידי ביצוע השלבים שניתנו below.To להמשיך להשתמש , בבקשה לשדרג את החשבון שלך על ידי ביצוע השלבים כדלקמן. <p> </p> <li> התחבר כדי { ​​0 } CRM . </ li> <li> לחץ על link השדרוג על העליונה. <li> </ li>בדף מנוי ניהול , לחץ על ניהוללמהדורה שלך. </ li> <li> תחת תוספותותוספות , בחר את מספר  &lrm;{0}&lrm;  משתמשי PhoneBridge מהרשימה הנפתחת. </ li> <li> לחץ על ' עזיבה ' </ li>
 crm.html.zohocrm.intro = &lrm;#BRANDLABEL CRM&lrm; נותן לך גמישות רבה כדי לארגן את העסק שלך, לתקשר ולשתף פעולה עם אנשי הקשר והחברים שלך.
@@ -411,7 +412,7 @@ crm.label.creator.error.noApps = אין יישומים שנמצאוב  &lrm;{0}
 crm.label.creator.noPermission.note1 = אין לך &lrm;{0}&lrm;  חשבון קריאיטור.
 crm.label.crmfieldlist =   &lrm;{0}&lrm;   CRM שדות
 crm.label.customfunction.publishingallery.desc = אם אתם מרגישים שהתפקוד שלך יכול להיות שימושי עבור אחרים , אתה יכול לפרסם את הפונקציה שלך ב  &lrm;{0}&lrm;   CRM הגלריה .
-crm.label.data.migration.help = דף זה עוזר לך להעביר נתוניםממערכות CRM אחרות  &lrm;{0}&lrm;  חשבון ה-CRM שלך.
+crm.label.data.migration.help = דף זה עוזר לך להעביר נתונים ממערכות CRM אחרות  &lrm;{0}&lrm;  חשבון ה-CRM שלך.
 crm.label.data.migration.help1 = לפני שמתחילבהעברת נתונים , ודא שכל השדות המותאמים אישית נוצרים ב &lrm;{0}&lrm;  חשבון ה-CRM שלך
 crm.label.databackup.purchase.thanks = <br> תודה על עשיית מנוי ל &lrm;#BRANDLABEL CRM&lrm; - שירות גיבוי נתונים . הנה המידע את המנוי שלך .
 crm.label.download.outlook.plugin = # 15 ימים BRANDLABEL CRM תוסף למשפט Microsoft Outlook
@@ -431,13 +432,13 @@ crm.label.myzohoapps.creator.useMyApp = יבוא Appמקריאיטור   &lrm;{
 crm.label.newrelatedlist.configureParameter.desc = מפתהטיעונים של הפונקציה עם &lrm;{0}&lrm;  שדות CRM המתאימים. ניתן גם לציין את הערכים המותאמים אישית לטענות .
 crm.label.outlook.edition =   &lrm;{0}&lrm;   CRM Plug-in עבור Microsoft Outlook
 crm.label.outlook.plugin =   &lrm;{0}&lrm;   CRM Plug-in עבור Microsoft Outlook
-crm.label.pagelayout.warning.alert = אזהרה: \ n סעיף מסופק על ידי   &lrm;{0}&lrm;   CRMוהוא מתורגםלמשתמשים בינלאומיים \ n מחיק זה יכול לגרום לשגיאת נתונים לא חוקית \ n \ n האם אתה בטוח שכדי להמשיך במחיקה . . ?
+crm.label.pagelayout.warning.alert = אזהרה: \ n סעיף מסופק על ידי   &lrm;{0}&lrm;   CRMוהוא מתורגם למשתמשים בינלאומיים \ n מחיק זה יכול לגרום לשגיאת נתונים לא חוקית \ n \ n האם אתה בטוח שכדי להמשיך במחיקה . . ?
 crm.label.purchase.mail.assure = שוב תודה על הבחירה #BRANDLABEL . <br>
-crm.label.purchase.mail.bestregards.sign = בברכה , <br>צוות #BRANDLABEL <br> CRM שיחה חינם: דוא"ל <br> # CALLFAX : : פקס <br> # # CALLPHONE SALESMAILID <br> <br> תאגיד Zoho | 4141 אסיינדה דרייב, Pleasanton , CA 94588 , <br> ארה"ב
+crm.label.purchase.mail.bestregards.sign = בברכה , <br>צוות #BRANDLABEL <br> CRM שיחה חינם: דוא"ל <br> # CALLFAX : פקס <br> # # CALLPHONE SALESMAILID <br> <br> תאגיד Zoho | 4141 אסיינדה דרייב, Pleasanton , CA 94588 , <br> ארה"ב
 crm.label.purchase.mail.thanks = <br> תודה שבחרת  &lrm;{0}&lrm; כספק השירות לניהול קשרי לקוחות שלך. <br> בבקשה למצוא פרטי הרכישה כאמור להלן
 crm.label.purchase.mail.thanks1 = תודה על עשיית מנוי עם שירות #BRANDLABELCRM . כתאריך הרכישה נופל עלתקופת המנוי הבאה, אתה לא תחויב החברה ,ויחויב רק בעת תהליך החידוש האוטומטי חוזר &lrm;#BRANDLABEL CRM&lrm; . להלן פרטי הרכישה.
 crm.label.rename.duplicate.module.reserve.entry = שם זה הוא מילה סטנדרטיתב  &lrm;{0}&lrm;   CRMולא ניתן להשתמש בם . נא להזיןשם Tab שונה
-crm.label.sheet.instructions = ניתן לצפות <li> רשומות מהתצוגה מותאמת אישית , מתעדכן באמצעות הגיליון . העמודה מזהה <li> </ li> חשובה מאוד , ולכן לא צריך להיות שונה / הוסר לעקביות הנתונים </ li> <li> שיא חדש ( ים) הוסיףבגיליון יתווסףב  &lrm;{0}&lrm;   CRM על חיסכוןsheet.No צריך לתת ערך מזהה להוספת שיא חדש </ li> <li> ודא שמקבלים ערכיםלכל עמודות החובה </ li> <li> רשומות יקבל עודכן / נוספו רק לאחרלחסוך כפתור לחיצה </ li > ערך <li> בתא יקבל נשמר רק בעת העברת המוקדמהתא ש< / li> <li> <b> שורות המקסימלי המוותרות היא 100 פעילויות </b> </ li> <li> המחיקה של רשומות מגיליון אינו נתמך </b> </ li> <li> <b>  &lrm;{0}&lrm;  תצוגת גיליון עדיין לא נתמכת על , תחזיותומודולים מלאי אחרים </b> </ li> <li> <b> עמודות חדשות שנוספו לא תבואנה לידי ביטויב  &lrm;{0}&lrm;   CRM </b> </ li>
+crm.label.sheet.instructions = ניתן לצפות <li> רשומות מהתצוגה מותאמת אישית , מתעדכן באמצעות הגיליון . העמודה מזהה <li> </ li> חשובה מאוד , ולכן לא צריך להיות שונה / הוסר לעקביות הנתונים </ li> <li> שיא חדש ( ים) הוסיףבגיליון יתווסףב  &lrm;{0}&lrm;   CRM על חיסכוןsheet.No צריך לתת ערך מזהה להוספת שיא חדש </ li> <li> ודא שמקבלים ערכים לכל עמודות החובה </ li> <li> רשומות יקבל עודכן / נוספו רק לאחרלחסוך כפתור לחיצה </ li > ערך <li> בתא יקבל נשמר רק בעת העברת המוקדמהתא ש< / li> <li> <b> שורות המקסימלי המוותרות היא 100 פעילויות </b> </ li> <li> המחיקה של רשומות מגיליון אינו נתמך </b> </ li> <li> <b>  &lrm;{0}&lrm;  תצוגת גיליון עדיין לא נתמכת על , תחזיותומודולים מלאי אחרים </b> </ li> <li> <b> עמודות חדשות שנוספו לא תבואנה לידי ביטויב  &lrm;{0}&lrm;   CRM </b> </ li>
 crm.label.tax.calculation =   &lrm;{0}&lrm;   CRM - התאמה אישית של שיעורי מס
 crm.label.tell.subject = אתם מוזמנים לפתוח  &lrm;{0}&lrm;   חשבון ה-CRM
 crm.label.tell.urfriends = לספר על CRM  &lrm;{0}&lrm;  לחברים שלך
@@ -480,7 +481,7 @@ crm.license.transactionnotok.line3 = אנחנו לא מסוגלים לנהל ס
 crm.license.transactionnotok.line31 = 1 . התחברל  &lrm;{0}&lrm;   CRM עם זכות למנהל .
 crm.license.transactionok.line11 = תודה לך על חידוש  &lrm;{0}&lrm;  חשבון ה-CRM שלך. אנא ראה את הפרטים הבאים :
 crm.ln.error.general = הייתה בעיהבקבלת הבקשה. אנא נסה שוב לאחר מתישהו. אם הבעיה נמשכת , שלח לנומייל ל &lrm;{0}&lrm; .
-crm.ln.error.general.retrive = הייתה בעיהבאחזור נתוניםמLinkedIn. אנא נסה שוב לאחר מתישהו. אם הבעיה נמשכת , שלח לנומייל ל &lrm;{0}&lrm; .
+crm.ln.error.general.retrive = הייתה בעיהבאחזור נתונים מLinkedIn. אנא נסה שוב לאחר מתישהו. אם הבעיה נמשכת , שלח לנומייל ל &lrm;{0}&lrm; .
 crm.ln.integ.instruction = האינטגרציה LinkedIn דורשת אימות LinkedIn. באפשרותך לנהל את אימות LinkedIn עבור   &lrm;{0}&lrm;   ה-CRM.
 crm.ln.saveImage.title = לחץ כדי לדחוף את התמונה ל  &lrm;{0}&lrm;   CRM
 crm.login.crmaccount = חדש   &lrm;{0}&lrm;   CRM ?
@@ -488,7 +489,7 @@ crm.login.data.migration.crm.helplink = להגר לCRM   &lrm;{0}&lrm;
 crm.login.data.migration.crm.helplink.info = לעבור מ -CRM האחר   &lrm;{0}&lrm;  
 crm.login.feature.email.content = עם &lrm;{0}&lrm;  דואר ההרחבה אתה יכול לעקוב אחר כל תכתובת הדואר האלקטרוני ללקוחות שלך בתוך   &lrm;{0}&lrm;   ה-CRM.
 crm.login.intro =   &lrm;{0}&lrm;   CRM היכרות " במחיר סביר 
-crm.login.inventory.management.message =   &lrm;{0}&lrm;   CRM מסמיך אותך כדי להשלים את הפעילות לאחר המכירה עםמערכת משולבת לניהול מלאי.
+crm.login.inventory.management.message =   &lrm;{0}&lrm;   CRM מסמיך אותך כדי להשלים את הפעילות לאחר המכירה עם מערכת משולבת לניהול מלאי.
 crm.login.other.zoho =   &lrm;{0}&lrm;   יישומים אחרים
 crm.login.outlook =   &lrm;{0}&lrm;   CRM Plug-in עבור Microsoft Outlook
 crm.login.outlook.message =   &lrm;{0}&lrm;   CRM משפר את הפרודוקטיביות שלך על ידי סנכרון אנשי קשר CRM , משימות , לוח שנה ומיילים ב-Outlook.
@@ -514,9 +515,9 @@ crm.login.signup.thanks.choosing.pro = תודה שבחרת   &lrm;{0}&lrm;   CR
 crm.login.support.service.message =   &lrm;{0}&lrm;   CRM מעסיק מארזים ופתרונות כדי לייעל את תהליך התמיכה בלקוחות שלך על ידי שילוב עם נתוני מכירות.
 crm.login.text = On-Demand CRM Software-as- a-Service (SaaS ) , CRM חינם, ניהול קשרי לקוחות - CRM  &lrm;{0}&lrm; 
 crm.login.tollfree = התקשר שיחה חינם :   &lrm;{0}&lrm;  
-crm.loginname.check.message2.forOtherAccount = class="font13 <p floatL">המשתמש הוא כבר חלק מעוד   &lrm;{0}&lrm;   CRM חשבון </ p > < כותרת="סגור"=גובה img class " MT1 floatR "=" " src=" / / img.zohostatic .com/crm/images/close1.gif " onclick=" hideFreezeMessage ( ' freezeMessageDiv '); " > <p class="clearB pB5"> </p> <b> ישנן שתי אפשרויות : </b> < עמ ' class=" PL10 " > 1 . צייןאת כתובת דואר אלקטרוני שונה. <br> 2 . אם אתה רוצה להשתמש באותה כתובת דוא"ל , בבקשה לשאול את המשתמש לשנות את כתובת הדואר האלקטרוני המשויכת לחשבון האחר. לפרטים נוספים : <" javascript: ; " href=onclick="openHelp('https://crmkbase.zoho.com/link/adding-an-existing-zoho-user-to-my-company-account')" class=" pL5 link2 " > לחץ כאן </a> . </p>
-crm.loginname.check.message2.forOtherAccount.ReInvite = class="font13 <p floatL">המשתמש שמנסה מחדש מזמין הוא כבר חלק מעוד   &lrm;{0}&lrm;   CRM חשבון . </ p > < כותרת img="סגור" class=" floatR MT1 " alt=" " src=" / / img.zohostatic.com/crm/images/close1.gif " onclick=" hideFreezeMessage ( ' errorDiv '); " > <p class="clearB pB5"> <b> ישנן שתי אפשרויות לפני שאתה מחדש - מזמין : class="pL10"> </b> <p 1 . צייןכתובת דוא"ל שונה עבור המשתמש. <br> 2 . אם אתה רוצה להשתמש באותה כתובת דוא"ל , בבקשה לשאול את המשתמש כדי לשנות את כתובת הדוא"ל המשויכתל  &lrm;{0}&lrm;   חשבון CRM האחר. לפרטים נוספים, < onclick="openHelp('https://crmkbase.zoho.com/link/adding-an-existing-zoho-user-to-my-company-account')" href=" javascript: ; " . > לחץ כאן </a> </p>
-crm.loginname.check.message2.forOtherAccount.ReInvite.viaLink = class="font13 <p floatL">המשתמש שמנסה מחדש מזמין הוא כבר חלק מעוד   &lrm;{0}&lrm;   CRM חשבון . </ p > < כותרת img="סגור" class=" floatR MT1 " alt=" " src=" / / img.zohostatic.com/crm/images/close1.gif " onclick=" hideFreezeMessage ( ' errorDiv '); " > <p class="clearB pB5"> <b> ישנן שתי אפשרויות לפני שאתה מחדש - מזמין : class="pL10"> </b> <p 1 . צייןכתובת דוא"ל שונה עבור המשתמש. <br> 2 . אם אתה רוצה להשתמש באותה כתובת דוא"ל , בבקשה לשאול את המשתמש כדי לשנות את כתובת הדוא"ל המשויכתל  &lrm;{0}&lrm;   חשבון CRM האחר. לפרטים נוספים, < onclick="openHelp('https://crmkbase.zoho.com/link/adding-an-existing-zoho-user-to-my-company-account')" href=" javascript: ; " . > לחץ כאן </a> </p>
+crm.loginname.check.message2.forOtherAccount = class="font13 <p floatL">המשתמש הוא כבר חלק מעוד   &lrm;{0}&lrm;   CRM חשבון </p> < כותרת="סגור"=גובה img class " MT1 floatR "=" " src=" / / img.zohostatic .com/crm/images/close1.gif " onclick=" hideFreezeMessage ( ' freezeMessageDiv '); " > <p class="clearB pB5"> </p> <b> ישנן שתי אפשרויות : </b> < עמ ' class=" PL10 " > 1 . צייןאת כתובת דואר אלקטרוני שונה. <br> 2 . אם אתה רוצה להשתמש באותה כתובת דוא"ל , בבקשה לשאול את המשתמש לשנות את כתובת הדואר האלקטרוני המשויכת לחשבון האחר. לפרטים נוספים : <" javascript: ; " href=onclick="openHelp('https://crmkbase.zoho.com/link/adding-an-existing-zoho-user-to-my-company-account')" class=" pL5 link2 " > לחץ כאן </a> . </p>
+crm.loginname.check.message2.forOtherAccount.ReInvite = class="font13 <p floatL">המשתמש שמנסה מחדש מזמין הוא כבר חלק מעוד   &lrm;{0}&lrm;   CRM חשבון . </p> < כותרת img="סגור" class=" floatR MT1 " alt=" " src=" / / img.zohostatic.com/crm/images/close1.gif " onclick=" hideFreezeMessage ( ' errorDiv '); " > <p class="clearB pB5"> <b> ישנן שתי אפשרויות לפני שאתה מחדש - מזמין : class="pL10"> </b> <p 1 . צייןכתובת דוא"ל שונה עבור המשתמש. <br> 2 . אם אתה רוצה להשתמש באותה כתובת דוא"ל , בבקשה לשאול את המשתמש כדי לשנות את כתובת הדוא"ל המשויכתל  &lrm;{0}&lrm;   חשבון CRM האחר. לפרטים נוספים, < onclick="openHelp('https://crmkbase.zoho.com/link/adding-an-existing-zoho-user-to-my-company-account')" href=" javascript: ; " . > לחץ כאן </a> </p>
+crm.loginname.check.message2.forOtherAccount.ReInvite.viaLink = class="font13 <p floatL">המשתמש שמנסה מחדש מזמין הוא כבר חלק מעוד   &lrm;{0}&lrm;   CRM חשבון . </p> < כותרת img="סגור" class=" floatR MT1 " alt=" " src=" / / img.zohostatic.com/crm/images/close1.gif " onclick=" hideFreezeMessage ( ' errorDiv '); " > <p class="clearB pB5"> <b> ישנן שתי אפשרויות לפני שאתה מחדש - מזמין : class="pL10"> </b> <p 1 . צייןכתובת דוא"ל שונה עבור המשתמש. <br> 2 . אם אתה רוצה להשתמש באותה כתובת דוא"ל , בבקשה לשאול את המשתמש כדי לשנות את כתובת הדוא"ל המשויכתל  &lrm;{0}&lrm;   חשבון CRM האחר. לפרטים נוספים, < onclick="openHelp('https://crmkbase.zoho.com/link/adding-an-existing-zoho-user-to-my-company-account')" href=" javascript: ; " . > לחץ כאן </a> </p>
 crm.loginname.check.message4.forAssociateUser = המשתמש עם כתובת דוא"ל זו כבר יש לו חשבון עם   &lrm;{0}&lrm;  . אנא שאל אתהמשתמש לקבל את ההזמנה על ידי לחיצה על link הגישהבדואר האלקטרוני שנשלח לכתובת הדואר האלקטרוני של המשתמש.
 crm.mail.merge.title =   &lrm;{0}&lrm;   CRM - מיזוג דואר תבניות
 crm.mailmerge.activelink = להפעיל / לבטל   &lrm;{0}&lrm;   CRM תוסף עבור משתמשי Microsoft Office
@@ -546,7 +547,7 @@ crm.mobile.common.heading = הגישה ה-CRM  &lrm;{0}&lrm; בהתקנים נ�
 crm.mobile.common.intro =   &lrm;{0}&lrm;   CRM המהדורה ניידת מאפשרת לך לגשת למידע של לקוחות מההתקנים הניידים שלך. ניתן להוריד ולהתקין את היישום כדי לקבל גישה מיידית לחשבון ה-CRM שלך , בכל מקום ובכל זמן .
 crm.mobile.common.shortintro =   &lrm;{0}&lrm;   CRM המהדורה ניידת מאפשרת לך לגשת למידע של לקוחות מההתקנים הניידים שלך.
 crm.mobile.contact.admin = אנא פנה למנהל   &lrm;{0}&lrm;   CRM שלך כדי לאפשר Edition הנייד עבור הארגון שלך.
-crm.mobile.edition.purchase.alert = כבר אפשרו למשפט 15 היוםלמהדורה ניידת . <a href="/crm/Security.do?actionName=manageSubscription&fm=tp"> לחץ כאן </a> כדי להירשםל  &lrm;{0}&lrm;   CRM Edition הנייד .
+crm.mobile.edition.purchase.alert = כבר אפשרו למשפט 15 היום למהדורה ניידת . <a href="/crm/Security.do?actionName=manageSubscription&fm=tp"> לחץ כאן </a> כדי להירשם ל  &lrm;{0}&lrm;   CRM Edition הנייד .
 crm.mobile.feature3 = לבצע שיחות ל  &lrm;{0}&lrm;   אנשי קשר CRM שלך
 crm.mobile.license.downgrade = רישיון Edition הנייד אתה כבר הוריד . אנא <a href="/crm/Security.do?actionName=manageSubscription&fm=tp"> הירשם </a> כדי להמשיך להשתמש   &lrm;{0}&lrm;   CRM Edition הנייד .
 crm.mobile.trademark.message = השמות ולוגו עבור   &lrm;{0}&lrm;   הם סימנים מסחריים של   &lrm;{0}&lrm;   קורפ כל סימני המסחר אחרים , מותגים, או שמות מוצרים שייכים לבעלי שלהם בהתאמה .
@@ -633,8 +634,8 @@ crm.planaccount8 =   &lrm;{0}&lrm;   CRM עבור QuickBooks
 crm.planaccount9 =  &lrm;{0}&lrm;  דואר על בתוספת
 crm.portal.setup.note1 = המשתמשים שנבחרו יתווספוכמנהלים ב  &lrm;{0}&lrm;   פרויקטים
 crm.prerequisities.step1 = מפתח ZSCמ  &lrm;{0}&lrm;   פרויקטים ראוי היה שנוצר
-crm.primary.contact.alert = מצטער , אתה לא יכול לבטל את משתמש זה כמו שהוא / היאאיש הקשר הראשי של  &lrm;{0}&lrm;  חשבון ה-CRM שלך. אנא , בחר משתמש אחרכאיש הקשר הראשיבדף ' פרטי חברה ' כדי לבטל למשתמש זה.
-crm.primary.profile.alert = מצטער, אתה לא יכול לשנות את הפרופיל של משתמש זה כמו שהוא / היאאיש הקשר הראשי עבור  &lrm;{0}&lrm;  חשבון ה-CRM שלך. איש הקשר הראשי צריך להיותפרופיל של מנהל מערכת.
+crm.primary.contact.alert = מצטערים , אתה לא יכול לבטל את משתמש זה כמו שהוא / היאאיש הקשר הראשי של  &lrm;{0}&lrm;  חשבון ה-CRM שלך. אנא , בחר משתמש אחרכאיש הקשר הראשיבדף ' פרטי חברה ' כדי לבטל למשתמש זה.
+crm.primary.profile.alert = מצטערים, אתה לא יכול לשנות את הפרופיל של משתמש זה כמו שהוא / היאאיש הקשר הראשי עבור  &lrm;{0}&lrm;  חשבון ה-CRM שלך. איש הקשר הראשי צריך להיותפרופיל של מנהל מערכת.
 crm.primarycontact.admin.message = עדכון אנא <a href="  &lrm;{0}&lrm;  "> <u color="#0000CC"> עדכן את</u> </a>איש הקשר הראשיב &lrm;{1}  ה-CRM.
 crm.primarycontact.home.tooltip = <b> של איש הקשר הראשי שלך   &lrm;{0}&lrm;   החשבון סגור. <br\> <br\> כדי לקבל הודעות לגבי כלעסקות , החשבונות ותקשורתמ  &lrm;{0}&lrm;   CRM , אנא עדכן אתפרטי איש הקשר הראשיים של ה-CRM  &lrm;{0}&lrm;  שלך חשבוןבדף פרטי החברה </b>
 crm.primarycontact.home.tooltip.deactive = <b> של איש הקשר הראשי שלך   &lrm;{0}&lrm;   CRM החשבון מבוטל. <br> <br> כדי לקבל הודעות לגבי כלעסקות , חשבונות ותקשורתמ  &lrm;{0}&lrm;   CRM , אנא עדכן אתפרטי איש הקשר הראשיים שלך  &lrm;{0}&lrm;   CRM חשבוןבדף פרטי החברה </b>
@@ -643,7 +644,7 @@ crm.prof.trial.expiry.three =   &lrm;{0}&lrm;   CRM הניסיון שלך יפ�
 crm.proj.causechangeportal = בעת הבחירהבפורטל פרויקט שונה, כלהפרויקטים הקשורים לפורטל "   &lrm;{0}&lrm;   " יימחקומ  &lrm;{0}&lrm;   ה-CRM. האם אתה עדיין רוצה לשנות את הפורטל ?
 crm.proj.clickchangelink = לחץ על ' שינוי ' כדי לקבוע את תצורת פורטל אחר. שים לב שברגע שאתה משנה את הפורטל, את כל הנתונים הקיימים הקשורים לפורטל לא יהיו זמינים ב  &lrm;{0}&lrm;   ה-CRM.
 crm.project.aboutproj =   &lrm;{0}&lrm;   פרויקטים אינטגרציה מאפשרת לך לתכנן, לבצע,ולפקח על פרויקטים של לקוחות ישירות מתוך  &lrm;{0}&lrm;  חשבון ה-CRM שלך.   &lrm;{0}&lrm;   פרויקטים אינטגרציה עם CRM עוזר לך :
-crm.project.aboutproj1 = להוסיף פרויקטים הקשורים ללקוחות שלךמCRM   &lrm;{0}&lrm;  
+crm.project.aboutproj1 = להוסיף פרויקטים הקשורים ללקוחות שלך מCRM   &lrm;{0}&lrm;  
 crm.project.aboutproj2 = לבצע את כל הפרויקטים בתוך   &lrm;{0}&lrm;   פרויקטים
 crm.project.aboutproj3 = הצג את המצב שלפרויקטים הקשורים ללקוחות שלך בתוך ה-CRM   &lrm;{0}&lrm;  
 crm.project.aboutprojnote =   &lrm;{0}&lrm;   פרויקטים אינטגרציה זמינה בתקן , מקצועיוEnterprise Edition. ניתן גם להיעזר אינטגרציה זאת על ידי מנסה לצאתגרסת הניסיון של מהדורות שהוזכרו.
@@ -651,7 +652,7 @@ crm.project.clientuser.note0 = <b>   &lrm;{0}&lrm;   </b> ו<b>  &lrm;{1}  </b>
 crm.project.clientuser.note2 = לקוח ,ב  &lrm;{0}&lrm;   פרויקטים , הוא חברה אוארגון (   &lrm;{0}&lrm;  ) שעבורההפרויקטים נעשים .
 crm.project.clientuser.note3 = משתמשים לקוח ניתן להוסיף ללקוח אחד בלבדב  &lrm;{0}&lrm;   פרויקטים .
 crm.project.clientuser.note4 =   &lrm;{0}&lrm;   אשר מתווספיםכמשתמשי לקוח יצטרכוגישה ב   &lrm;{0}&lrm;   פרויקטים . מכאן ואילך הם יהיו מסוגלים להציג את מידע פרויקט .
-crm.project.donthaveportal = אין לךפורטל הקשוריםלכתובת הדוא"ל שלך . יצירתפורטל או להגדיר פורטל \ 's משתמש אחר להשתמש   &lrm;{0}&lrm;   פרויקטים אינטגרציה .
+crm.project.donthaveportal = אין לךפורטל הקשורים לכתובת הדוא"ל שלך . יצירתפורטל או להגדיר פורטל \ 's משתמש אחר להשתמש   &lrm;{0}&lrm;   פרויקטים אינטגרציה .
 crm.project.error.notaddedclients = משתמש הלקוח (ים ) <b class="dim">   &lrm;{0}&lrm;   < / b > לא התווסףלפרויקט כפי שהם הוסיפוללקוח אחרב  &lrm;{0}&lrm;   פרויקטים . אתה יכול לשנות את כתובת הדוא"ל שלהמשתמשים ולהוסיף אותם לפרויקט זה.
 crm.project.genzsckey = צור ZSC מפתחב  &lrm;{0}&lrm;   פרויקטים
 crm.project.intro =   &lrm;{0}&lrm;   פרויקטים אינטגרציה מאפשרת לך לתכנן, לבצע,ולפקח על פרויקטים של לקוחות ישירות מתוך  &lrm;{0}&lrm;  חשבון ה-CRM שלך.
@@ -661,7 +662,7 @@ crm.project.pleasechooseuser = בחר  &lrm;{0}&lrm;  משתמשי ה-CRM
 crm.project.portal.alreadyportalavailable.label = אתה הבעלים של פורטלב  &lrm;{0}&lrm;   פרויקטים . לשייך את הפורטל שלךל  &lrm;{0}&lrm;   ה-CRM.
 crm.project.portal.causeofuninsatll = אתה מנסה לבטל את  &lrm;{0}&lrm;  פרויקטים האינטגרציה מן   &lrm;{0}&lrm;   ה-CRM. שים לב שכלהפרויקטים בפורטל הקשורים יימחקוב  &lrm;{0}&lrm;   ה-CRM.
 crm.project.portal.datalose = בעת הבחירהבפורטל פרויקט שונה, כל המידע הקשור ל<b> פורטל  &lrm;{0}&lrm;  </b> ייאבדמ &lrm;{1}  ה-CRM. האם אתה עדיין רוצה לשנות את הפורטל ?
-crm.project.portal.installedportal = { 4 } הפרויקטים האינטגרציה מופעלתו<b> הפורטל  &lrm;{0}&lrm;  </b> קשורל{ 4 } חשבון ה-CRM שלך. עכשיו אתה יכול ליצור או לשייך פרויקטיםמ &lrm;{1}  , {2},ו{ 3} מודולים.
+crm.project.portal.installedportal = { 4 } הפרויקטים האינטגרציה מופעלתו<b> הפורטל  &lrm;{0}&lrm;  </b> קשורל{ 4 } חשבון ה-CRM שלך. עכשיו אתה יכול ליצור או לשייך פרויקטים מ &lrm;{1}  , {2},ו{ 3} מודולים.
 crm.project.portal.noportalavailable.label = אתה לא בעלים שלפורטלב  &lrm;{0}&lrm;   פרויקטים . יצירתפורטל חדשולשייך אותו לחשבון שלך
 crm.project.portal.note = המשתמשים שנבחרו יתווספוכמנהלים ב  &lrm;{0}&lrm;   פרויקטים . מנהלב  &lrm;{0}&lrm;   פרויקטים יש את כל ההרשאותבפורטל כמו הוספת פרויקטים חדשים, תיקיות, להוסיף / להסיר משתמשים , להוסיף / עריכה / מחיקה של משימות ופגישות בלוח זמנים.
 crm.project.portal.noteremaining = כדי ללמוד יותר עלהתפקידים ב  &lrm;{0}&lrm;   פרויקטים .
@@ -675,10 +676,10 @@ crm.project.projuser.note2remaining = כדי ללמוד יותר עלהתפקי
 crm.project.remove.warning = הפרויקט הנבחר יוסר מ  &lrm;{0}&lrm;   CRM אך לאמ  &lrm;{0}&lrm;   פרויקטים . האם ברצונך להמשיך ?
 crm.project.selectprivileges = בחר את ההרשאות עבור  &lrm;{0}&lrm;  משתמשי ה-CRM
 crm.project.setup = גדר '  &lrm;{0}&lrm;   פרויקטים אינטגרציה
-crm.project.upgradelicense = אתה לא יכול להוסיף עוד פרויקטיםמ &lrm;{0}&lrm;  חשבון ה-CRM שלך. אתה מנסה להוסיף פרויקטיםשעולים על  &lrm;{0}&lrm;  פרויקטים הגבלת הרישיון שלך . שדרוג   &lrm;{0}&lrm;   פרויקטים חשבון להוסיף עוד פרויקטים
+crm.project.upgradelicense = אתה לא יכול להוסיף עוד פרויקטים מ &lrm;{0}&lrm;  חשבון ה-CRM שלך. אתה מנסה להוסיף פרויקטיםשעולים על  &lrm;{0}&lrm;  פרויקטים הגבלת הרישיון שלך . שדרוג   &lrm;{0}&lrm;   פרויקטים חשבון להוסיף עוד פרויקטים
 crm.project.warning.head =   &lrm;{0}&lrm;   פרויקטים
 crm.project.warning.msg = המשתמשים עםכתובות הדואר האלקטרוני הבאות הם חלק מ  &lrm;{0}&lrm;   פרויקטים .
-crm.project.warning.msgcontinue = אנא שים לב כי מנוטרל פעם אחת,המשתמשים יכולים עדיין להמשיך לעבוד עלהפרויקטיםמ  &lrm;{0}&lrm;   הפרויקטים החשבון שלהם.
+crm.project.warning.msgcontinue = אנא שים לב כי מנוטרל פעם אחת,המשתמשים יכולים עדיין להמשיך לעבוד עלהפרויקטים מ  &lrm;{0}&lrm;   הפרויקטים החשבון שלהם.
 crm.project.zohoproject =   &lrm;{0}&lrm;   פרויקטים
 crm.pulse.limit.notification.mail.note1 = זאת על מנת להודיע ​​לך שיש לך חרגה מהמגבלה המרבית של זרימת עבודה מעקב רשומות מותר במהדורת Enterprise של CRM   &lrm;{0}&lrm;  
 crm.pulse.limit.notification.subject =   &lrm;{0}&lrm;   CRM - Workflow Followup מגבלת חריגה
@@ -690,12 +691,12 @@ crm.qbook.expiry.subject =   &lrm;{0}&lrm;   CRM - משפט 15 ימים QuickBo
 crm.quickbook.datatransfer.export = יצואמ  &lrm;{0}&lrm;   CRMלQuickBooks
 crm.quickbook.datatransfer.exportnote = דף זה מסייע ליצוא נתונים מ  &lrm;{0}&lrm;   CRM לעדכןבQuickBooks .
 crm.quickbook.datatransfer.import = יבואמQuickBooksלCRM   &lrm;{0}&lrm;  
-crm.quickbook.datatransfer.importnote = דף זה מסייע ליבוא נתוניםמQuickBooks לעדכןב  &lrm;{0}&lrm;   ה-CRM.
+crm.quickbook.datatransfer.importnote = דף זה מסייע ליבוא נתונים מQuickBooks לעדכןב  &lrm;{0}&lrm;   ה-CRM.
 crm.quickbook.datatransfer.lable1 = <b> יבוא </b> [ QuickBooksל  &lrm;{0}&lrm;   CRM ]
 crm.quickbook.datatransfer.lable2 = <b> יצוא </b> [ CRM   &lrm;{0}&lrm;   כדי QuickBooks ]
 crm.quickbook.datatransfer.lable3 = <b> סנכרן </b> [ QuickBooks < ->  &lrm;{0}&lrm;  CRM ]
 crm.quickbook.datatransfer.note2 = לאחרהסנכרון הראשון , אם בכלל שיא הוא שונה גם ב  &lrm;{0}&lrm;   CRM אובQuickBooks,השינויים יתקיימו רקבסנכרון הבא .
-crm.quickbook.datatransfer.note3 = רשומות QB חדש שנוצרו יתווספוב  &lrm;{0}&lrm;   CRM , רק אםמצב העברת הנתונים שנבחר הוא יבוא או סינכרון.
+crm.quickbook.datatransfer.note3 = רשומות QB חדש שנוצרו יתווספוב  &lrm;{0}&lrm;   CRM , רק אם מצב העברת הנתונים שנבחר הוא יבוא או סינכרון.
 crm.quickbook.datatransfer.note4 = לסנכרן את הנתונים כדי לעדכןב  &lrm;{0}&lrm;   CRMובQuickBooks . אתה יכול לתעדף את הנתונים תוך סנכרון בין   &lrm;{0}&lrm;   CRM ו QuickBooks .
 crm.quickbook.datatransfer.note5 = דף זה מסייע ליצוא נתונים מ  &lrm;{0}&lrm;   CRM לעדכןבQuickBooks .
 crm.quickbook.datatransfer.sync = לסנכרן [ QuickBooks < ->  &lrm;{0}&lrm;  CRM ]
@@ -724,7 +725,7 @@ crm.quickbooks.step4Note1 = התאם אזור זמן שולחן העבודה ש
 crm.quickbooks.subscription.expired = המינוי שלך כבר פג , אם ברצונך להשתמש   &lrm;{0}&lrm;   CRM עבור QuickBooks חביבות להירשם שוב
 crm.quickbooks.subscription.statusmsg =   &lrm;{0}&lrm;   CRMלמצב מנוי QuickBooks
 crm.quickbooks.trial.expired = ניסיון חינם כבר פג , אם ברצונך להשתמש   &lrm;{0}&lrm;   CRM עבור QuickBooks נוסף בחביבות להירשם
-crm.quickbooks.trial.period = נסה   &lrm;{0}&lrm;   CRM עבור QuickBooks בחינםל15 ימים
+crm.quickbooks.trial.period = נסה   &lrm;{0}&lrm;   CRM עבור QuickBooks בחינם ל15 ימים
 crm.quickbooks.whatis.answer =   &lrm;{0}&lrm;   CRM עבור QuickBooks עוזר לך לשמור רשומות עד עדכני בשני   &lrm;{0}&lrm;   CRM ו QuickBooks . אתה יכול להשתמש באפשרויות היבוא, יצואולסנכרן כדי להעביר נתונים באופן ידני או באופן אוטומטי ולהפחית את ערכי נתונים כפולים.
 crm.quickbooks.whatis.question = מה הוא   &lrm;{0}&lrm;   CRM עבור QuickBooks ?
 crm.quickbooks.zohocrmfields =   &lrm;{0}&lrm;   CRM שדות
@@ -752,9 +753,9 @@ crm.reports.integ.mustread3 =  &lrm;{0}&lrm;  דוחות חשבון ייווצ�
 crm.reports.integ.mustread4 =   &lrm;{0}&lrm;   CRM יהיה מסונכרן עם דיווחי   &lrm;{0}&lrm;  לכל 24 שעות.
 crm.reports.integ.mustread5 = אם אתה משתף את מסד נתונים שנוצרו באמצעות   &lrm;{0}&lrm;   CRM , ולאחר מכן המשתמש המשותף הוא מסוגל לייצא את הנתונים .
 crm.reports.integ.poweredby = מופעל על ידי   &lrm;{0}&lrm;   דוחות
-crm.reports.integ.sales.analytics.info = נתוניםמהמודולים הבאים יהיו דחףל &lrm;{0}&lrm;  דוחות.
-crm.reports.integ.select.fields.info = רקשדות הנבחריםמכל מודול יהיה דחףל &lrm;{1}  דוחות.
-crm.reports.integ.sync.error = מצטער,שגיאה בלתי צפויה התרחשה במהלך תהליך סנכרון . השגיאה נרשמהונהיה ניתחתי אותו . <br> בבינתיים , זה ממש ניכר , אם אתה יכול לספק לנו מידע נוסף ל &lrm;{0}&lrm; .
+crm.reports.integ.sales.analytics.info = נתונים מהמודולים הבאים יהיו דחףל &lrm;{0}&lrm;  דוחות.
+crm.reports.integ.select.fields.info = רקשדות הנבחרים מכל מודול יהיה דחףל &lrm;{1}  דוחות.
+crm.reports.integ.sync.error = מצטערים,שגיאה בלתי צפויה התרחשה במהלך תהליך סנכרון . השגיאה נרשמהונהיה ניתחתי אותו . <br> בבינתיים , זה ממש ניכר , אם אתה יכול לספק לנו מידע נוסף ל &lrm;{0}&lrm; .
 crm.reports.integ.sync.problem = בעיהבנתונים סינכרון עם   &lrm;{0}&lrm;   דוחות
 crm.reports.integ.sync.time.info = בחר את הזמן שלך כדי לדחוף את הנתוניםכל יום כדי { ​​0 } דוחות
 crm.reports.integration.config =  &lrm;{0}&lrm;  דוחות תצורה
@@ -762,7 +763,7 @@ crm.reports.integration.important.notes3 = נתונים מ<strong>   &lrm;{0}&l
 crm.reports.integration.short.note =  &lrm;{0}&lrm;  דוחות אינטגרציה מאפשרת לך לנתח  &lrm;{0}&lrm;  נתונים CRM שלךוליצור דוחותולוחות מחוונים תובנה.
 crm.reports.integration.title =   &lrm;{0}&lrm;   דוחות
 crm.security.company.ccard.info = <b> תשומת לב למשתמשים בתשלום </b> : אנא עדכן את פרטי כרטיס אשראי שלך אם שינית את הקשר העיקרי שלך ב  &lrm;{0}&lrm;   ה-CRM. פרטי כרטיס האשראי צריכים להיות מעודכנים עםאנשי הקשר הראשיים החדשים , כך שכלמיילים פרטי התשלום קשורים נשלחים לאיש הקשר הראשי החדש .
-crm.security.sharing.rules.info = דף זה מסייע לך לנהל את כללי שיתוף עבור כל המודולים וגםלהגדרות ברירת מחדל של שיתוף ארגון . מכאן כללי { ​​0 } CRM יהיה להגדיר את רמת הגישה לנתונים אחד של השני .
+crm.security.sharing.rules.info = דף זה מסייע לך לנהל את כללי שיתוף עבור כל המודולים וגם להגדרות ברירת מחדל של שיתוף ארגון . מכאן כללי { ​​0 } CRM יהיה להגדיר את רמת הגישה לנתונים אחד של השני .
 crm.security.viewallemailtemps = CRM   &lrm;{0}&lrm;   - כל תבניות דוא"ל
 crm.setup.zoho.apps =   &lrm;{0}&lrm;   Apps
 crm.sign.in =   &lrm;{0}&lrm;   CRM - היכנס
@@ -782,26 +783,26 @@ crm.store.no.of.zmail = מספר  &lrm;{0}&lrm;  הדואר Add-on
 crm.store.officeplugin.tooltip =   &lrm;{0}&lrm;   CRM Plug-in עבור Microsoft Office מסייע לך ליצור מסמכי מיזוג דואר , כגון טופס מכתבים , תוויות כתובת , מעטפות ומסמכים אחרים המבוססים על נתוני לקוחות מ  &lrm;{0}&lrm;   ה-CRM.
 crm.store.outlook.thanks = תודה לך על הזמנת   &lrm;{0}&lrm;   CRM תוסף עבור רישיונות של Microsoft Outlook. אתה יכול להפעיל את  &lrm;{1}  CRM תוסף עבור Microsoft Outlook עבור משתמשים מכאן.
 crm.store.outlook.tooltip =   &lrm;{0}&lrm;   CRM Plug-in עבור Microsoft Outlook עוזר לך לסנכרן אנשי קשר , לוח שנה ומשימות בין Microsoft Outlook ו   &lrm;{0}&lrm;   ה-CRM. כמו כן, להוסיף מיילים נכנסים ויוצאים Outlook עם הובלות או מגעים ב  &lrm;{0}&lrm;   ה-CRM.
-crm.store.thanks = <b> תודה שנרשם עם  &lrm;{0}&lrm;  CRM . </b> <br> לפרטים , עייןבדוא"ל שנשלח . <ul> <li> משתמשים שיש להם מנוילרישיונות שימוש נוספים,   &lrm;{0}&lrm;   CRM תוסף עבור Microsoft Outlook, Office Plug-in או  &lrm;{0}&lrm;  דואר Add-On , יכול ללחוץ <a href='/crm/License.do?actionType=LicenseUsers' class='link'> כאן </a> כדי להפעיל את רישיונות שימוש שלהם . </ li> <li> כל משתמש יכול להירשםל  &lrm;{0}&lrm;   CRMמדוא"ל לנהל את מנויי Page.An , עם הפרטים שלמנוי, יישלחלזיהוי הדואר האלקטרוני שצוין בעת ההרשמה. </ li> < li > עם זאת, כל המיילים חידוש <b> נוספים יישלחולזיהוי דוא"ל איש הקשר הראשי </b> שצוין בחברת דף פרטים. </ li> </ ul>
+crm.store.thanks = <b> תודה שנרשם עם  &lrm;{0}&lrm;  CRM . </b> <br> לפרטים , עייןבדוא"ל שנשלח . <ul> <li> משתמשים שיש להם מנוילרישיונות שימוש נוספים,   &lrm;{0}&lrm;   CRM תוסף עבור Microsoft Outlook, Office Plug-in או  &lrm;{0}&lrm;  דואר Add-On , יכול ללחוץ <a href='/crm/License.do?actionType=LicenseUsers' class='link'> כאן </a> כדי להפעיל את רישיונות שימוש שלהם . </ li> <li> כל משתמש יכול להירשם ל  &lrm;{0}&lrm;   CRMמדוא"ל לנהל את מנויי Page.An , עם הפרטים שלמנוי, יישלחלזיהוי הדואר האלקטרוני שצוין בעת ההרשמה. </ li> < li > עם זאת, כל המיילים חידוש <b> נוספים יישלחולזיהוי דוא"ל איש הקשר הראשי </b> שצוין בחברת דף פרטים. </ li> </ ul>
 crm.store.user.tooltip = משתמשים יכולים להיכנס ל &lrm;{0}&lrm;  חשבון ה-CRM שלך, נתוני CRM הגישה ולהשתמש בפונקציות שונות בהתאם להרשאות שלהם המוגדרות על ידימנהל המערכת.
 crm.store.zmail.tooltip =  &lrm;{0}&lrm;  דואר על בתוספת מסייע לך לנהל את כל המיילים שלך לקוח תוך   &lrm;{0}&lrm;   CRMוגם שיחת עמית דוא"ל עם נתוני ה-CRM ( הפניות, אנשי קשרופוטנציאלים ) .
-crm.store.zsupport.tooltip =  &lrm;{0}&lrm;  תמיכת אינטגרציה עוזרת לך להציג את כלכרטיסי תמיכה הקשוריםלהובלותומגעים ב  &lrm;{0}&lrm;   ה-CRM.
+crm.store.zsupport.tooltip =  &lrm;{0}&lrm;  תמיכת אינטגרציה עוזרת לך להציג את כלכרטיסי תמיכה הקשורים להובלותומגעים ב  &lrm;{0}&lrm;   ה-CRM.
 crm.store.zti.tooltip =   &lrm;{0}&lrm;   PhoneBridge עוזר לכם לבצע שיחות נכנסות ויוצאות מבפנים   &lrm;{0}&lrm;   CRMוגם לנהל יומני קריאה .
 crm.successful.added.message = אתה נוסף בהצלחהל  &lrm;{0}&lrm;   ה-CRM.
 crm.successful.signup.message = יש לך נרשם בהצלחה ל -CRM   &lrm;{0}&lrm;  
-crm.support.com = # SUPPORTMAILID
+crm.support.com = #SUPPORTMAILID
 crm.support.try.implement = מנסה ליישם   &lrm;{0}&lrm;   CRM עבור הארגון שלי
 crm.task.notification.subject =   &lrm;{0}&lrm;   CRM - מייל הודעת המשימה
 crm.task.notification.subject1 =   &lrm;{0}&lrm;   CRM - הודעת תזכורת למשימה
-crm.task.reminder.mail.title1 =   &lrm;{0}&lrm;   CRM - יש לךמשימה חדשה ( נושא:
+crm.task.reminder.mail.title1 =   &lrm;{0}&lrm;   CRM - יש לך משימה חדשה ( נושא:
 crm.template.email.signature =   &lrm;{0}&lrm;   CRM - חתימה
 crm.template.security.error = המערכת שלנו היא לא הצליח לעבד את התוכן שלך, אנא צור קשר עם <a href="mailto:  &lrm;{0}&lrm;  " class="link">   &lrm;{0}&lrm;   </a>.
 crm.terms.accept.alert = אנא קראו וקיבלתי את תנאי שירות CRM   &lrm;{0}&lrm;  
 crm.terms.accept.message = תנאי שירות CRM   &lrm;{0}&lrm;  
-crm.terms.agree.message = נא לקרוא ולהסכיםל  &lrm;{0}&lrm;   <a class="link" href="//www.zoho.com/crm/zohocrm-terms.html" target="_blank"> תנאי ה-CRM של שירות </a> < img src=" / / img.zohostatic.com / CRM / תמונות / popOut.png " alt="=הclass " פופ " " / > כדי להמשיך הלאה.
+crm.terms.agree.message = נא לקרוא ולהסכים ל  &lrm;{0}&lrm;   <a class="link" href="//www.zoho.com/crm/zohocrm-terms.html" target="_blank"> תנאי ה-CRM של שירות </a> < img src=" / / img.zohostatic.com / CRM / תמונות / popOut.png " alt="=הclass " פופ " " / > כדי להמשיך הלאה.
 crm.terms.title =   &lrm;{0}&lrm;   CRM - תנאי השירות
 crm.terms.update.message =יש לנו שפורסם <u> <a href="//www.zoho.com/crm/zohocrm-terms.html" target="_blank" class="skyBluTxt"> מונחים ספציפיים עבור   &lrm;{0}&lrm; CRM</a> </u> . תנאים אלה יחולו בנוסףל<u> <a class="skyBluTxt" target="_blank" href="//www.zoho.com/terms.html"> תנאים כלליים של שירות </a> </u>
-crm.territory.disable.mailto.note = האם תיידע אותנוב# SUPPORTMAILID אם אנחנו יכולים להתערב כדי לעזור לך עםהתהליך.
+crm.territory.disable.mailto.note = האם תיידע אותנוב#SUPPORTMAILID אם אנחנו יכולים להתערב כדי לעזור לך עםהתהליך.
 crm.territory.disable.msg = זה כדי להודיע ​​לך כי שם <b> # </b> , אחד מהמנהלים של חשבון ה-CRM #BRANDLABEL יש ניהול טריטוריה נכים עבור הארגון שלך .
 crm.territory.enable.msg = זה כדי להודיע ​​לך כי שם <b> # </b> , אחד מהמנהלים של חשבון ה-CRM #BRANDLABELאפשר ניהול טריטוריה עבור הארגון שלך .
 crm.territory.schedule.mail.content.failure1 = בבקשה להפעיל את כללי השטח שוב . אם יש לך בעיה שוב , לכתוב  &lrm;{0}&lrm;  לקבלת סיוע.
@@ -980,7 +981,7 @@ crm.title.workflow.edit.rule =   &lrm;{0}&lrm;   CRM - כלל עריכת זרי
 crm.title.workflow.edit.task =   &lrm;{0}&lrm;   CRM - עריכת משימה זרימת העבודה
 crm.title.workflow.new.alert =   &lrm;{0}&lrm;   CRM - חדשות עבודת התראה
 crm.title.workflow.new.fieldupdate = CRM   &lrm;{0}&lrm;   - חדשות עבודת שדה עדכון
-crm.title.workflow.new.rule.step1 =   &lrm;{0}&lrm;   CRM - בחר סוג רשוםלכלל זרימת העבודה
+crm.title.workflow.new.rule.step1 =   &lrm;{0}&lrm;   CRM - בחר סוג רשום לכלל זרימת העבודה
 crm.title.workflow.new.rule.step2 =   &lrm;{0}&lrm;   CRM - כלל זרימת העבודה חדשה
 crm.title.workflow.new.task =   &lrm;{0}&lrm;   CRM - ניו משימה זרימת העבודה
 crm.title.workflow.rule.security =   &lrm;{0}&lrm;   CRM - שגיאת האבטחה: זרימת עבודה כללים
@@ -1015,11 +1016,11 @@ crm.webform.iframe.tooltip =   &lrm;{0}&lrm;   CRM לא לאמת את שם הד
 crm.webtab.titlemsg = כרטיסיות אינטרנט לעזור לך לפתוח דפי אינטרנט כמו דפי אינטראנט , הודעות לחברה כולה , יישומי אינטרנט , וכו ' בתוך   &lrm;{0}&lrm;   ה-CRM. ניתן לצפות בכרטיסיות אלה על ידי  &lrm;{0}&lrm;  משתמשי ה-CRM בארגון. ניתן גם ליצור יישומים באמצעות   &lrm;{0}&lrm;   קריאיטור שלך ולגשת אליהם בתוך   &lrm;{0}&lrm;   ה-CRM.
 crm.webtocase.contact.enable.instruction =   &lrm;{0}&lrm;   ייווצר בעת הגשת &lrm;{1} ויהיה קשורלהתאמה  &lrm;{1} .   &lrm;{0}&lrm;   ייווצר רק אם זה לא קיים ב{2} CRM .
 crm.welcome.to.zohocrm.title = ברוך הבא ל-CRM   &lrm;{0}&lrm;  
-crm.wfDeluge.errorMessage.dueToUnComfirmedEmail.Description = מצטער, לא ניתן ליצורהפונקציה המותאמת אישית . <br> בבקשה לאמת את כתובת הדוא"ל שלך כדי לאשר את רישום החשבון שלך עם   &lrm;{0}&lrm;   ה-CRM.
+crm.wfDeluge.errorMessage.dueToUnComfirmedEmail.Description = מצטערים, לא ניתן ליצורהפונקציה המותאמת אישית . <br> בבקשה לאמת את כתובת הדוא"ל שלך כדי לאשר את רישום החשבון שלך עם   &lrm;{0}&lrm;   ה-CRM.
 crm.wfDeluge.limit.nofity.Message = יקר   &lrm;{0}&lrm;   , <br> זה הוא להודיע​​ששיחת מבול זרימת העבודה הגבול חרגליום. כלשיחות המבול שנותרו שנקבעו להיום לא תבוצענה . <br> <br> שים לב שרקמרבי של  &lrm;{1}  שיחות מבול יכול להתבצע באמצעות זרימת עבודה. <br> לכל הבהרה , אנא צור איתנו קשר ב {2} <br> <br> בברכה, <br> צוות {3} ה-CRM.
 crm.wfDeluge.limit.nofity.Message.forTrialUser = יקר   &lrm;{0}&lrm;   , <br> זה הוא להודיע​​שהפונקציות מותאמות אישית עבודה קוראת למגבלה חרגהליום. כלשיחות funtions המותאם אישית שנותרו שנקבעו להיום לא תבוצענה . <br> <br> שים לב שרקמרבי של  &lrm;{1}  מבול שיחות יכולים להתבצע באמצעות זרימת עבודה במהלך תקופת הניסיון שלך. <br> לכל הבהרה , אנא צור קשר שלנוב{2} <br> <br> בברכה, <br> צוות {3} ה-CRM.
-crm.workflow.alert.limit.nofity.Message = יקר   &lrm;{0}&lrm;   , <br> זה להודיע ​​כי מגבלת התראת זרימת העבודה חרגהליום. כלההתראות שנותרו שנקבעו להיוםללקוחות לא יישלחו . <br> <br> שים לב שרקמרבי של  &lrm;{1}  מיילים / יום ניתן לשלוחללקוחות המשתמשים בזרימת עבודת התראות. <br> לכל הבהרה , אנא פנה אלינוב{2} <br> <br> בברכה, <br> צוות {3} ה-CRM.
-crm.workflow.alert.limit.nofity.Message.forTrialUser = יקר   &lrm;{0}&lrm;   , <br> זה להודיע ​​כי מגבלת התראת זרימת העבודה חרגהליום. כלההתראות שנותרו שנקבעו להיוםללקוחות לא תישלח . <br> <br> שים לב שרקמרבי של  &lrm;{1}  מיילים / יום ניתן לשלוחללקוחות באמצעות התראות זרימת עבודה במהלך תקופת הניסיון שלך. על השדרוגלEnterprise Edition, תוכל לשלוח מרבי {2} מיילים / יום ללקוחות. לכל הבהרה , אנא צור איתנו קשר ב {3} <br> <br> בברכה, <br> צוות { 4 } ה-CRM.
+crm.workflow.alert.limit.nofity.Message = יקר   &lrm;{0}&lrm;   , <br> זה להודיע ​​כי מגבלת התראת זרימת העבודה חרגהליום. כלההתראות שנותרו שנקבעו להיום ללקוחות לא יישלחו . <br> <br> שים לב שרקמרבי של  &lrm;{1}  מיילים / יום ניתן לשלוחללקוחות המשתמשים בזרימת עבודת התראות. <br> לכל הבהרה , אנא פנה אלינוב{2} <br> <br> בברכה, <br> צוות {3} ה-CRM.
+crm.workflow.alert.limit.nofity.Message.forTrialUser = יקר   &lrm;{0}&lrm;   , <br> זה להודיע ​​כי מגבלת התראת זרימת העבודה חרגהליום. כלההתראות שנותרו שנקבעו להיום ללקוחות לא תישלח . <br> <br> שים לב שרקמרבי של  &lrm;{1}  מיילים / יום ניתן לשלוחללקוחות באמצעות התראות זרימת עבודה במהלך תקופת הניסיון שלך. על השדרוגלEnterprise Edition, תוכל לשלוח מרבי {2} מיילים / יום ללקוחות. לכל הבהרה , אנא צור איתנו קשר ב {3} <br> <br> בברכה, <br> צוות { 4 } ה-CRM.
 crm.workflow.deluge.showAllList.description = פונקציות מותאמות אישית נכתבות באמצעות סקריפטים מבול כדי לתפעל ביעילות נתונים , לתקשר עם יישומי צד שלישי ולעדכן את התגובהב  &lrm;{0}&lrm;   ה-CRM.
 crm.workflow.rule.label.ActionsToDo.FollowUp.timeZoneDescription = עבור פעולות מבוססות זמן,זמן ביצוע יחושב על בסיס {2} CRM שלך  &lrm;{0}&lrm;  ארגון אזור זמן  &lrm;{1} . אםארגון אזור הזמן לא צוין,האזור שלאיש הקשר הראשי הזמן יהיה להשתמש כדי לחשב את זמן ביצוע.
 crm.workflow.timebased.limit.notify.Message = יקר {2} , <br> זה להודיע ​​כי מגבלת זמן הפעולה מבוססת זרימת עבודה חרגהליום. פעולות המבוססות כל הזמן שנותר שנקבעו להיום לא תבוצענה . <br> <br> שים לב שרקמרבי של {3} ניתן לבצע פעולות מבוססות זמן באמצעות זרימת עבודה. <br> לכל הבהרה , אנא צור איתנו קשר ב  &lrm;{1}  <br> <br> בברכה, צוות <br>   &lrm;{0}&lrm;   ה-CRM.
@@ -1032,7 +1033,7 @@ crm.writer.intro =   &lrm;{0}&lrm;   סופר הואמעבד תמלילים מ�
 crm.writer.intro.note1 = מה הוא   &lrm;{0}&lrm;   סופר על בתוספת
 crm.writer.intro.note2 =   &lrm;{0}&lrm;   סופר הואמעבד תמלילים מקווןשמשולב עם  &lrm;{0}&lrm;  CRM כדי ליצור תבניות מיזוג דואר ולמזג מסמכים מקוונים באמצעות מוליכים, חשבונות , אנשי קשר ופרטי פוטנציאלים . אתה יכול להשתמש בפונקציה זו , ללא הורדה וההתקנה של תוכנה כלשהי.
 crm.writer.intro.note3 = ליצור תבניות מיזוג דוארבסופר   &lrm;{0}&lrm;  
-crm.writer.intro.note4 = בחר מוביל, חשבונות , אנשי קשר או פוטנציאליםמCRM   &lrm;{0}&lrm;  
+crm.writer.intro.note4 = בחר מוביל, חשבונות , אנשי קשר או פוטנציאלים מCRM   &lrm;{0}&lrm;  
 crm.writer.intro.note5 = צור מסמכי מיזוג דואר על ידי מיזוג נתוני CRM עם  &lrm;{0}&lrm;  תבנית סופר
 crm.writer.intro.note6 =   &lrm;{0}&lrm;   סופר על בתוספת זמין רקבמקצועי<strong> class="greenColor"> <span </strong> </ span>ו<span class="greenColor"> <strong> ארגוני </strong> < / span > מהדורה .
 crm.writer.mailmerge.setting.note1 = ליצור תבניות באמצעות סופר   &lrm;{0}&lrm;   או יבוא של Microsoft Word תבניות ולארגן אותם בתיקיות שונות.
@@ -1051,7 +1052,7 @@ crm.zinvoice.invoiceIntegrationHomeText =  &lrm;{0}&lrm;  שילוב מאפשר
 crm.zinvoice.invoiceIntegrationHomeText.caption1 = ניתן לצפות בחשבוניותמ &lrm;{0}&lrm;  חשבונית תחת חשבונות ואנשי קשר
 crm.zinvoice.invoiceIntegrationHomeText.caption2 = חשבונית לנהל את כל החשבוניות של הלקוחות בתוך   &lrm;{0}&lrm;  
 crm.zinvoice.setup.exception.processing = שגיאה פנימית בשל עיבוד נסה מאוחר יותר או צור קשר עם  &lrm;{0}&lrm;  תמיכת CRM
-crm.zmail.accountnotactive = מצטער, לא ניתן להציג הודעות דוא"לכמשתמש שנבחר הוא מנוטרל על ידי   &lrm;{0}&lrm;   מנהל CRM שלך .
+crm.zmail.accountnotactive = מצטערים, לא ניתן להציג הודעות דוא"לכמשתמש שנבחר הוא מנוטרל על ידי   &lrm;{0}&lrm;   מנהל CRM שלך .
 crm.zmail.activate.user.admin = לחץ על " הפעל עכשיו " כפתור כדי לאפשר  &lrm;{0}&lrm;  דואר תוספת על מצב משתמש .
 crm.zmail.activate.user.nonadmin =  &lrm;{0}&lrm;  הדואר על בתוספת אינה מופעלת עבור החשבון שלך. אנא שאל את מנהל ה-CRM שלך כדי להפעיל  &lrm;{0}&lrm;  רישיון על בתוספת הדוארלחשבונך.
 crm.zmail.activate.user.nonadmin.info = לאחר הפעלת רישיון , תוכל להציג את אפשרות "גדר עכשיו " כדי להשלים את  &lrm;{0}&lrm;  דואר הוסף על תצורה.
@@ -1071,7 +1072,7 @@ crm.zmail.config.warning1 = <h2 class="red"> אזהרה - קבעולהשיבו 
 crm.zmail.confirm.acc = לאשר חשבון  &lrm;{0}&lrm;  שלך
 crm.zmail.deactive.mailaddon = בטל  &lrm;{0}&lrm;  דואר על בתוספת
 crm.zmail.enter.zpassword = הזן את הסיסמה הקיימת שלך   &lrm;{0}&lrm;  
-crm.zmail.error.whileprocessing = מצטער, אין באפשרותנו לעבד את בקשתך . אנא נסה לאחר זמן מה. לכל עזרה , פנה אלינו בclass="link"> href="mailto:  &lrm;{0}&lrm;  " <a   &lrm;{0}&lrm;   </a>.
+crm.zmail.error.whileprocessing = מצטערים, אין באפשרותנו לעבד את בקשתך . אנא נסה לאחר זמן מה. לכל עזרה , פנה אלינו בclass="link"> href="mailto:  &lrm;{0}&lrm;  " <a   &lrm;{0}&lrm;   </a>.
 crm.zmail.globalsharing.alert = בחרת לשתף את המיילים של כל ההפניות ואנשי הקשר שלך עם משתמשים אחרים. כולם בתוך  &lrm;{0}&lrm;  חשבון ה-CRM זה יכול להציג את כל התקשורת עם אנשי הקשר שלך .
 crm.zmail.intro =  &lrm;{0}&lrm;  דואר ההרחבה משתלב בשירות הדואר האלקטרוני שלך עם  &lrm;{0}&lrm;  CRM באמצעות דואר   &lrm;{0}&lrm;  .
 crm.zmail.iscticket.success = התצורה על בתוספת  &lrm;{0}&lrm;  האלקטרוני שלך עודכנה בהצלחה ...
@@ -1099,15 +1100,15 @@ crm.zmail.setup.pop3 = הגדרת POP3בדואר   &lrm;{0}&lrm;
 crm.zmail.stepsto.setup = שלבים להתקנה  &lrm;{0}&lrm;  דואר על בתוספת :
 crm.zmail.subscribe = הצטרף כמנויוהפעל  &lrm;{0}&lrm;  דואר על בתוספת
 crm.zmail.unableto.makepublic = אנא שתף ​​את תיבת הדואר שלך עם עמיתים מ '  &lrm;{0}&lrm;   דואר הוסף על ' החשבון שלך עם שיתוף דוא"ל ' >ולאחר מכן להפעיל את האפשרות " שתף דואר אלקטרוני" .
-crm.zmail.unavailable.note = מצטער,  &lrm;{0}&lrm;  דואר אינו זמין. אנא נסה אחרי כמה זמן
-crm.zmail.unconfirmeduser.note = החשבון שלך   &lrm;{0}&lrm;   עדיין לא אישר. נא לאשר את חשבונךמ &lrm;{0}&lrm;  חשבונות > כתובות דואר אלקטרוני ולאחר מכן דואר גישת   &lrm;{0}&lrm;   לפני הקמת  &lrm;{0}&lrm;  דואר ההרחבה .
-crm.zmail.update.iscticket = מצטער אין באפשרותנו לעבד את בקשתך . כדי לשלוח או לקבל הודעות דואר אלקטרוני , אנא עדכן את התצורה על בתוספת  &lrm;{0}&lrm;  מייל שלך
+crm.zmail.unavailable.note = מצטערים,  &lrm;{0}&lrm;  דואר אינו זמין. אנא נסה אחרי כמה זמן
+crm.zmail.unconfirmeduser.note = החשבון שלך   &lrm;{0}&lrm;   עדיין לא אישר. נא לאשר את חשבונך מ &lrm;{0}&lrm;  חשבונות > כתובות דואר אלקטרוני ולאחר מכן דואר גישת   &lrm;{0}&lrm;   לפני הקמת  &lrm;{0}&lrm;  דואר ההרחבה .
+crm.zmail.update.iscticket = מצטערים אין באפשרותנו לעבד את בקשתך . כדי לשלוח או לקבל הודעות דואר אלקטרוני , אנא עדכן את התצורה על בתוספת  &lrm;{0}&lrm;  מייל שלך
 crm.zmail.users.intro.message = קבל רשימה של  &lrm;{0}&lrm;  דואר מלאה על בתוספת משתמשים יחד עם תיבת הדואר שלהם ופרטי סוג החשבון . ניתן גם לנעול או לפתוח את התצורה על בתוספת הדואר שלהמשתמשים ולקחתגיבוי של חשבונות הדוארשל המשתמשים המנוטרלים .
 crm.zmail.whatis = מה הוא  &lrm;{0}&lrm;  דואר על בתוספת ?
 crm.zmail.whatis.note1 =  &lrm;{0}&lrm;  דואר ההרחבה משלב שירות דוא"ל -( חשבון POP3 ) עם  &lrm;{0}&lrm;  CRM באמצעות דואר   &lrm;{0}&lrm;  . עם  &lrm;{0}&lrm;  דואר ההרחבה אתה יכול:
 crm.zmail.whatis.note3 = שליחה וקבלה של הודעות דוא"ללCRM   &lrm;{0}&lrm;  
 crm.zmail.whatis.note4 = גישה לדואר  &lrm;{0}&lrm; מCRM   &lrm;{0}&lrm;   - " דוא"לכלשונית נפרדת 
-crm.zmail.zpassword.note = הזן את הסיסמה שלך כדי לאמת את  &lrm;{0}&lrm;  CRM להביא האימיילים שלכםמדואר   &lrm;{0}&lrm;  
+crm.zmail.zpassword.note = הזן את הסיסמה שלך כדי לאמת את  &lrm;{0}&lrm;  CRM להביא האימיילים שלכם מדואר   &lrm;{0}&lrm;  
 crm.zoho.service.communication.key =  &lrm;{0}&lrm;  שירות תקשורת ( ZSC ) מפתח
 crm.zoho.sso.transition =   &lrm;{0}&lrm;   מעבר SSO
 crm.zohoBooks =  &lrm;{0}&lrm;  ספרים
@@ -1125,16 +1126,16 @@ crm.zsupport.changeMessage = האם אתה בטוח שאתה רוצה לשנו�
 crm.zsupport.configureSupport = תמיכה להגדיר את תצורת   &lrm;{0}&lrm;  
 crm.zsupport.deActivateMessage = בחרת להשבית תמיכת  &lrm;{0}&lrm; מ  &lrm;{0}&lrm;   ה-CRM. כל הבקשות לתמיכה במסגרתפורטל התמיכה הקשורות תימחקב  &lrm;{0}&lrm;   ה-CRM.
 crm.zsupport.editConfig.portalError = אתה לא יכול לגשת ל &lrm;{0}&lrm;  שילוב התמיכה . מפתח ZSC השתנהבתמיכת   &lrm;{0}&lrm;  . אנא להגדיר מחדש  &lrm;{0}&lrm;  שילוב תמיכה
-crm.zsupport.error.connectionProblem = מצטער על אי הנוחות שנגרמה. אנחנו לא מסוגלים להתחבר לתמיכת   &lrm;{0}&lrm;  . אנא נסה לאחר זמן מה.
+crm.zsupport.error.connectionProblem = מצטערים על אי הנוחות שנגרמה. אנחנו לא מסוגלים להתחבר לתמיכת   &lrm;{0}&lrm;  . אנא נסה לאחר זמן מה.
 crm.zsupport.error.enterzsckey = הזן מפתח ZSC תקףמתמיכה   &lrm;{0}&lrm;  
 crm.zsupport.error.saveOption = הפורטל שנבחר כבר משמש לשלב תמיכת   &lrm;{0}&lrm;   עם עוד  &lrm;{0}&lrm;  חשבון ה-CRM . אנא השתמש בפורטל אחר.
 crm.zsupport.error.supportData2 = ZSC מפתח נוצר מחדשבתמיכת   &lrm;{0}&lrm;  . צייןZSC מפתח האחרון .
-crm.zsupport.error.supportData3 = מצטער על אי הנוחות שנגרמה. אנחנו לא מסוגלים להביא נתונים תמיכת   &lrm;{0}&lrm;  . אנא כתוב לי  &lrm;{1} 
+crm.zsupport.error.supportData3 = מצטערים על אי הנוחות שנגרמה. אנחנו לא מסוגלים להביא נתונים תמיכת   &lrm;{0}&lrm;  . אנא כתוב לי  &lrm;{1} 
 crm.zsupport.genralError = שגיאהב &lrm;{0}&lrm;  תמיכה אז בבקשה תנסה אחרי כמה זמן
 crm.zsupport.introduction =  &lrm;{0}&lrm;  שילוב תמיכה מאפשר לך מכירות , שיווק,ומנהלים בכירים לראות ולעקוב אחר כרטיסי תמיכת לקוחות ישירות מתוך  &lrm;{0}&lrm;  חשבון ה-CRM שלך.
 crm.zsupport.manageusers.caption =  &lrm;{1}  תמיכת האינטגרציה מופעלת עבור   &lrm;{0}&lrm;   פורטל תמיכהוקשורה לחשבון ה-CRM שלך  &lrm;{1} . עכשיו, משתמשים רשומים יכולים לצפות בכרטיסי לקוחותמהחשבונות , אנשי הקשר,ומודולים פוטנציאלים .
 crm.zsupport.manageusers.caption2 = שהגדרת בהצלחה אינטגרציה תמיכת   &lrm;{0}&lrm;  . עכשיו אתה יכול להציג את בקשות התמיכה שלך תחת מוליכים, מגעים וחשבונות .
-crm.zsupport.relatedList.error = מצטער על אי הנוחות שנגרמה. אנחנו לא מסוגלים להתחבר לתמיכת   &lrm;{0}&lrm;  . אנא נסה אחרי כמה זמן
+crm.zsupport.relatedList.error = מצטערים על אי הנוחות שנגרמה. אנחנו לא מסוגלים להתחבר לתמיכת   &lrm;{0}&lrm;  . אנא נסה אחרי כמה זמן
 crm.zsupport.successMessage = תמיכת   &lrm;{0}&lrm;   השתלבה בהצלחה .
 crm.zsupport.supportIntegration =  &lrm;{0}&lrm;  תמיכה ואינטגרציה
 crm.zsupport.supportIntegrationHome.existingUser.caption2 = קבל את מפתח ZSC שנוצרבתמיכת   &lrm;{0}&lrm;  . או
@@ -1160,7 +1161,7 @@ crm.zti.buynow.activezohopbx = הפעל   &lrm;{0}&lrm;   CRM PBX שיחה
 crm.zti.buynow.activezohopbxfeature = כדי להפעיל את   &lrm;{0}&lrm;   תכונת CRM PBX שיחה , אתה צריך לקנות   &lrm;{0}&lrm;   PhoneBridge שיחה <br הרשמות /> .
 crm.zti.buynow.addontext =   &lrm;{0}&lrm;   CRM  &lrm;{0}&lrm;  PhoneBridge ההרחבה מתחברת CRM  &lrm;{0}&lrm;  שלךלמרכזיית אסטריסק מבוססת שלך. לאחר התחברות, אתה קורא לבצע ולקבל שיחות באמצעות   &lrm;{0}&lrm;   ה-CRM.
 crm.zti.buynow.dialcode = לחייג ולקבל שיחות באופן ישיר באמצעות CRM   &lrm;{0}&lrm;  
-crm.zti.clickpurchasebutton = לחץ על הכפתור "קנה עכשיו" כדי להירשםל  &lrm;{0}&lrm;   PhoneBridge add-on .
+crm.zti.clickpurchasebutton = לחץ על הכפתור "קנה עכשיו" כדי להירשם ל  &lrm;{0}&lrm;   PhoneBridge add-on .
 crm.zti.createfirstztigroup = צור  &lrm;{0}&lrm;  הקבוצה שלך הראשונה PhoneBridge
 crm.zti.creategroup = להגדיר  &lrm;{0}&lrm;  קבוצות PhoneBridge
 crm.zti.createztigroup =   &lrm;{0}&lrm;   PhoneBridge
@@ -1175,7 +1176,7 @@ crm.zti.editgroup = עריכת  &lrm;{0}&lrm;  קבוצת PhoneBridge
 crm.zti.error.adminrolechangedaddnewadmin = תפקידו של המשתמש עבור  &lrm;{0}&lrm;  קבוצת PhoneBridge זה כבר השתנו. האם ברצונך ליצורקבוצת PhoneBridge   &lrm;{0}&lrm;   עם המשתמש שנבחר?
 crm.zti.error.deletefirstuser = Atleast משתמש אחד חייב להיות נוכחב &lrm;{0}&lrm; קבוצת PhoneBridge
 crm.zti.error.donthaveanymoreuser = אין יותר משתמשים עם  &lrm;{0}&lrm;  PhoneBridge מופעלים בחשבון שלך. נא להוסיף יותר למשתמשים ליצור עוד  &lrm;{0}&lrm;  קבוצת PhoneBridge
-crm.zti.error.nomoreadminavailable = שכבר יצרו קבוצת  &lrm;{0}&lrm;  PhoneBridge ( ות) עבור משתמשים עם תפקיד מנכ"ל. אנא הוסף משתמש יותר אחד עם תפקיד מנכ"ל / לעדכן את כלהמשתמשים הקיימיםלתפקיד מנכ"ל כדי ליצור  &lrm;{0}&lrm; קבוצת PhoneBridge
+crm.zti.error.nomoreadminavailable = שכבר יצרו קבוצת  &lrm;{0}&lrm;  PhoneBridge ( ות) עבור משתמשים עם תפקיד מנכ"ל. אנא הוסף משתמש יותר אחד עם תפקיד מנכ"ל / לעדכן את כלהמשתמשים הקיימים לתפקיד מנכ"ל כדי ליצור  &lrm;{0}&lrm; קבוצת PhoneBridge
 crm.zti.error.nomoreusergroup = אין יותר משתמשים עם  &lrm;{0}&lrm;  PhoneBridge אפשרו בקבוצה שנבחרה.
 crm.zti.error.nouserinselectedcrmgroup = אין משתמשים עם  &lrm;{0}&lrm;  PhoneBridge אפשרו בקבוצה שנבחרה. אנא בחר אחר קבוצת ה-CRM או לחץ <b> הוספת משתמש PhoneBridge מופעללקבוצה נבחרת </b> כדי להוסיף משתמשלקבוצת ה-CRM זה.
 crm.zti.error.noztilicenseenableduser = אתה צריך להיות atleast משתמש אחד מופעל עם  &lrm;{0}&lrm;  רישיון PhoneBridge . האם ברצונך להפעיל ?
@@ -1192,7 +1193,7 @@ crm.zti.label.ctigroup =  &lrm;{0}&lrm;  קבוצת PhoneBridge
 crm.zti.label.establish = להקים  &lrm;{0}&lrm;  קבוצות PhoneBridge
 crm.zti.label.extnuserfollowtext = ציין את מספרי השלוחות עבור משתמשים של  &lrm;{0}&lrm; קבוצת PhoneBridge .
 crm.zti.label.gotozti = עבור ל  &lrm;{0}&lrm;   PhoneBridge רשימה
-crm.zti.label.manageuser = ניהול משתמשיםלPhoneBridge   &lrm;{0}&lrm;  
+crm.zti.label.manageuser = ניהול משתמשים לPhoneBridge   &lrm;{0}&lrm;  
 crm.zti.label.subscribe = PhoneBridge להירשם ולהפעיל את  &lrm;{0}&lrm;  עבור משתמשים
 crm.zti.label.ztigroupname =   &lrm;{0}&lrm;   שם קבוצת PhoneBridge
 crm.zti.license.deactereflect = אם לבטל את המשתמש (ים) ,חברי קבוצת PBX לא יוכלו להשתמש   &lrm;{0}&lrm;   פונקציונלי PhoneBridge .
@@ -1235,7 +1236,7 @@ syncdirection\_1 = 1 -Way : Google Calendarל  &lrm;{0}&lrm;   לוח השנה 
 syncdirection\_2 = 1 -Way :  &lrm;{0}&lrm;  לוח השנה CRM ל-Google Calendar
 template.Msgeditor.Info = הקלד את ההודעה שלך למטה . באפשרותך להוסיף  &lrm;{0}&lrm;  שדות CRM על מנת להתאים את תוכן ההודעה.
 two\-way = לסנכרן את שניהם   &lrm;{0}&lrm;   CRM לוח השנה ואירועי לוח השנה של Google שלך אחד עם השני
-user.reInvite.viaLink = הזמנה בדוא"ל עםlink הגישה כבר נשלח למשתמש . <br>המשתמש יש ללחוץ על link הגישה להירשם ל &lrm;{0}&lrm;  חשבון ה-CRM . <br> אנא שאל אתהמשתמש לבדוק את תיקיית דואר הזבל, incase האלקטרוני של ההזמנה קיבל נמסר שם במקוםתיבת הדואר הנכנס .
+user.reInvite.viaLink = הזמנה בדוא"ל עם קישור  הגישה כבר נשלח למשתמש . <br>המשתמש יש ללחוץ על link הגישה להירשם ל &lrm;{0}&lrm;  חשבון ה-CRM . <br> אנא שאל אתהמשתמש לבדוק את תיקיית דואר הזבל, incase האלקטרוני של ההזמנה קיבל נמסר שם במקוםתיבת הדואר הנכנס .
 webform.approval.tooltip = בקשה לאישור תעזור לך כדי לאמתשנוצר  &lrm;{1}  באופן ידני ולאחר מכן להוסיף אותם ל{2} CRM .
 webform.case.create.contact = בעת בדיקת אפשרות זו , אנשי קשר שנוצרו בCRM וכאשר המקרים מוגשים דרך מקרה שיא form.The האינטרנט באופן אוטומטי להיות קשור לאיש הקשר המתאים. זה רק כאשרקשר דומה לא קיים כברב  &lrm;{0}&lrm;   ה-CRM.
 webform.embed.zohosite =  &lrm;{0}&lrm;  אתרים
