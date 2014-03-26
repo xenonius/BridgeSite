@@ -53,7 +53,7 @@ Zoho\ mail =&rlm;  &lrm;{0}-CRM&lrm; דואר על בתוספת
 bccdropbox.deactivation.notifymail.body = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; line-height: 18px'> <p> שלום  &lrm;{0}-CRM&lrm;  , </p> &lrm;{1}&lrm; , אחד מהמנהלים של ה-CRM , חושד כי BCC Dropbox שלך נפרץ ומייצר זבל. כדי לעצור אותו מליצור בעיות נוספות , הוא ( {2} ) השעה כרגע תכונה זו בחשבון ה-CRM שלך. </p> כדי להפעיל מחדש באמצעות BCC Dropbox, צור מחדש את הכתובת עכשיו . </p> בברכה, <br/>צוות &lrm;{0}-CRM&lrm;</p> </div>
 bccdropbox.desc = עכשיו זה אפשרי עבורך לשייך את האימיילים שלכם ל &lrm;{0}-CRM&lrm;  מכל אחד מלקוחות הדוא"ל שלך כמו Gmail, Outlook, Thunderbird , ועוד ! נסה את BCC Dropbox החדש !
 bccdropbox.desc1 = כל מה שאתה צריך לעשות זה לשלוח עותק מוסתר אל כתובת הדוא"ל של BCC Dropboxשאנחנו נותנים לכם ( BCC ) , בעת שליחת מיילים ללקוחות. בהתבסס על תבנית החיפוש ,  &lrm;{0}-CRM&lrm;  באופן אוטומטי ימקם עותק של הדוא"ל שברצונך לשייך , ברשומת הלקוח המתאימה כן, זה כל כך קל !
-bccdropbox.insufficient.storage.body.100N105 = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; line-height: 18px'><p>{0}&lrm; שלום,</p>	הגעת לשטח אחסון של 100% שהוקצה ל-CRM {0}&lrm; שלך. האחסון שלך מלא , ואתה לא תוכל להעלות קבצים מצורפים מממשק ה-CRM {0}&lrm; ולא לשלוח קבצים מצורפים ל CRM באמצעות תכונת BCC Dropbox .</p>כדי להבטיח כי&lrm;{0}-CRM&lrm; שלך שלך ממשיך לעבוד ללא הפרעה , אתה יכול לפנות שטח או לרכוש שטח אחסון נוסף על ידי ביצוע השלבים הבאים :</p><p><strong>כדי לפנות אחסון בחשבונך:</strong></p><p><strong>שלב 1: .</strong>	התחבר אל חשבון ה &lrm;{0}-CRM&lrm; שלך</p> <strong>שלב 2: </strong>נווט דרך הרשומות ומחק את הקבצים המצורפים שאינו דורשים</p> <strong>כדי לרכוש שטח אחסון נוסף : .</strong> </p> <strong>שלב 1: </strong>לחץ שדרוג > ניהול התכנית שלך</p> <strong>שלב 2: </strong>בדף ניהול מנויים, תחת הוספת מנויים , בחר את שטח אחסון נוסף מהרשימה הנפתחת.</p> <strong>שלב 3: </strong>'לחץ על 'יציאה</p><p>לקבלת מידע נוסף על ניהול אחסון הקבצים שלך, אנא קרא את זה: ‏‎‏<a href="https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage">מאמר</a></p><p>Regards,<br/>צוות &lrm;{0}-CRM&lrm; .</p> </div>
+bccdropbox.insufficient.storage.body.100N105 = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; line-height: 18px'><p>{0}&lrm; שלום,</p>	הגעת לשטח אחסון של 100% שהוקצה ל-CRM {0}&lrm; שלך. האחסון שלך מלא , ואתה לא תוכל להעלות קבצים מצורפים מממשק ה-CRM {0}&lrm; ולא לשלוח קבצים מצורפים ל CRM באמצעות תכונת ה BCC Dropbox .</p>כדי להבטיח כי&lrm;{0}-CRM&lrm; שלך שלך ממשיך לעבוד ללא הפרעה , אתה יכול לפנות שטח או לרכוש שטח אחסון נוסף על ידי ביצוע השלבים הבאים :</p><p><strong>כדי לפנות אחסון בחשבונך:</strong></p><p><strong>שלב 1: .</strong>	התחבר אל חשבון ה &lrm;{0}-CRM&lrm; שלך</p> <strong>שלב 2: </strong>נווט דרך הרשומות ומחק את הקבצים המצורפים שאינו דורשים</p> <strong>כדי לרכוש שטח אחסון נוסף : .</strong> </p> <strong>שלב 1: </strong>לחץ שדרוג > ניהול התכנית שלך</p> <strong>שלב 2: </strong>בדף ניהול מנויים, תחת הוספת מנויים , בחר את שטח אחסון נוסף מהרשימה הנפתחת.</p> <strong>שלב 3: </strong>'לחץ על 'יציאה</p><p>לקבלת מידע נוסף על ניהול אחסון הקבצים שלך, אנא קרא את זה: ‏‎‏<a href="https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage">מאמר</a></p><p>Regards,<br/>צוות &lrm;{0}-CRM&lrm; .</p> </div>
 bccdropbox.insufficient.storage.body.110N115N120 = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; line-height: 18px'> <p> שלום  &lrm;{0}-CRM&lrm;  , </p> זו תזכורת חוזרת שחרגתם ממכסת האחסון המרבית המוקצבות ל {0}&lrm; חשבון ה-CRM שלך. עד שלא תשדרג את האחסון, לא </p> תוכל להעלות קבצים מצורפים מ {0}&lrm; ממשק ה-CRM ולא לשלוח קבצים מצורפים לCRM באמצעות תכונת BCC Dropbox . </p>כדילהבטיח כי חשבון &lrm;{0}-CRM&lrm;שלך ממשיך לעבוד ללא הפרעה , אתה יכול לפנות שטח או לרכוש שטח אחסון נוסף על ידי ביצוע השלבים הבאים : </p> <strong> כדי לפנות אחסון בחשבונך: </strong> </p> <strong> שלב 1: . </strong> התחבר אל { ​​0} חשבון ה-CRM שלך </p> <strong> שלב 2: </strong> נווט דרך הרשומות ומחק את הקבצים המצורפים שאינו דורשים </p> <strong> כדי לרכוש שטח אחסון נוסף : . </strong> </p> <strong> שלב 1: </strong> לחץ שדרוג > ניהול התכנית שלך </p> <strong> שלב 2: </strong>בדף ניהול מנויים, תחת הוספת מנויים , בחר את שטח אחסון נוסף מהרשימה הנפתחת. </p> <strong> שלב 3: . </strong> לחץ עזיבה </p> לקבלת מידע נוסף על ניהול אחסון הקבצים שלך, אנא קרא את זה: <a href="https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage">מאמר</a>.</p><p>Regards,<br/>צוות &lrm;{0}-CRM&lrm;   . </p> </div>
 bccdropbox.insufficient.storage.body.90N95 = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; line-height: 18px'> <p> שלום  &lrm;{0}-CRM&lrm;  , </p> אתה הגעת קרוב ל &lrm;{1}&lrm; ממכסת האחסון הכוללת שהוקצתה לחשבון  &lrm;{0}-CRM&lrm;  שלך. כאשר האחסון שלך מלא , אתה לא </p> תוכל להעלות קבצים מצורפים מממשק ה-CRM  &lrm;{0}-CRM&lrm;  ולא לשלוח קבצים מצורפים לCRM באמצעות תכונת BCC Dropbox . </p> כדי להבטיח כי חשבון &lrm;{0}-CRM&lrm; חשבון ה ממשיך לעבוד ללא הפרעה , אתה יכול לפנות שטח או לרכוש שטח אחסון נוסף על ידי ביצוע השלבים הבאים : </p> <strong> כדי לפנות שטח אחסון בחשבונך: </strong> </p><p> <strong> שלב 1: . > </strong> התחבר כדי { ​​0} חשבון ה-CRM שלך </p> <p> <strong> שלב 2: </strong> נווט דרך הרשומות ומחק קבצים מצורפים שאינם דרושים לך </p><p> <strong> כדי לרכוש שטח אחסון נוסף : . </strong> </p><p> <strong> שלב 1: </strong> לחץ שדרוג > ניהול התכנית שלך </p><p> <strong> שלב 2: </strong>בדף ניהול מנויים , תחת הוספת מנויים , לבחור את שטח אחסון נוסף מהרשימה הנפתחת. </p><p> <strong> שלב 3: . </strong> לחץ עזיבה </p><p> לקבלת מידע נוסף על ניהול אחסון הקבצים שלך, אנא קרא את זה: :<a href="https://crmkbase.zoho.com/link/how-to-subscribe-for-additional-file-storage">מאמר</a>.</p><p>Regards,<br/>צוות &lrm;{0}-CRM&lrm;</p> </div>
 bccdropbox.insufficient.storage.body.above.120 = <div style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; line-height: 18px'> <p> שלום  &lrm;{0}-CRM&lrm;  , </p> בשל מספיק שטח אחסון בחשבון CRM &lrm;{1} שלך, לא הצליחו לשייך את הדוא"ל / הקובץ המצורף שנשלח באמצעות BCC Dropboxל &lrm;{1} CRM </p> מקבלי מיילים כתובת: . {2} </p> אנא צור קשר עם מנהל CRM שלך לקבלת סיוע נוסף . </p> בברכה,  <br/>צוות &lrm;{1}-CRM&lrm; . </p> </div>
@@ -209,39 +209,39 @@ crm.creator.mail.notify.note7 =צוות קריאיטור &lrm;#BRANDLABEL
 crm.creator.nolink = לא נמצא פרמלינק קריאיטור &lrm;{0}&lrm;
 crm.creator.poweredby = מופעל על ידי קריאיטור  &lrm;{0}&lrm; 
 crm.creator.service =קריאיטור &lrm;{0}&lrm;  
-crm.creator.upgradePlan.usersMismatch.error = משתמש (ים) שנבחר כאן חורג מהמגבלהשל המשתמשים ב &lrm;{0}-CRM&lrm; חשבון קריאיטורך . שדרג קריאיטור החשבון שלך / רכישת משתמשים נוספים.
-crm.custom.field.autonumber.sch.error = אירעה שגיאה בעת אוטומטית מספורהשדה &lrm;{0}-CRM&lrm; ב &lrm;{1} . לדווח על כך ל<a href="mailto:{2}" class="link"> לתמוך </a>.
+crm.creator.upgradePlan.usersMismatch.error =מספר המשתמשים שנבחרו כאן חורג ממגבלת המשתמשים בחשבון קריאיטור EFES . שדרג חשבון קריאיטור שלך ו/או רכוש משתמשים נוספים.
+crm.custom.field.autonumber.sch.error = אירעה שגיאה בזמן מספור שדות אוטומטי EFES ב EHAD .   דווח על כך ל<a href="mailto:{2}" class="link">תמיכה</a>.
 crm.customerackmail.line1 = תודה על רכישת משתמשים נוספים ב&lrm;#BRANDLABEL CRM&lrm; . אנא ראה את הפרטים הבאים :
 crm.customerackmail.line2 = מודה לך שוב על התעניינותך ב&lrm;#BRANDLABEL CRM&lrm; .
-crm.customizename.title =  &lrm;{0}-CRM&lrm;  CRM - עיצוב שם
-crm.customlink.tip = linkים הם linkי היפר מוגדר על ידי משתמש שבו אתה יכול לכלול  &lrm;{0}-CRM&lrm;  CRM שדות כפרמטרים.
-crm.customrl.error.selectentityfield = אנא בחר &lrm;{0}-CRM&lrm; תחום ה-CRM .
-crm.data.migration.error.message2 = קובץ. אנא צור קשר עם <a href="mailto: &lrm;{0}-CRM&lrm;" class="link">  &lrm;{0}-CRM&lrm;  </a> להבהרות נוספות .
-crm.data.migration.error.subject =  &lrm;{0}-CRM&lrm;  שגיאת CRM Data Migration
-crm.data.migration.subject =  &lrm;{0}-CRM&lrm;  הגירת CRM נתונים
+crm.customizename.title =&rlm;  &lrm;{0}-CRM&lrm;  עיצוב שם
+crm.customlink.tip =&rlm;Links הם קישורי היפרלינק בהם אתה יכול לכלול שדות של CCRRMM כפרמטרים.
+crm.customrl.error.selectentityfield = אנא בחר שדה &lrm;{0}-CRM&lrm;.
+crm.data.migration.error.message2 = קובץ. אנא צור קשר עם <a href="mailto: &lrm;{0}&lrm;" class="link">  &lrm;{0}-CRM&lrm;  </a> להבהרות נוספות .
+crm.data.migration.error.subject =שגיאת הגירת נתונים &lrm;{0}-CRM&lrm;
+crm.data.migration.subject =הגירת נתונים &lrm;{0}-CRM&lrm;
 crm.data.migrationsucess.subject =  &lrm;{0}-CRM&lrm;  CRM - הצלחה בהעברת נתונים
-crm.deactivate.alert.message = אתה עומד לבטל את המשתמש (ים) . בעשותם כך, הם לא יכולים לגשת CRM  &lrm;{0}-CRM&lrm; . עם זאת, על הפעלה מחדש , הם יכולים לגשת  &lrm;{0}-CRM&lrm;  CRM עם הנתונים הקיימים שלהם.
-crm.deactivate.crm.zoho.project.users.heading = המשתמשים הבאים גם לאחר שחרור משרותב &lrm;{0}-CRM&lrm;  CRM , יכולים עדיין להמשיך לעבוד על  &lrm;{0}-CRM&lrm;  פרויקטים .
-crm.deactivate.phone.bridge.user = משתמש  &lrm;{0}-CRM&lrm;  הוא משתמש קבוצת זיהוי . עם שחרור משרות ,חברי קבוצת PBX לא יכולים להשתמש &lrm;{1} Phonebridge .
-crm.deactivateuser.enableoutlook = אתה לא יכול לאפשר  &lrm;{0}-CRM&lrm;  CRM תוסף עבור הפעלה של Microsoft Outlook עבורמשתמשים בעלי מוגבלויות .
-crm.downgrade.line1 = פעולת ההורדה הושלמה בהצלחה . אנו מקווים שאתה מרוצה מהשירות שלנוולהוריד בדרגה זו היא בגלל סיבות אחרות. עם זאת, הוא עדיין יכול להיות שיש לנו בתנאי שאתה פחות משירות מאושר. אם זה יהיה כך, אז אין לנו אימייל ב &lrm;#SUPPORTMAILID ואנו נבדוק את הנושא לכל המוקדם.
-crm.downgrade.user.quickbook =  &lrm;{0}-CRM&lrm; חשבון ה-CRM שלך תופח באופן אוטומטי למהדורה חינם . שים לב ששילוב QuickBooks יהיה גם הוריד כפי שהוא לא יהיה זמיןבמהדורה חינם .
-crm.dumprequest.note = לייצא &lrm;{0}-CRM&lrm; נתוני CRM כולו שלך לאמצעי הגיבוי שלך. תשלום של $ 10 יחויב עבור כל גיבוי.
-crm.dumprequest.note1 = אם זה העסקה הראשונה שלך ב &lrm;{0}-CRM&lrm;  CRM , אנא ספק את פרטי כרטיס אשראי שלך.
-crm.email.dupcheck.enable.alert = רשומות עם אותו כתובות הדואר אלקטרוני הנשלחות ל &lrm;{0}-CRM&lrm;  CRM באמצעות הוספה, עדכוןולהמיר APIs יהיה להתעלם ממנו.
-crm.email.dupcheck.limitation.sheet = עדכון / יצירה רשומות באמצעות &lrm;{0}-CRM&lrm; תצוגת גיליון .
-crm.evaluate.enterprise =  &lrm;{0}-CRM&lrm; המהדורה הנוכחית שלך CRM : <b> , Enterprise Edition </b>
-crm.evaluate.professional =  &lrm;{0}-CRM&lrm;  Edition CRM הנוכחי שלך : <b> מהדורת Professional </b>
-crm.evaluate.standard =  &lrm;{0}-CRM&lrm; המהדורה הנוכחית שלך CRM : <b> Standard Edition </b>
-crm.evaluate1 =  &lrm;{0}-CRM&lrm; המהדורה הנוכחית שלך CRM : <b> מהדורה חינם </b>
+crm.deactivate.alert.message =אתה עומד לבטל את המשתמש(ים).  אם תעשה זאת, הם לא יוכלו לגשת אל   &lrm;{0}-CRM&lrm; .   עם זאת, אם תפעיל אותם מחדש , הם יוכלו לגשת אל &lrm;{0}-CRM&lrm;   עם הנתונים הקיימים שלהם.
+crm.deactivate.crm.zoho.project.users.heading =המשתמשים הבאים, גם לאחר שיתוק פעילותם ב CCRRMM, יוכלו עדיין להמשיך לעבוד על  פרויקטים של EFES.
+crm.deactivate.phone.bridge.user = משתמש  &lrm;{0}&lrm; הוא משתמש מזהה קבוצה . עם שיתוק פעילותו - חברי קבוצת PBX לא יוכלו להשתמש ב PPHHEFES.
+crm.deactivateuser.enableoutlook = אתה לא יכול לאפשר הפעלת תוסף CCRRMM של Microsoft Outlook עבור משתמשים שפעילותם שותקה.
+crm.downgrade.line1 = פעולת השינמוך (DOWNGRADING) הושלמה בהצלחה. אנו מקווים שאתה מרוצה מהשירות שלנו ושהפעולה הזו בוצעה בגלל סיבות אחרות. עם זאת, עדיין ייתכן שהשירות שלנו לא גרם לך להיות מאושר. אם זה כך, אנא כתוב לנו אימייל אל ‎#SUPPORTMAILID ואנו נבדוק את הנושא בהקדם. 
+crm.downgrade.user.quickbook =חשבון ה CCRRMM שלך ישונמך באופן אוטומטי למהדורת החינם. שים לב ששילוב QuickBooks  גם הוא ישונמך היות שהוא לא זמין במהדורת החינם . 
+crm.dumprequest.note =ייצא את כל נתוני CCRRMM שלך אל אמצעי הגיבוי שלך. אתה תחויב בתשלום של $10 עבור כל גיבוי. 
+crm.dumprequest.note1 = אם זו העסקה הראשונה שלך ב CCRRMM , אנא ספק את פרטי כרטיס אשראי שלך. 
+crm.email.dupcheck.enable.alert =רשומות עם אותן כתובות דואל הנשלחות אל CCRRMM באמצעות ממשקי הוספה (INSERT), עדכון והמרה (CONVERT)  לא יטופלו ויתעלמו מהן.
+crm.email.dupcheck.limitation.sheet =עדכון/יצירת רשומות באמצעות גיליון תצוגה EFES.
+crm.evaluate.enterprise =מהדורת CCRRMM הנוכחית שלך:  <b> , Enterprise Edition </b>
+crm.evaluate.professional =מהדורת CCRRMM הנוכחית שלך:  <b>Professional Edition</b>
+crm.evaluate.standard =מהדורת CCRRMM הנוכחית שלך:  <b> Standard Edition </b>
+crm.evaluate1 =מהדורת CCRRMM הנוכחית שלך: <b>מהדורת חינם</b>
 crm.event.notification.subject =  &lrm;{0}-CRM&lrm;  CRM - מייל הודעה על אירוע
 crm.event.notification.subject1 =  &lrm;{0}-CRM&lrm;  CRM - הודעת תזכורת לאירוע
-crm.export.data.payment.not.processed =  &lrm;{0}-CRM&lrm;  CRM יצוא נתונים - תשלום לא עבר עיבוד
-crm.export.data.payment.processed =  &lrm;{0}-CRM&lrm;  CRM יצוא נתונים - רכישה
-crm.export.line1 = לבקשתכם, העלינו את הנתונים שלך שלמים CRM &lrm;#BRANDLABELוקבצים מצורפים ל&lrm;#BRANDLABEL CRM&lrm; חשבון. כדי להוריד קבצים אלו, אנא היכנסו לחשבון ה-CRM &lrm;#BRANDLABEL שלך ולחץ על הlinkים הבאים :
-crm.export.line4 = <br> <b> חשוב : </b> כאמצעי אבטחה , עליך להיכנס לחשבון של&lrm;#BRANDLABEL CRM # לפני הורדתהנתונים. כמו כן,<b> הקבצים יהיה זמין עבורך ל48 השעות הקרובות. לאחר 48 שעות , הנתונים שלך יושמדו באופן אוטומטי </b>ואינו זמינים יותר. האם אתה רוצה להפוך את הנתונים זמינים שוב , תצטרך ליזום בקשה חדשה , נפרדת. <br/> <br/> אם אתם נתקלים בבעיה בעת הורדת הנתונים &lrm;#BRANDLABEL -CRM שלך , אנא פנו אלינו . <Br / > <br/> בברכה, <br/> <b>&lrm;#BRANDLABEL CRM&lrm; קבוצות </b> <br/> <br/> <b> שיחה חינם : </b> # CALLPHONE <br/> <b > דואר אלקטרוני: </b> <a href="mailto:#SUPPORTMAILID"> #SUPPORTMAILID </a> <br/> <br>
-crm.export.purchas.fail =1 <br> מצטערים, לא הצליח לעבד את עסקת תשלום עבור הזמנת service.In " גיבוי &lrm;#BRANDLABEL CRM&lrm; נתונים" כדי לתזמן גיבוי נתונים רגיל , עדכן את פרטי כרטיס אשראי שלך בהקדם האפשרי.
-crm.fb.integ.instruction = שילוב פייסבוק דורש אימות פייסבוק . באפשרותך לנהל את אימות פייסבוק עבור  &lrm;{0}-CRM&lrm;  ה-CRM.
+crm.export.data.payment.not.processed =&rlm;  &lrm;{0}-CRM&lrm; יצוא נתונים - תשלום לא עבר עיבוד
+crm.export.data.payment.processed =&rlm;  &lrm;{0}-CRM&lrm;  CRM יצוא נתונים - רכישה
+crm.export.line1 =לבקשתכם, העלינו את נתוני  ‎#BRANDLABEL CRM והקבצים המצורפים שלך בשלמותם אל חשבון ‎#BRANDLABEL CRM‎. כדי להוריד קבצים אלו, אנא היכנס לחשבון הCRM  ‎#BRANDLABEL  שלך ולחץ על הקישורים הבאים : 
+crm.export.line4 =<br><b> חשוב : </b> כאמצעי אבטחה , עליך להיכנס לחשבון של&lrm;#BRANDLABEL CRM לפני הורדת הנתונים. כמו כן, <b>הקבצים יהיו זמינים עבורך במשך 48 השעות הקרובות. לאחר 48 שעות , הנתונים שלך יושמדו באופן אוטומטי </b>ולא יהיו זמינים יותר. אם תרצה להפוך שוב את הנתונים לזמינים, תצטרך ליזום בקשה חדשה, נפרדת. <br/> <br/> אם אתם נתקלים בבעיה בעת הורדת הנתונים &lrm;#BRANDLABEL -CRM שלך , אנא פנו אלינו . <Br / > <br/> בברכה, <br/> <b>&lrm;#BRANDLABEL CRM&lrm; קבוצות </b> <br/> <br/> <b> שיחה חינם : </b> # CALLPHONE <br/> <b > דואר אלקטרוני: </b> <a href="mailto:#SUPPORTMAILID"> #SUPPORTMAILID </a> <br/> <br>
+crm.export.purchas.fail =<br>מצטערים, לא הצלחנו לעבד את עסקת התשלום עבור הזמנת שרות "גיבוי  נתוני  ‎#BRANDLABEL CRM‎ " כדי להסדיר גיבוי נתונים מסודר, אנא עדכן את פרטי כרטיס האשראי שלך בהקדם האפשרי. 
+crm.fb.integ.instruction = שילוב פייסבוק דורש אימות פייסבוק . באפשרותך לנהל את אימות פייסבוק עבור  &lrm;{0}-CRM&lrm;.
 crm.forecast.enable.mail.content = שלך  &lrm;{0}-CRM&lrm;  מנהל CRM - <b> &lrm;{1} </b> אפשר " ניו תחזית " עבור הארגון שלך .
 crm.forecast.enable.note = האם עבר ל <strong>&lrm;{0}-CRM&lrm; חדש מ &lrm;?{1} CRM&lrm;</strong>
 crm.forecast.mail.param.change.note3 = אםעליך  שאלות נוספות , בבקשה כתוב אל  ב &lrm;{0}-CRM&lrm; 
@@ -1041,7 +1041,7 @@ crm.zInvoice.alert.workflow.chooseTrigger = בחרפעולת הדק להתבצ�
 crm.zInvoice.errorMsg.duplicateMapping.zohoBooks = ארגון &lrm;{0}-CRM&lrm; ספרים זה כבר משולב עם עוד &lrm;{0}-CRM&lrm; חשבון ה-CRM . לפרטים, פנה  &lrm;{0}-CRM&lrm;  מנהל ארגון ספרים .
 crm.zInvoice.errorMsg.duplicateMapping.zohoInvoice = ארגון חשבונית  &lrm;{0}-CRM&lrm;  זה כבר משולב עם עוד &lrm;{0}-CRM&lrm; חשבון ה-CRM . לפרטים, פנה  &lrm;{0}-CRM&lrm;  מנהל ארגון חשבונית .
 crm.zInvoice.link.deactivate = בטל &lrm;{0}-CRM&lrm; חשבוניתמCRM  &lrm;{0}-CRM&lrm; 
-crm.zcampaign.fieldupdate.error.message = תרעה שגיאה בעת העדכון"  &lrm;{0}-CRM&lrm; " תחום &lrm;{1} ב" {2} ". לדווח על כך ל<a class="link" href="mailto:{3}"> תמיכה </a>
+crm.zcampaign.fieldupdate.error.message = תרעה שגיאה בעת העדכון"  &lrm;{0}-CRM&lrm; " תחום &lrm;{1} ב" {2} ". דווח על כך ל<a class="link" href="mailto:{3}"> תמיכה </a>
 crm.zinvoice.deActivateMessage = בחרת להשבית  &lrm;{0}-CRM&lrm;  מ &lrm;{1} ה-CRM. כלהחשבוניות של הארגון קשור לא יוצגו לאחר כיבוי אינטגרציהב &lrm;{1} ה-CRM.
 crm.zinvoice.invoiceIntegrationHome.importantNote = חשבוניות יכולות להיות מופרכותומוצגות רק אםהלקוחות ואנשי הקשר המיובאים מ &lrm;{1} CRMל &lrm;{0}-CRM&lrm; .
 crm.zinvoice.invoiceIntegrationHomeText =  &lrm;{0}-CRM&lrm; שילוב מאפשר לך לראות ולעקוב אחר חשבוניות הקשורות ללקוחות שבחשבון ה-CRM שלך &lrm;{1} . ניתן גם להציג את סטטוס התשלום של החשבונית תחת פרטי החשבוןוהתקשר אליהם  .
