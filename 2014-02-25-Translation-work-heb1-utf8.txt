@@ -3,7 +3,7 @@ crm.export.support.com=&rlm; &lrm;{0}&lrm;
 crm.html.api.developer.api.limit.exceeds=&rlm; &lrm; - #BRANDLABEL CRM API&lrm; חריגה  מהגבול המרבי 
 crm.html.customfunction.functionAuthorName.label=שם מחבר פונקציה 
 crm.html.customfunction.functionDescription.label=תיאור פונקציה
-crm.html.customfunction.f1unctiondisplayName.label=תצוגת שם פונקציה
+crm.html.customfunction.functiondisplayName.label=תצוגת שם פונקציה
 crm.html.customfunction.functionscript.label=סקריפט פונקציה
 crm.html.customfunction.workflowlinkid.label=&rlm; &lrm;WorkFlowLinkId&lrm;
 crm.html.extend.trial.edition.body=שלום לך , <br/><br/> כפי שהתבקש הרחבנו את תקופת הניסיון של &lrm;{1} CRM -  &lrm;{0}-CRM&lrm;  Editionלעוד 15 ימים <br/><br/> אנו מקווים שזה נותן לך מספיק זמן כדי לנסות את כל התכונות של &lrm;{1} CRM כדי לעזור לך להעריך ולהחליט אם זה הוא פתרון CRM לצרכי העסק שלך. <br/><br/> תוכל לסמוך עלינו לקבלת תמיכה בזמן שאתה מבצע את ההחלטה שלך. אל תהסס להגיע אלינו בכל שאלה או עזרה במהלך תקופת הניסיון <br/>אנחנו זמינים בדוא"ל: <a class="link" href="mailto : {2} "> {2} </a> <br/> התקשר : {3} <br/><br/> אנו מצפים לשרת את הצרכים של העסק שלך !
@@ -511,45 +511,45 @@ crm.login.signup.thanks.choosing.pro = תודה שבחרת  &lrm;{0}-CRM&lrm;  
 crm.login.support.service.message =&rlm;  &lrm;{0}-CRM&lrm;  מעסיק מארזים ופתרונות כדי לייעל את תהליך התמיכה בלקוחות שלך על ידי שילוב עם נתוני מכירות.
 crm.login.text =&rlm; &lrm; CRM ,On-Demand CRM Software-as- a-Service (SaaS)&lrm; חינם, ניהול קשרי לקוחות &lrm;{0}-CRM&lrm; 
 crm.login.tollfree = התקשר שיחה חינם :  &lrm;{0}-CRM&lrm; 
-crm.loginname.check.message2.forOtherAccount =&rlm; <p  class="font13 floatL">המשתמש הוא כבר חלק מחשבון אחר של &lrm;{0}-CRM&lrm;</p> <img title="Close" class="floatR mt1" alt="" src="//img.zohostatic.com/crm/images/close1.gif" onclick="hideFreezeMessage('freezeMessageDiv');"><p class="clearB pB5"></p><b>ישנן שתי אפשרויות : </b>  <p class="pL10"> 1 . צייןאת כתובת דואר אלקטרוני שונה. <br> 2 . אם אתה רוצה להשתמש באותה כתובת דוא"ל , בבקשה לשאול את המשתמש לשנות את כתובת הדואר האלקטרוני המשויכת לחשבון האחר. לפרטים נוספים : <a href="javascript:;" onclick="openHelp('https://crmkbase.zoho.com/link/adding-an-existing-zoho-user-to-my-company-account')" class="link2 pL5"> לחץ כאן </a> . </p>
-crm.loginname.check.message2.forOtherAccount.ReInvite =&rlm;<p class="font13 floatL"> המשתמש שמנסה מחדש מזמין הוא כבר חלק מעוד  &lrm;{0}-CRM&lrm;  CRM חשבון . </p> <img title="Close" class="floatR mt1" alt="" src="//img.zohostatic.com/crm/images/close1.gif" onclick="hideFreezeMessage('errorDiv');"><p class="clearB pB5"><b> ישנן שתי אפשרויות לפני שאתה מחדש - מזמין : </b></p> <p class="pL10"> 1 . ציין כתובת דוא"ל שונה עבור המשתמש. <br> 2 . אם אתה רוצה להשתמש באותה כתובת דוא"ל , בבקשה לשאול את המשתמש כדי לשנות את כתובת הדוא"ל המשויכת ל &lrm;{0}-CRM&lrm;  חשבון CRM האחר. לפרטים נוספים, <a onclick="openHelp('https://crmkbase.zoho.com/link/adding-an-existing-zoho-user-to-my-company-account')" href="javascript:;"> לחץ כאן </a> </p>
-crm.loginname.check.message2.forOtherAccount.ReInvite.viaLink =&rlm;&lrm;<p class="font13 floatL">המשתמש שמנסה מחדש מזמין הוא כבר חלק מעוד  &lrm;{0}-CRM&lrm;  CRM חשבון . </p> <img title="Close" class="floatR mt1" alt="" src="//img.zohostatic.com/crm/images/close1.gif" onclick="hideFreezeMessage('errorDiv');"><p class="clearB pB5"><b>  ישנן שתי אפשרויות לפני שאתה מחדש - מזמין : </b></p>  <p class="pL10">1 . צייןכתובת דוא"ל שונה עבור המשתמש. <br> 2 . אם אתה רוצה להשתמש באותה כתובת דוא"ל , בבקשה לשאול את המשתמש כדי לשנות את כתובת הדוא"ל המשויכת ל &lrm;{0}-CRM&lrm;  חשבון CRM האחר. לפרטים נוספים, <a onclick="openHelp('https://crmkbase.zoho.com/link/adding-an-existing-zoho-user-to-my-company-account')" href="javascript:;"> click here</a>.</p>
-crm.loginname.check.message4.forAssociateUser = המשתמש עם כתובת דוא"ל זו כבר יש לו חשבון עם  &lrm;{0}-CRM&lrm; . אנא שאל אתהמשתמש לקבל את ההזמנה על ידי לחיצה על link הגישהבדואר האלקטרוני שנשלח לכתובת הדואר האלקטרוני של המשתמש.
-crm.mail.merge.title =  &lrm;{0}-CRM&lrm;  CRM - מיזוג דואר תבניות
-crm.mailmerge.activelink = להפעיל / לבטל  &lrm;{0}-CRM&lrm;  CRM תוסף עבור משתמשי Microsoft Office
-crm.mailmerge.adminOnly = אנא צור קשר עם המנהל לאפשר  &lrm;{0}-CRM&lrm;  CRM Plug-in לניסיון של Microsoft Office.
-crm.mailmerge.crmplugin =  &lrm;{0}-CRM&lrm;  CRM Plug-in עבור Microsoft Office
-crm.mailmerge.enableTrial = עליך להפעיל את &lrm;{0}-CRM&lrm; התוסף עבור Microsoft Office כדי להשתמש בפונקציה זו . לחץ <a href="/crm/MailMerge.do?action=OfficePlugin" class=" arial12 bluelink"> כאן </a> כדי להפעיל.
-crm.mailmerge.evaluation =  &lrm;{0}-CRM&lrm;  CRM Plug-inלמצב ההערכה של Microsoft Office
-crm.mailmerge.evaluationstatus = שלך  &lrm;{0}-CRM&lrm;  CRM Plug-in להערכה של Microsoft Office הוא פעיל <b> </b>
-crm.mailmerge.exceeds1 = להעלות תבניות נוספות , אנא לחץ כאן כדי הועיל &lrm;{0}-CRM&lrm; מנוי CRM Plug-in עבור Microsoft Office
-crm.mailmerge.iesupport = תכונה זו נתמכת רק ב-Internet Explorer 6 ומעלה . נא לגשת  &lrm;{0}-CRM&lrm;  CRM באמצעות Internet Explorerונסה ליצור מסמכי מיזוג דואר שוב.
-crm.mailmerge.note1 = דף זה עוזר לך להעלות את התבנית של Microsoft Word מיזוג דואר (ים )ב &lrm;{0}-CRM&lrm;  ה-CRM. ניתן להשתמש בתבניות אלה ליצירת מסמכי מיזוג דוארלהובלות , חשבונותואנשי קשר.
-crm.mailmerge.officeplugin =  &lrm;{0}-CRM&lrm;  CRM Plug-in עבור Microsoft Office
-crm.mailmerge.purchaseinfo = שלך  &lrm;{0}-CRM&lrm;  CRM Plug-inלמנוי של Microsoft Office הוא כיום פעילה <b> </b> .
-crm.mailmerge.subscribe = שלך  &lrm;{0}-CRM&lrm;  CRM Plug-in עבור Microsoft Office ניסיון / מנוי פג. לרכישה , לחץ <a class="bluelink" href="/crm/PlansList.do"> כאן </a>
-crm.mailmerge.templateNote = דף זה עוזר לך להוסיף את תבנית מיזוג דואר של Microsoft Wordב &lrm;{0}-CRM&lrm;  ה-CRM. ניתן להשתמש בתבניות אלה ליצירת מסמכי מיזוג דוארלהובלות , חשבונותואנשי קשר.
-crm.mailtocase.enable.product =  &lrm;{0}-CRM&lrm;  תכונת תמיכה במוצרים חכמים
-crm.mailtocase.enable.zoho.support = תמיכה יאפשר  &lrm;{0}-CRM&lrm; 
-crm.mailtocase.product.support.details =  &lrm;{0}-CRM&lrm;  תמיכה במוצרים חכמים
-crm.mailtocase.zoho.support = תמיכת  &lrm;{0}-CRM&lrm; 
-crm.migration.message.personal.account = אתה צריך להוסיף משתמש אחר לפני שתמשיך הלאה. זה חובה שיהיו לפחות שני משתמשים ב &lrm;{0}-CRM&lrm; חשבון ה-CRM שלך לפני שנודדים מהמשתמשים ה-CRM האחר.
-crm.migration.sucess = הנתונים שלך כבר הועברו בהצלחהב&lrm;#BRANDLABEL CRM&lrm; . תוכל להמשיך עם הגירה אחרת , אם בכלל .
-crm.mobile.apple.heading = הגישה ה-CRM &lrm;{0}-CRM&lrm; בiPhone Apple שלכם
-crm.mobile.apple.intro =  &lrm;{0}-CRM&lrm;  CRM עבור iPhone הואיישום מקורישמאפשר לך לגשת &lrm;{0}-CRM&lrm; חשבון ה-CRM שלך מ-iPhone שלך. תוכל לנהל את הפניות, חשבונות , אנשי קשר, פוטנציאלים ופעילויות ( משימות, אירועים , שיחות טלפון ) מודולים בדרכים.
-crm.mobile.blackberry.heading = הגישה ה-CRM &lrm;{0}-CRM&lrm; בלקברי שלך
-crm.mobile.blackberry.intro =  &lrm;{0}-CRM&lrm;  CRM עבור BlackBerry הואיישום מקורישמאפשר לך לגשת &lrm;{0}-CRM&lrm; חשבון ה-CRM שלך מ-BlackBerry שלך. תוכל לנהל את הפניות, חשבונות , אנשי קשר, פוטנציאלים ופעילויות ( משימות, אירועים , שיחות טלפון ) מודולים בדרכים.
-crm.mobile.common.heading = הגישה ה-CRM &lrm;{0}-CRM&lrm; בהתקנים ניידים שלך
-crm.mobile.common.intro =  &lrm;{0}-CRM&lrm;  CRM המהדורה ניידת מאפשרת לך לגשת למידע של לקוחות מההתקנים הניידים שלך. ניתן להוריד ולהתקין את היישום כדי לקבל גישה מיידית לחשבון ה-CRM שלך , בכל מקום ובכל זמן .
-crm.mobile.common.shortintro =  &lrm;{0}-CRM&lrm;  CRM המהדורה ניידת מאפשרת לך לגשת למידע של לקוחות מההתקנים הניידים שלך.
-crm.mobile.contact.admin = אנא פנה למנהל  &lrm;{0}-CRM&lrm;  CRM שלך כדי לאפשר Edition הנייד עבור הארגון שלך.
-crm.mobile.edition.purchase.alert = כבר אפשרו לניסיון 15 היום למהדורה ניידת . <a href="/crm/Security.do?actionName=manageSubscription&fm=tp"> לחץ כאן </a> כדי להירשם ל &lrm;{0}-CRM&lrm;  CRM Edition הנייד .
-crm.mobile.feature3 = לבצע שיחות ל &lrm;{0}-CRM&lrm;  אנשי קשר CRM שלך
-crm.mobile.license.downgrade = רישיון Edition הנייד אתה כבר הוריד . אנא <a href="/crm/Security.do?actionName=manageSubscription&fm=tp"> הירשם </a> כדי להמשיך להשתמש  &lrm;{0}-CRM&lrm;  CRM Edition הנייד .
-crm.mobile.trademark.message = השמות ולוגו עבור  &lrm;{0}-CRM&lrm;  הם סימנים מסחריים של  &lrm;{0}-CRM&lrm;  קורפ כל סימני המסחר אחרים , מותגים, או שמות מוצרים שייכים לבעלי שלהם בהתאמה .
-crm.mobile.trial.expired = תקופת הניסיון שלך פגה. נא להירשם כדי להמשיך להשתמש  &lrm;{0}-CRM&lrm;  CRM Edition הנייד .
-crm.mobileaddon.expiry.subject = 15 ימי ניסיון מהדורה ניידת פג תוקף - CRM  &lrm;{0}-CRM&lrm; 
-crm.module.not.supported.mobile = סליחה ! אתה מנסה לגשת &lrm;{0}-CRM&lrm; דף CRM Edition הנייד אשר אינו אפשריבתכנית הנוכחית שלך &lrm;{1} . לשווא את המהדורה הניידת , אתה צריך לשדרגלתוכניות גבוהות יותר.
+crm.loginname.check.message2.forOtherAccount =&rlm; <p  class="font13 floatL">המשתמש הוא כבר חלק מחשבון אחר של &lrm;{0}-CRM&lrm;</p> <img title="Close" class="floatR mt1" alt="" src="//img.zohostatic.com/crm/images/close1.gif" onclick="hideFreezeMessage('freezeMessageDiv');"><p class="clearB pB5"></p><b>ישנן שתי אפשרויות : </b>  <p class="pL10"> 1 . צייןאת כתובת דואר אלקטרוני שונה. <br> 2 . אם אתה רוצה להשתמש באותה כתובת דוא"ל , אנא בקש את המשתמש לשנות את כתובת הדואר האלקטרוני המשויכת לחשבון האחר. לפרטים נוספים : <a href="javascript:;" onclick="openHelp('https://crmkbase.zoho.com/link/adding-an-existing-zoho-user-to-my-company-account')" class="link2 pL5"> לחץ כאן </a> . </p>
+crm.loginname.check.message2.forOtherAccount.ReInvite =&rlm;<p class="font13 floatL"> המשתמש שמנסה מחדש מזמין הוא כבר חלק מעוד  &lrm;{0}-CRM&lrm;  CRM חשבון . </p> <img title="Close" class="floatR mt1" alt="" src="//img.zohostatic.com/crm/images/close1.gif" onclick="hideFreezeMessage('errorDiv');"><p class="clearB pB5"><b> ישנן שתי אפשרויות לפני שאתה מחדש - מזמין : </b></p> <p class="pL10"> 1 . ציין כתובת דוא"ל שונה עבור המשתמש. <br> 2 . אם אתה רוצה להשתמש באותה כתובת דוא"ל , אנא בקש את המשתמש לשנות את כתובת הדוא"ל המשויכת לחשבון  &lrm;{0}-CRM&lrm;  האחר. לפרטים נוספים, <a onclick="openHelp('https://crmkbase.zoho.com/link/adding-an-existing-zoho-user-to-my-company-account')" href="javascript:;"> לחץ כאן </a> </p>
+crm.loginname.check.message2.forOtherAccount.ReInvite.viaLink =&rlm;&lrm;<p class="font13 floatL">המשתמש שמנסה מחדש מזמין הוא כבר חלק מעוד  &lrm;{0}-CRM&lrm;  CRM חשבון . </p> <img title="Close" class="floatR mt1" alt="" src="//img.zohostatic.com/crm/images/close1.gif" onclick="hideFreezeMessage('errorDiv');"><p class="clearB pB5"><b>  ישנן שתי אפשרויות לפני שאתה מחדש - מזמין : </b></p>  <p class="pL10">1 . צייןכתובת דוא"ל שונה עבור המשתמש. <br> 2 . אם אתה רוצה להשתמש באותה כתובת דוא"ל , אנא בקש את המשתמש לשנות את כתובת הדוא"ל המשויכת לחשבון  &lrm;{0}-CRM&lrm;   האחר. לפרטים נוספים, <a onclick="openHelp('https://crmkbase.zoho.com/link/adding-an-existing-zoho-user-to-my-company-account')" href="javascript:;">  לחץ כאן </a>.</p>
+crm.loginname.check.message4.forAssociateUser = המשתמש עם כתובת דוא"ל זו כבר יש לו חשבון עם  &lrm;{0}-CRM&lrm; . אנא בקש את המשתמש לקבל את ההזמנה על ידי לחיצה על קישור הגישה בדואר האלקטרוני שנשלח לכתובת הדואר האלקטרוני שלו.
+crm.mail.merge.title =&rlm;  &lrm;{0}-CRM&lrm;  תבניות מיזוג דואר
+crm.mailmerge.activelink = להפעיל / לבטל תוסף &lrm;{0}-CRM&lrm;   עבור משתמשי Microsoft Office
+crm.mailmerge.adminOnly = אנא צור קשר עם המנהל לאפשר ניסיון של תוסף &lrm;{0}-CRM&lrm; עבור Microsoft Office.
+crm.mailmerge.crmplugin =תוסף &lrm;{0}-CRM&lrm;  עבור Microsoft Office
+crm.mailmerge.enableTrial = עליך להפעיל את תוסף &lrm;{0}-CRM&lrm; עבור Microsoft Office כדי להשתמש בפונקציה זו . לחץ <a href="/crm/MailMerge.do?action=OfficePlugin" class=" arial12 bluelink"> כאן </a> כדי להפעיל.
+crm.mailmerge.evaluation =הערכת סטטוס עבור תוסף Microsoft Office עבור &lrm;{0}-CRM&lrm; 
+crm.mailmerge.evaluationstatus =תוסף &lrm;{0}-CRM&lrm; שלך עבור Microsoft Office  <b>פעיל ומוכן להערכה </b>
+crm.mailmerge.exceeds1 =על מנת להעלות תבניות נוספות , אנא לחץ כאן כדי לאפשר ביצוע מנוי על תוסף &lrm;{0}-CRM&lrm; עבור Microsoft Office
+crm.mailmerge.iesupport = תכונה זו נתמכת רק ב-Internet Explorer 6 ומעלה . נא לגשת אל &lrm;{0}-CRM&lrm;  באמצעות Internet Explorer ונסה שוב ליצור מסמכי מיזוג דואר 
+crm.mailmerge.note1 = דף זה עוזר לך להעלות את התבנית של מיזוג דואר ב Microsoft Word &lrm;{0}-CRM&lrm; . ניתן להשתמש בתבניות אלה ליצירת מסמכי מיזוג דואר אל לידים, חשבונות ואנשי קשר.
+crm.mailmerge.officeplugin =תוסף &lrm;{0}-CRM&lrm; עבור Microsoft Office
+crm.mailmerge.purchaseinfo =תוסף &lrm;{0}-CRM&lrm; מנוי של Microsoft Office  <b>נמצא במצב פעיל  </b> .
+crm.mailmerge.subscribe =פג תקף המנוי לניסיון שלך עבור תוסף   &lrm;{0}-CRM&lrm;  עבור Microsoft Office. לרכישה - לחץ <a class="bluelink" href="/crm/PlansList.do"> כאן </a>
+crm.mailmerge.templateNote = דף זה עוזר לך להוסיף את תבנית מיזוג דואר של Microsoft Word ב &lrm;{0}-CRM&lrm;  ה-CRM. ניתן להשתמש בתבניות אלה ליצירת מסמכי מיזוג דואר אל לידים, חשבונות ואנשי קשר.
+crm.mailtocase.enable.product =תכונת תמיכה לפי מוצרים ב &lrm;{0}&lrm;
+crm.mailtocase.enable.zoho.support =אפשר תמיכה של &lrm;{0}&lrm; 
+crm.mailtocase.product.support.details =תמיכה לפי מוצרים של &lrm;{0}&lrm;
+crm.mailtocase.zoho.support = תמיכה ב  &lrm;{0}&lrm; 
+crm.migration.message.personal.account =עליך להוסיף עוד משתמש לפני שתמשיך הלאה. זה חובה שיהיו לפחות שני משתמשים ב &lrm;{0}-CRM&lrm; לפני שמייבאים משתמשים מ CRM אחר.
+crm.migration.sucess = הנתונים שלך כבר הועברו בהצלחה ב &lrm;.#BRANDLABEL CRM&lrm; תוכל להמשיך בהעברת נתונים נוספים אם נחוץ.
+crm.mobile.apple.heading = גש אל -CRM &lrm;{0}-CRM&lrm; ב Apple iPhone שלך
+crm.mobile.apple.intro =  &lrm;{0}-CRM&lrm;  עבור iPhone הוא יישום מקורי שמאפשר לך לגשת &lrm;{0}-CRM&lrm; חשבון ה-CRM שלך מ-iPhone שלך. תוכל לנהל את הפניות, חשבונות , אנשי קשר, פוטנציאלים ופעילויות ( משימות, אירועים , שיחות טלפון ) מודולים בדרכים.
+crm.mobile.blackberry.heading =גש אל -CRM &lrm;{0}-CRM&lrm; דרך הבלקברי שלך
+crm.mobile.blackberry.intro =&rlm;  &lrm;{0}-CRM&lrm;  עבור BlackBerry הוא יישום מקורי שמאפשר לך לגשת אל חשבון &lrm;{0}-CRM&lrm;  שלך מ-BlackBerry שלך. תוכל לנהל את הפניות, חשבונות , אנשי קשר, פוטנציאלים ופעילויות ( משימות, אירועים , שיחות טלפון ) מודולים בדרכים.
+crm.mobile.common.heading =גש אל &lrm;{0}-CRM&lrm; דרך התקנים ניידים שלך
+crm.mobile.common.intro =המהדורה הניידת של &lrm;{0}-CRM&lrm;  מאפשרת לך לגשת למידע של לקוחות מההתקנים הניידים שלך. ניתן להוריד ולהתקין את היישום כדי לקבל גישה מיידית לחשבון ה-CRM שלך , בכל מקום ובכל זמן .
+crm.mobile.common.shortintro =המהדורה הניידת של &lrm;{0}-CRM&lrm;  המ מאפשרת לך לגשת למידע של לקוחות מההתקנים הניידים שלך.
+crm.mobile.contact.admin = אנא פנה למנהל  &lrm;{0}-CRM&lrm;  שלך כדי לאפשר את המהדורה הניידת עבור הארגון שלך.
+crm.mobile.edition.purchase.alert = כבר אפשרו לך ניסיון 15 יום של המהדורה הניידת. <a href="/crm/Security.do?actionName=manageSubscription&fm=tp"> לחץ כאן </a> כדי להירשם למהדורה הניידת של &lrm;{0}-CRM&lrm;.
+crm.mobile.feature3 =בצע שיחות אל אנשי הקשר שלך ב &lrm;{0}-CRM&lrm; 
+crm.mobile.license.downgrade = רישיון המהדורה הניידת כבר הורד. אנא <a href="/crm/Security.do?actionName=manageSubscription&fm=tp"> הירשם </a> כדי להמשיך להשתמש במהדורה הניידת של &lrm;{0}-CRM&lrm;.
+crm.mobile.trademark.message = השמות והלוגו של &lrm;{0}-CRM&lrm;  הם סימנים מסחריים של &lrm;{0}-CRM&lrm; כל  סימני המסחר אחרים , מותגים, או שמות מוצרים שייכים לבעלים שלהם בהתאמה.
+crm.mobile.trial.expired = תקופת הניסיון שלך פגה. נא להירשם כדי להמשיך להשתמש במהדורה הניידת של  &lrm;{0}-CRM&lrm;.
+crm.mobileaddon.expiry.subject =פג תקף  15 ימי הניסיון של המהדורה הניידת עבור &lrm;{0}-CRM&lrm; 
+crm.module.not.supported.mobile = סליחה! אתה מנסה לגשת אל דף המהדורה הניידת של &lrm;{0}-CRM&lrm;  הנייד אשר אינו אפשריבתכנית הנוכחית שלך &lrm;{1} . לשווא את המהדורה הניידת , אתה צריך לשדרגלתוכניות גבוהות יותר.
 crm.multicurrency.activation.mail.subject = CRM  &lrm;{0}-CRM&lrm;  - Multi המטבע הופעל
 crm.new.account.welcomeMsg1 = יש הארגון שליחשבון ב-CRM  &lrm;{0}-CRM&lrm; 
 crm.new.account.welcomeMsg2 = צור קשר עם מנהל CRM שלך ל &lrm;{0}-CRM&lrm; גישת ה-CRM
@@ -561,7 +561,7 @@ crm.new.gapp.add.task.note = ניתן לייצא משימות מ &lrm;{0}-CRM&l
 crm.newfree.banner.info = חסוך 10% - קבל=<סגנון " צבע : לבן ; טקסט קישוט : קו תחתון ; " href="/crm/Security.do?actionName=manageSubscription&fm=bn">annual&nbsp;subscription</a>&nbsp;to&nbsp; &lrm;{0}-CRM&lrm; &nbsp;CRM
 crm.newrelatedlist.label.fieldMapping = מפת השדות המותאם אישית App שלך &lrm;{0}-CRM&lrm;  שדות CRM המתאימים כדי לקבל את המידע הקונטקסטואלי של האפליקציה שלך בתוך  &lrm;{0}-CRM&lrm;  ה-CRM.
 crm.newrelatedlist.label.zohocreatorapps.desc = היישומים המותאמים אישיתשכבר הוסיפו באמצעות  &lrm;{0}-CRM&lrm;  הקריאיטור הוא מפורטים להלן . לקחת את הבחירה שלך כדי לעשות את זה כמו הרשימה בנושא שלך.
-crm.notify.owner.title2 =  &lrm;{0}-CRM&lrm;  CRM - יש לךחדש
+crm.notify.owner.title2 =  &lrm;{0}-CRM&lrm; יש לך חדש
 crm.office.plugin.instruction =  &lrm;{0}-CRM&lrm;  CRM Plug-in עבור Microsoft Office הואשיפור עסקי תוספת על שעוזר לך ליצור מסמכי מיזוג דוארלהובלות , חשבונות ,ואנשי קשר.
 crm.officeplugin.activatationinfo = שלך  &lrm;{0}-CRM&lrm;  CRM התוסף עבור מצב משתמש של Microsoft Office הוא <b> פעיל </b> .
 crm.officeplugin.disabled = שלך  &lrm;{0}-CRM&lrm;  CRM התוסף עבור מצב משתמש של Microsoft Office הוא  <b>משותק</b> . אנא לחץ <a href="/crm/License.do?actionType=LicenseUsers"> כאן </a> כדי להפעיל או פנו למנהל  &lrm;{0}-CRM&lrm;  CRM שלך .
